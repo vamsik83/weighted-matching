@@ -1,0 +1,123 @@
+#
+# Makefile template:
+# vamsi.krishnak@gmail.com ,  June 24,2006.
+#
+CC = cl 
+LD = cl 
+AR = ar
+
+
+CSRCS = ReadSparse.cpp \
+ 		Heap.cpp 
+#		DoubleHeap.c
+#		BipartiteC.c
+CPPSRCS = Bipartite.cpp
+
+CSRCS += MeasureTime.cpp
+
+ifeq ($(PF),i686)
+	CSRCS += MC64Driver.c
+endif
+
+LOCAL_LIBS += -lm 
+			
+MC64_LIBPATH=/home/kundeti/work/ReorderMatrix/lib/
+			
+DEPEND_INCLUDE += -I/usr/include/linux -I/usr/local/include
+		
+AR_FLAGS += rc
+OBJS = $(CSRCS:.c=.o)
+OBJS += $(CPPSRCS:.cpp=.o) 
+
+LOCAL_CFLAGS +=  #-ffloat-store #-mfpmath=sse
+
+ifeq ($(DEBUG),1)
+	LOCAL_CFLAGS += -g
+    LOCAL_CFLAGS += -DVERBOSE_DEBUG
+endif
+
+ifeq ($(PROFILE),1)
+	LOCAL_CFLAGS += -pg
+	LD += -pg
+endif
+
+ifeq ($(PF),x86_64)
+ LOCAL_CFLAGS += -DSOLARIS=1
+ LD += -DSOLARIS
+ PROJECT_NAME = bipartite1-linux64
+endif
+
+ifeq ($(PF),win32)
+ LOCAL_CFLAGS += /DSOLARIS=1 /DWIN32=1 /I.
+ LD += /DWIN32=1  /I.
+ PROJECT_NAME = bipartite1-win32
+endif
+
+
+ifeq ($(PF),i686)
+LOCAL_LIBS += -lordering
+PROJECT_NAME = bipartite1
+endif
+
+
+ifeq ($(RELEASE),1) 
+LOCAL_CFLAGS += -DNO_UNIT_TEST
+endif
+
+ifeq ($(STANDALONE),1)
+LOCAL_CFLAGS += -DSTANDALONE_MODE
+endif
+
+
+ifeq ($(NO_WARNINGS), 1)
+	LOCAL_CFLAGS += -Wall
+endif
+
+
+ifeq ($(USE_MC21),1)
+	LOCAL_CFLAGS += -DUSE_MC21
+	PROJECT_NAME = bipartite1-mc21
+endif
+
+
+unit_test_bipartite: $(OBJS)
+	@echo "........Linking..$(PROJECT_NAME) ......."	
+	$(LD) $(OBJS) -o $(PROJECT_NAME) -L$(MC64_LIBPATH) $(LOCAL_LIBS)
+
+unit_test_mc21: $(OBJS)
+	@echo ".......Building MC21........"
+	$(LD) $(OBJS) -o $(PROJECT_NAME) -L$(MC64_LIBPATH) $(LOCAL_LIBS)
+
+mc64_performance: CreateMC64PermFile.c
+	@echo ".........building MC64 Perm generator......."
+	$(CC) -o  mc64_program -O3 -DPERFORMANCE_TEST CreateMC64PermFile.c MeasureTime.c -L$(MC64_LIBPATH) $(LOCAL_LIBS)
+
+create_m64_perm : CreateMC64PermFile.c 
+	@echo ".........building MC64 Perm generator......."
+	$(CC) -o  create_perm -O3 CreateMC64PermFile.c MeasureTime.c -L$(MC64_LIBPATH) $(LOCAL_LIBS)
+
+
+y.tab.c: sp.y sp.h
+	yacc -d sp.y
+
+lex.yy.c: in.l
+	lex in.l
+
+#Rules to build c files
+.c.o:
+	$(CC) /I. $(CFLAGS) $(LOCAL_CFLAGS) $(LAPACK_INCLUDE) $(LOCAL_DEFINES) /c $<
+
+.cpp.o:
+	$(CC) /I. $(CFLAGS) $(LOCAL_CFLAGS) $(LAPACK_INCLUDE) $(LOCAL_DEFINES) /c $<
+
+clean:
+	find . -name "*.o" -exec rm -rf \{\} \; -print
+	find . -name "y.tab.*" -exec rm -rf \{\} \; -print
+	find . -name "lex.yy.c" -exec rm -rf \{\} \; -print
+	find . -name "sape" -exec rm -rf \{\} \; -print
+	find . -name "*.so" -exec rm -rf \{\} \; -print
+
+
+depend: $(SRCS)
+	makedepend $(DEPEND_INCLUDE) $(LAPACK_INCLUDE) $(INCLUDES) $^
+# DO NOT DELETE

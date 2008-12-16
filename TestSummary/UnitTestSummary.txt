@@ -1,0 +1,29 @@
+MULTIPLE SOLUTIONS:
+------------------
+scripts/catfish_init_guess_only.sp.test [PASSED]
+scripts/catfish.sp.test  [PASSED]
+scripts/diff_vias.sp.test  [PASSED]
+scripts/singapore.sp.test  [PASSED]
+scripts/sl_differential_TRL_electrical_LNA.sp.test [PASSED]
+scripts/multphasevco.sp.test  [PASSED]
+
+SINGULAR:
+---------
+scripts/test_3_state_diff_pin.sp.test [SINGULAR]
+scripts/test_ecl.sp.test [SINGULAR]
+scripts/test_input_diff_pin.sp.test [SINGULAR]
+scripts/test_output_diff_pin.sp.test [SINGULAR]
+scripts/test_output_pin0.sp.test [SINGULAR]
+scripts/test_output_pin1.sp.test [SINGULAR]
+scripts/mesh_rlc.sp.test  [SINGULAR]
+
+
+PRODUCT INFINITY:
+----------------
+scripts/bot_c_dr20.sp.test [PRODUCT INFINITY]
+scripts/uwb_rx_v3.sp.test [PRODUCT INFINITY] 
+scripts/Molex_lna.sp.test  [PRODUCT INFINITY]
+
+HAS INFINITY IN MNA:
+-------------------
+scripts/resmin_vs_cleanup_5.sp.test  [HAS INF in MNA matrix]

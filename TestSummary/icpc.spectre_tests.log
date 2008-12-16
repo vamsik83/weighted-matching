@@ -1,0 +1,442 @@
+./bipartite1 ../Test/Spectre_Tests/test_input_spectre.scs.test
+../Test/Spectre_Tests/test_input_spectre.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/isource_pulse_pos_1.scs.test
+../Test/Spectre_Tests/isource_pulse_pos_1.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/res_r_5.scs.test
+../Test/Spectre_Tests/res_r_5.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/bsim3v3_process.scs.test
+../Test/Spectre_Tests/bsim3v3_process.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/r2_option_firstrun.scs.test
+../Test/Spectre_Tests/r2_option_firstrun.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/mi_pos_3way.scs.test
+../Test/Spectre_Tests/mi_pos_3way.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/bsim3v3_vtho_2.scs.test
+../Test/Spectre_Tests/bsim3v3_vtho_2.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/test_output_spectre.scs.test
+../Test/Spectre_Tests/test_output_spectre.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/scoping_2d.scs.test
+../Test/Spectre_Tests/scoping_2d.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/diode_control.scs.test
+../Test/Spectre_Tests/diode_control.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/isource_pwl_pos_1.scs.test
+../Test/Spectre_Tests/isource_pwl_pos_1.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/functions_1.scs.test
+../Test/Spectre_Tests/functions_1.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/if_else.scs.test
+../Test/Spectre_Tests/if_else.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/r2_uniform_stdn_check2.scs.test
+../Test/Spectre_Tests/r2_uniform_stdn_check2.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/inputvco_osc.scs.test
+../Test/Spectre_Tests/inputvco_osc.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/r2_option_saveprocessvec.scs.test
+../Test/Spectre_Tests/r2_option_saveprocessvec.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/test_input_diff_pin_hspice.scs.test
+../Test/Spectre_Tests/test_input_diff_pin_hspice.scs.test :: FAILED
+./bipartite1 ../Test/Spectre_Tests/transformer_pos_1.scs.test
+../Test/Spectre_Tests/transformer_pos_1.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/bjt_noise.scs.test
+../Test/Spectre_Tests/bjt_noise.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/test_io_hspice_ramp.scs.test
+../Test/Spectre_Tests/test_io_hspice_ramp.scs.test :: FAILED
+./bipartite1 ../Test/Spectre_Tests/res_m_3.scs.test
+../Test/Spectre_Tests/res_m_3.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/isource_exp_pos_2.scs.test
+../Test/Spectre_Tests/isource_exp_pos_2.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/res_scale_3.scs.test
+../Test/Spectre_Tests/res_scale_3.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/pcccs_pos_1.scs.test
+../Test/Spectre_Tests/pcccs_pos_1.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/bsim03.scs.test
+../Test/Spectre_Tests/bsim03.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/bjt_3.scs.test
+../Test/Spectre_Tests/bjt_3.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/which_sim_1.scs.test
+../Test/Spectre_Tests/which_sim_1.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/delay_pos_1.scs.test
+../Test/Spectre_Tests/delay_pos_1.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/s_element_test_ref_Z0.scs.test
+../Test/Spectre_Tests/s_element_test_ref_Z0.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/cont_2.scs.test
+../Test/Spectre_Tests/cont_2.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/r2_mismatch_only.scs.test
+../Test/Spectre_Tests/r2_mismatch_only.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/pvcvs_pos_1.scs.test
+../Test/Spectre_Tests/pvcvs_pos_1.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/bjt_cap.scs.test
+../Test/Spectre_Tests/bjt_cap.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/comprt.scs.test
+../Test/Spectre_Tests/comprt.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/res_r_2.scs.test
+../Test/Spectre_Tests/res_r_2.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/lnaMixer_flat.scs.test
+../Test/Spectre_Tests/lnaMixer_flat.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/convergence_problem.scs.test
+../Test/Spectre_Tests/convergence_problem.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/r2_option_saveprocessparams.scs.test
+../Test/Spectre_Tests/r2_option_saveprocessparams.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/res_temp.scs.test
+../Test/Spectre_Tests/res_temp.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/bjt_parasitics.scs.test
+../Test/Spectre_Tests/bjt_parasitics.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/bsim04.scs.test
+../Test/Spectre_Tests/bsim04.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/bjt_4.scs.test
+../Test/Spectre_Tests/bjt_4.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/svccs_sr_1st_order.scs.test
+../Test/Spectre_Tests/svccs_sr_1st_order.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/scoping.scs.test
+../Test/Spectre_Tests/scoping.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/diode_breakdown.scs.test
+../Test/Spectre_Tests/diode_breakdown.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/mi_pos_1.scs.test
+../Test/Spectre_Tests/mi_pos_1.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/dcnoise_lna_case1.scs.test
+../Test/Spectre_Tests/dcnoise_lna_case1.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/mr78512.scs.test
+../Test/Spectre_Tests/mr78512.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/bjt_scale.scs.test
+../Test/Spectre_Tests/bjt_scale.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/bsim3v3_tran_01.scs.test
+../Test/Spectre_Tests/bsim3v3_tran_01.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/mi_in_subckt.scs.test
+../Test/Spectre_Tests/mi_in_subckt.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/test_input_diff_pin_spectre.scs.test
+../Test/Spectre_Tests/test_input_diff_pin_spectre.scs.test :: FAILED
+./bipartite1 ../Test/Spectre_Tests/res_scale_2.scs.test
+../Test/Spectre_Tests/res_scale_2.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/diode_parasitics.scs.test
+../Test/Spectre_Tests/diode_parasitics.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/res_m_2.scs.test
+../Test/Spectre_Tests/res_m_2.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/r2_model_param1.scs.test
+../Test/Spectre_Tests/r2_model_param1.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/pma_refine.scs.test
+../Test/Spectre_Tests/pma_refine.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/TRAN_XOSC_net_0407_01.scs.test
+../Test/Spectre_Tests/TRAN_XOSC_net_0407_01.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/bjt_2.scs.test
+../Test/Spectre_Tests/bjt_2.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/r2_hybrid_test3.scs.test
+../Test/Spectre_Tests/r2_hybrid_test3.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/bsim02.scs.test
+../Test/Spectre_Tests/bsim02.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/bjt_cap_2.scs.test
+../Test/Spectre_Tests/bjt_cap_2.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/diode_junction.scs.test
+../Test/Spectre_Tests/diode_junction.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/bsource_r_1.scs.test
+../Test/Spectre_Tests/bsource_r_1.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/res_1.scs.test
+../Test/Spectre_Tests/res_1.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/res_r_4.scs.test
+../Test/Spectre_Tests/res_r_4.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/cccs_pos_1.scs.test
+../Test/Spectre_Tests/cccs_pos_1.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/bsim3v3_temperature.scs.test
+../Test/Spectre_Tests/bsim3v3_temperature.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/vbic01.scs.test
+../Test/Spectre_Tests/vbic01.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/res_thresh_resform.scs.test
+../Test/Spectre_Tests/res_thresh_resform.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/r2_uniform_stdn_check3.scs.test
+../Test/Spectre_Tests/r2_uniform_stdn_check3.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/comment_2.scs.test
+../Test/Spectre_Tests/comment_2.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/mi_neg_1.scs.test
+../Test/Spectre_Tests/mi_neg_1.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/bsim3v3_lod.scs.test
+../Test/Spectre_Tests/bsim3v3_lod.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/bjt_5.scs.test
+../Test/Spectre_Tests/bjt_5.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/r2_option_saveprocessparams_negate.scs.test
+../Test/Spectre_Tests/r2_option_saveprocessparams_negate.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/bsim05.scs.test
+../Test/Spectre_Tests/bsim05.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/mc_option_no_nominal.scs.test
+../Test/Spectre_Tests/mc_option_no_nominal.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/vsource_exp_pos_1.scs.test
+../Test/Spectre_Tests/vsource_exp_pos_1.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/isource_sine_pos_1.scs.test
+../Test/Spectre_Tests/isource_sine_pos_1.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/maxstep_1.scs.test
+../Test/Spectre_Tests/maxstep_1.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/diode_temperature.scs.test
+../Test/Spectre_Tests/diode_temperature.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/vsource_1.scs.test
+../Test/Spectre_Tests/vsource_1.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/bjt_region.scs.test
+../Test/Spectre_Tests/bjt_region.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/vcvs_pos_1.scs.test
+../Test/Spectre_Tests/vcvs_pos_1.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/isource_1.scs.test
+../Test/Spectre_Tests/isource_1.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/vsource_sine_pos_1.scs.test
+../Test/Spectre_Tests/vsource_sine_pos_1.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/relay_pos_1.scs.test
+../Test/Spectre_Tests/relay_pos_1.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/scoping_spectre_compatible.scs.test
+../Test/Spectre_Tests/scoping_spectre_compatible.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/vbic06.scs.test
+../Test/Spectre_Tests/vbic06.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/mi_pos_5way.scs.test
+../Test/Spectre_Tests/mi_pos_5way.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/svccs_pos_1.scs.test
+../Test/Spectre_Tests/svccs_pos_1.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/r2_uniform_stdn_check4.scs.test
+../Test/Spectre_Tests/r2_uniform_stdn_check4.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/bsource_phi_1.scs.test
+../Test/Spectre_Tests/bsource_phi_1.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/r2_no_montecarlo_check1.scs.test
+../Test/Spectre_Tests/r2_no_montecarlo_check1.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/test2.scs.test
+../Test/Spectre_Tests/test2.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/bsim3v3_1.scs.test
+../Test/Spectre_Tests/bsim3v3_1.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/svcvs_sr_1st_order.scs.test
+../Test/Spectre_Tests/svcvs_sr_1st_order.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/tline.scs.test
+../Test/Spectre_Tests/tline.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/vsource_pwl_pos_2.scs.test
+../Test/Spectre_Tests/vsource_pwl_pos_2.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/res_r_3.scs.test
+../Test/Spectre_Tests/res_r_3.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/comment_neg_2.scs.test
+../Test/Spectre_Tests/comment_neg_2.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/psptest.scs.test
+../Test/Spectre_Tests/psptest.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/svcvs_pos_1.scs.test
+../Test/Spectre_Tests/svcvs_pos_1.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/vbic05.scs.test
+../Test/Spectre_Tests/vbic05.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/dcnoise_nex.scs.test
+../Test/Spectre_Tests/dcnoise_nex.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/boeing_dc.scs.test
+../Test/Spectre_Tests/boeing_dc.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/diode_noise.scs.test
+../Test/Spectre_Tests/diode_noise.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/r2_test_mc.scs.test
+../Test/Spectre_Tests/r2_test_mc.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/bsim3v3_2.scs.test
+../Test/Spectre_Tests/bsim3v3_2.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/vsource_pwl_pos_1.scs.test
+../Test/Spectre_Tests/vsource_pwl_pos_1.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/r2_no_montecarlo_check2.scs.test
+../Test/Spectre_Tests/r2_no_montecarlo_check2.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/test1.scs.test
+../Test/Spectre_Tests/test1.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/vsource_exp_pos_2.scs.test
+../Test/Spectre_Tests/vsource_exp_pos_2.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/maxstep_2.scs.test
+../Test/Spectre_Tests/maxstep_2.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/test_3_state_hspice_ramp.scs.test
+../Test/Spectre_Tests/test_3_state_hspice_ramp.scs.test :: FAILED
+./bipartite1 ../Test/Spectre_Tests/which_sim_4.scs.test
+../Test/Spectre_Tests/which_sim_4.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/test_output_diff_pin_hspice_ramp.scs.test
+../Test/Spectre_Tests/test_output_diff_pin_hspice_ramp.scs.test :: FAILED
+./bipartite1 ../Test/Spectre_Tests/simple_resistive.scs.test
+../Test/Spectre_Tests/simple_resistive.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/r2_hybrid_test7.scs.test
+../Test/Spectre_Tests/r2_hybrid_test7.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/input.nexxim.scs.test
+../Test/Spectre_Tests/input.nexxim.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/r2_hybrid_test8.scs.test
+../Test/Spectre_Tests/r2_hybrid_test8.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/bjt_6.scs.test
+../Test/Spectre_Tests/bjt_6.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/bsim06.scs.test
+../Test/Spectre_Tests/bsim06.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/vccs_pos_1.scs.test
+../Test/Spectre_Tests/vccs_pos_1.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/unittest2_spec.scs.test
+../Test/Spectre_Tests/unittest2_spec.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/bsim3v3_tran_03.scs.test
+../Test/Spectre_Tests/bsim3v3_tran_03.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/bjt_neg_2.scs.test
+../Test/Spectre_Tests/bjt_neg_2.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/mi_out_of_subckt.scs.test
+../Test/Spectre_Tests/mi_out_of_subckt.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/test_input_hspice.scs.test
+../Test/Spectre_Tests/test_input_hspice.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/r2_two_analysis.scs.test
+../Test/Spectre_Tests/r2_two_analysis.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/res_r_7.scs.test
+../Test/Spectre_Tests/res_r_7.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/res_r_8.scs.test
+../Test/Spectre_Tests/res_r_8.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/vco_mixer.scs.test
+../Test/Spectre_Tests/vco_mixer.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/input.scs.test
+../Test/Spectre_Tests/input.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/ccvs_pos_1.scs.test
+../Test/Spectre_Tests/ccvs_pos_1.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/r2_process_only.scs.test
+../Test/Spectre_Tests/r2_process_only.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/res_2.scs.test
+../Test/Spectre_Tests/res_2.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/r2_uniform_stdn_check0.scs.test
+../Test/Spectre_Tests/r2_uniform_stdn_check0.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/diode_scale.scs.test
+../Test/Spectre_Tests/diode_scale.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/mi_m_1.scs.test
+../Test/Spectre_Tests/mi_m_1.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/mi_neg_2.scs.test
+../Test/Spectre_Tests/mi_neg_2.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/subckt.scs.test
+../Test/Spectre_Tests/subckt.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/vbic02.scs.test
+../Test/Spectre_Tests/vbic02.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/vdc_noise.scs.test
+../Test/Spectre_Tests/vdc_noise.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/res_scale_1.scs.test
+../Test/Spectre_Tests/res_scale_1.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/shoot_input.nexxim.scs.test
+../Test/Spectre_Tests/shoot_input.nexxim.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/bsim3v3_nqs.scs.test
+../Test/Spectre_Tests/bsim3v3_nqs.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/bjt_structural.scs.test
+../Test/Spectre_Tests/bjt_structural.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/res_m_1.scs.test
+../Test/Spectre_Tests/res_m_1.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/bsource_i_1.scs.test
+../Test/Spectre_Tests/bsource_i_1.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/r2_model_param2.scs.test
+../Test/Spectre_Tests/r2_model_param2.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/test_io_diff_pin_hspice_ramp.scs.test
+../Test/Spectre_Tests/test_io_diff_pin_hspice_ramp.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/vsource_pulse_pos_1.scs.test
+../Test/Spectre_Tests/vsource_pulse_pos_1.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/res_RC.scs.test
+../Test/Spectre_Tests/res_RC.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/which_sim_3.scs.test
+../Test/Spectre_Tests/which_sim_3.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/bjt_1.scs.test
+../Test/Spectre_Tests/bjt_1.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/bjt_leakage.scs.test
+../Test/Spectre_Tests/bjt_leakage.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/bsim01.scs.test
+../Test/Spectre_Tests/bsim01.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/one_of_everything_spectre.scs.test
+../Test/Spectre_Tests/one_of_everything_spectre.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/test_3_state_spectre.scs.test
+../Test/Spectre_Tests/test_3_state_spectre.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/bsim07.scs.test
+../Test/Spectre_Tests/bsim07.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/bjt_7.scs.test
+../Test/Spectre_Tests/bjt_7.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/r2_hybrid_test9.scs.test
+../Test/Spectre_Tests/r2_hybrid_test9.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/bsource_l_1.scs.test
+../Test/Spectre_Tests/bsource_l_1.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/bsim3v3_tran_02.scs.test
+../Test/Spectre_Tests/bsim3v3_tran_02.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/mi_pos_2.scs.test
+../Test/Spectre_Tests/mi_pos_2.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/res_nonlinear.scs.test
+../Test/Spectre_Tests/res_nonlinear.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/boeing_lna.scs.test
+../Test/Spectre_Tests/boeing_lna.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/mi_neg_4.scs.test
+../Test/Spectre_Tests/mi_neg_4.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/mi_neg_5way.scs.test
+../Test/Spectre_Tests/mi_neg_5way.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/dgmosvarcap_nexxim_tran.scs.test
+../Test/Spectre_Tests/dgmosvarcap_nexxim_tran.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/test_3_state_diff_pin_spectre.scs.test
+../Test/Spectre_Tests/test_3_state_diff_pin_spectre.scs.test :: FAILED
+./bipartite1 ../Test/Spectre_Tests/test_output_hspice_ramp.scs.test
+../Test/Spectre_Tests/test_output_hspice_ramp.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/diode_level2.scs.test
+../Test/Spectre_Tests/diode_level2.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/jjb_rlc_lna.scs.test
+../Test/Spectre_Tests/jjb_rlc_lna.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/rlcd_sp.scs.test
+../Test/Spectre_Tests/rlcd_sp.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/test_io_diff_pin_spectre.scs.test
+../Test/Spectre_Tests/test_io_diff_pin_spectre.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/bjt_temperature.scs.test
+../Test/Spectre_Tests/bjt_temperature.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/vbic04.scs.test
+../Test/Spectre_Tests/vbic04.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/test_3_state_diff_pin_hspice_ramp.scs.test
+../Test/Spectre_Tests/test_3_state_diff_pin_hspice_ramp.scs.test :: FAILED
+./bipartite1 ../Test/Spectre_Tests/mi_params_first.scs.test
+../Test/Spectre_Tests/mi_params_first.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/res_r_1.scs.test
+../Test/Spectre_Tests/res_r_1.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/pvccs_pos_1.scs.test
+../Test/Spectre_Tests/pvccs_pos_1.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/mr61977.scs.test
+../Test/Spectre_Tests/mr61977.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/mtline.scs.test
+../Test/Spectre_Tests/mtline.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/vsource_dc_pos_1.scs.test
+../Test/Spectre_Tests/vsource_dc_pos_1.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/bsource_v_1.scs.test
+../Test/Spectre_Tests/bsource_v_1.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/bsim3v3_3.scs.test
+../Test/Spectre_Tests/bsim3v3_3.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/bjt_imelt.scs.test
+../Test/Spectre_Tests/bjt_imelt.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/r2_no_montecarlo_check3.scs.test
+../Test/Spectre_Tests/r2_no_montecarlo_check3.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/ro_17.scs.test
+../Test/Spectre_Tests/ro_17.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/isource_exp_pos_1.scs.test
+../Test/Spectre_Tests/isource_exp_pos_1.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/oneshot.scs.test
+../Test/Spectre_Tests/oneshot.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/nport_resistor_with_cap_s.scs.test
+../Test/Spectre_Tests/nport_resistor_with_cap_s.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/isource_dc_pos_1.scs.test
+../Test/Spectre_Tests/isource_dc_pos_1.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/pccvs_pos_1.scs.test
+../Test/Spectre_Tests/pccvs_pos_1.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/bsource_q_1.scs.test
+../Test/Spectre_Tests/bsource_q_1.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/which_sim_2.scs.test
+../Test/Spectre_Tests/which_sim_2.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/alt_input.nexxim.scs.test
+../Test/Spectre_Tests/alt_input.nexxim.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/r2_option_donominal.scs.test
+../Test/Spectre_Tests/r2_option_donominal.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/diode_cap.scs.test
+../Test/Spectre_Tests/diode_cap.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/spectre_ac.scs.test
+../Test/Spectre_Tests/spectre_ac.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/res_r_10.scs.test
+../Test/Spectre_Tests/res_r_10.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/r2_hybrid_test1.scs.test
+../Test/Spectre_Tests/r2_hybrid_test1.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/test_io_spectre.scs.test
+../Test/Spectre_Tests/test_io_spectre.scs.test :: FAILED
+./bipartite1 ../Test/Spectre_Tests/res_r_9.scs.test
+../Test/Spectre_Tests/res_r_9.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/res_noise.scs.test
+../Test/Spectre_Tests/res_noise.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/res_r_6.scs.test
+../Test/Spectre_Tests/res_r_6.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/bsim3v3_4.scs.test
+../Test/Spectre_Tests/bsim3v3_4.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/mi_neg_syntax_2.scs.test
+../Test/Spectre_Tests/mi_neg_syntax_2.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/r2_no_montecarlo_check4.scs.test
+../Test/Spectre_Tests/r2_no_montecarlo_check4.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/philips_01.scs.test
+../Test/Spectre_Tests/philips_01.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/test_output_diff_pin_spectre.scs.test
+../Test/Spectre_Tests/test_output_diff_pin_spectre.scs.test :: FAILED
+./bipartite1 ../Test/Spectre_Tests/isource_pwl_pos_2.scs.test
+../Test/Spectre_Tests/isource_pwl_pos_2.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/mi_neg_3.scs.test
+../Test/Spectre_Tests/mi_neg_3.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/r2_uniform_stdn_check1.scs.test
+../Test/Spectre_Tests/r2_uniform_stdn_check1.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/bsim3v3_vtho_1.scs.test
+../Test/Spectre_Tests/bsim3v3_vtho_1.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/ic_01.scs.test
+../Test/Spectre_Tests/ic_01.scs.test :: PASSED
+./bipartite1 ../Test/Spectre_Tests/vbic03.scs.test
+../Test/Spectre_Tests/vbic03.scs.test :: PASSED
+TOTAL: 220
+PASSED: 211
