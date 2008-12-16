@@ -1,0 +1,443 @@
+./bipartite1-win32.exe TranTests/bjt_mixer.sp.tran.test
+./bipartite1-win32.exe TranTests/bjt_mixer.sp.tran.test
+TranTests/bjt_mixer.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/pat_trtf.sp.tran.test
+./bipartite1-win32.exe TranTests/pat_trtf.sp.tran.test
+TranTests/pat_trtf.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/dependent_vsource.sp.tran.test
+./bipartite1-win32.exe TranTests/dependent_vsource.sp.tran.test
+TranTests/dependent_vsource.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/w_eric_bracken_table.sp.tran.test
+./bipartite1-win32.exe TranTests/w_eric_bracken_table.sp.tran.test
+TranTests/w_eric_bracken_table.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/gp_bjt_npns2_tran.sp.tran.test
+./bipartite1-win32.exe TranTests/gp_bjt_npns2_tran.sp.tran.test
+TranTests/gp_bjt_npns2_tran.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/s_element_test_cap0822.sp.tran.test
+./bipartite1-win32.exe TranTests/s_element_test_cap0822.sp.tran.test
+TranTests/s_element_test_cap0822.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/quickeye_crosstalk_resistor.sp.tran.test
+./bipartite1-win32.exe TranTests/quickeye_crosstalk_resistor.sp.tran.test
+TranTests/quickeye_crosstalk_resistor.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/amp_core3_pss_and_hb.sp.tran.test
+./bipartite1-win32.exe TranTests/amp_core3_pss_and_hb.sp.tran.test
+TranTests/amp_core3_pss_and_hb.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/diode_rectifier_simple.sp.tran.test
+./bipartite1-win32.exe TranTests/diode_rectifier_simple.sp.tran.test
+TranTests/diode_rectifier_simple.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/gp_bjt_pnp2_tran.sp.tran.test
+./bipartite1-win32.exe TranTests/gp_bjt_pnp2_tran.sp.tran.test
+TranTests/gp_bjt_pnp2_tran.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/s_element_test_rfic_tran.sp.tran.test
+./bipartite1-win32.exe TranTests/s_element_test_rfic_tran.sp.tran.test
+TranTests/s_element_test_rfic_tran.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/s_element_test_transmission50short.sp.tran.test
+./bipartite1-win32.exe TranTests/s_element_test_transmission50short.sp.tran.test
+TranTests/s_element_test_transmission50short.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/doc_eg.sp.tran.test
+./bipartite1-win32.exe TranTests/doc_eg.sp.tran.test
+TranTests/doc_eg.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/gilbert_cell.sp.tran.test
+./bipartite1-win32.exe TranTests/gilbert_cell.sp.tran.test
+TranTests/gilbert_cell.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/ms_trl_electrical_ref_transient.sp.tran.test
+./bipartite1-win32.exe TranTests/ms_trl_electrical_ref_transient.sp.tran.test
+TranTests/ms_trl_electrical_ref_transient.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/s_element_test_viahole_with_reference.sp.tran.test
+./bipartite1-win32.exe TranTests/s_element_test_viahole_with_reference.sp.tran.test
+TranTests/s_element_test_viahole_with_reference.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/s_element_test_transmission50.sp.tran.test
+./bipartite1-win32.exe TranTests/s_element_test_transmission50.sp.tran.test
+TranTests/s_element_test_transmission50.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/quick_eye_random.sp.tran.test
+./bipartite1-win32.exe TranTests/quick_eye_random.sp.tran.test
+TranTests/quick_eye_random.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/ANSft00048148_from_tran.sp.tran.test
+./bipartite1-win32.exe TranTests/ANSft00048148_from_tran.sp.tran.test
+TranTests/ANSft00048148_from_tran.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/vc1_pwl_cy37xi3_5_pwrclamp_table.sp.tran.test
+./bipartite1-win32.exe TranTests/vc1_pwl_cy37xi3_5_pwrclamp_table.sp.tran.test
+TranTests/vc1_pwl_cy37xi3_5_pwrclamp_table.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/colpitts1.sp.tran.test
+./bipartite1-win32.exe TranTests/colpitts1.sp.tran.test
+TranTests/colpitts1.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/diodemixer.sp.tran.test
+./bipartite1-win32.exe TranTests/diodemixer.sp.tran.test
+TranTests/diodemixer.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/test_limiting_off_for_linear.sp.tran.test
+./bipartite1-win32.exe TranTests/test_limiting_off_for_linear.sp.tran.test
+TranTests/test_limiting_off_for_linear.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/s_element_test_resistive_coax.sp.tran.test
+./bipartite1-win32.exe TranTests/s_element_test_resistive_coax.sp.tran.test
+TranTests/s_element_test_resistive_coax.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/gp_bjt_npn1_tran.sp.tran.test
+./bipartite1-win32.exe TranTests/gp_bjt_npn1_tran.sp.tran.test
+TranTests/gp_bjt_npn1_tran.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/spectre_lna_envelope.sp.tran.test
+./bipartite1-win32.exe TranTests/spectre_lna_envelope.sp.tran.test
+TranTests/spectre_lna_envelope.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/w_matt_hudale.sp.tran.test
+./bipartite1-win32.exe TranTests/w_matt_hudale.sp.tran.test
+TranTests/w_matt_hudale.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/MR52769.sp.tran.test
+./bipartite1-win32.exe TranTests/MR52769.sp.tran.test
+TranTests/MR52769.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/pmos_r_inverter.sp.tran.test
+./bipartite1-win32.exe TranTests/pmos_r_inverter.sp.tran.test
+TranTests/pmos_r_inverter.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/w_amd2_lossless_1ps_timestep.sp.tran.test
+./bipartite1-win32.exe TranTests/w_amd2_lossless_1ps_timestep.sp.tran.test
+TranTests/w_amd2_lossless_1ps_timestep.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/gp_bjt_pnps2_tran.sp.tran.test
+./bipartite1-win32.exe TranTests/gp_bjt_pnps2_tran.sp.tran.test
+TranTests/gp_bjt_pnps2_tran.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/eye_diagram_new_syntax.sp.tran.test
+./bipartite1-win32.exe TranTests/eye_diagram_new_syntax.sp.tran.test
+TranTests/eye_diagram_new_syntax.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/diodemixer_montecarlo.sp.tran.test
+./bipartite1-win32.exe TranTests/diodemixer_montecarlo.sp.tran.test
+TranTests/diodemixer_montecarlo.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/s_element_test_ylink2withDC.sp.tran.test
+./bipartite1-win32.exe TranTests/s_element_test_ylink2withDC.sp.tran.test
+TranTests/s_element_test_ylink2withDC.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/w_distortionless.sp.tran.test
+./bipartite1-win32.exe TranTests/w_distortionless.sp.tran.test
+TranTests/w_distortionless.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/eye_diagram_2probes.sp.tran.test
+./bipartite1-win32.exe TranTests/eye_diagram_2probes.sp.tran.test
+TranTests/eye_diagram_2probes.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/s_element_test_transmission50slow.sp.tran.test
+./bipartite1-win32.exe TranTests/s_element_test_transmission50slow.sp.tran.test
+TranTests/s_element_test_transmission50slow.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/simple_cmos_inverter_v.sp.tran.test
+./bipartite1-win32.exe TranTests/simple_cmos_inverter_v.sp.tran.test
+TranTests/simple_cmos_inverter_v.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/comparator_bsim3.sp.tran.test
+./bipartite1-win32.exe TranTests/comparator_bsim3.sp.tran.test
+TranTests/comparator_bsim3.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/verifeye_crosstalk_resistor.sp.tran.test
+./bipartite1-win32.exe TranTests/verifeye_crosstalk_resistor.sp.tran.test
+TranTests/verifeye_crosstalk_resistor.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/vcod4xa.sp.tran.test
+./bipartite1-win32.exe TranTests/vcod4xa.sp.tran.test
+TranTests/vcod4xa.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/g_element_laplace_pole.sp.tran.test
+./bipartite1-win32.exe TranTests/g_element_laplace_pole.sp.tran.test
+TranTests/g_element_laplace_pole.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/gilbertcell_tran.sp.tran.test
+./bipartite1-win32.exe TranTests/gilbertcell_tran.sp.tran.test
+TranTests/gilbertcell_tran.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/s_element_test_transmission50_m5.sp.tran.test
+./bipartite1-win32.exe TranTests/s_element_test_transmission50_m5.sp.tran.test
+TranTests/s_element_test_transmission50_m5.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/bjtinverter_ndf2.sp.tran.test
+./bipartite1-win32.exe TranTests/bjtinverter_ndf2.sp.tran.test
+TranTests/bjtinverter_ndf2.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/amplifier.sp.tran.test
+./bipartite1-win32.exe TranTests/amplifier.sp.tran.test
+TranTests/amplifier.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/s_element_test_quasi_microstrip_coupler.sp.tran.test
+./bipartite1-win32.exe TranTests/s_element_test_quasi_microstrip_coupler.sp.tran.test
+TranTests/s_element_test_quasi_microstrip_coupler.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/vanderpol_multi.sp.tran.test
+./bipartite1-win32.exe TranTests/vanderpol_multi.sp.tran.test
+TranTests/vanderpol_multi.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/quick_eye_test.sp.tran.test
+./bipartite1-win32.exe TranTests/quick_eye_test.sp.tran.test
+TranTests/quick_eye_test.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/test_verifeye_eye_location.sp.tran.test
+./bipartite1-win32.exe TranTests/test_verifeye_eye_location.sp.tran.test
+TranTests/test_verifeye_eye_location.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/rf_vco_pmos_test.sp.tran.test
+./bipartite1-win32.exe TranTests/rf_vco_pmos_test.sp.tran.test
+TranTests/rf_vco_pmos_test.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/s_element_test_transmission75.sp.tran.test
+./bipartite1-win32.exe TranTests/s_element_test_transmission75.sp.tran.test
+TranTests/s_element_test_transmission75.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/741_opamp.sp.tran.test
+./bipartite1-win32.exe TranTests/741_opamp.sp.tran.test
+TranTests/741_opamp.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/w_hp_etch_50_te.sp.tran.test
+./bipartite1-win32.exe TranTests/w_hp_etch_50_te.sp.tran.test
+TranTests/w_hp_etch_50_te.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/s_element_test_variable_reference_nodes.sp.tran.test
+./bipartite1-win32.exe TranTests/s_element_test_variable_reference_nodes.sp.tran.test
+TranTests/s_element_test_variable_reference_nodes.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/s_element_test_transmission25.sp.tran.test
+./bipartite1-win32.exe TranTests/s_element_test_transmission25.sp.tran.test
+TranTests/s_element_test_transmission25.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/emitter_follower.sp.tran.test
+./bipartite1-win32.exe TranTests/emitter_follower.sp.tran.test
+TranTests/emitter_follower.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/svcvs_test_second_order.sp.tran.test
+./bipartite1-win32.exe TranTests/svcvs_test_second_order.sp.tran.test
+TranTests/svcvs_test_second_order.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/MR52769_mor.sp.tran.test
+./bipartite1-win32.exe TranTests/MR52769_mor.sp.tran.test
+TranTests/MR52769_mor.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/chain_cmos_2_series_11_b.sp.tran.test
+./bipartite1-win32.exe TranTests/chain_cmos_2_series_11_b.sp.tran.test
+TranTests/chain_cmos_2_series_11_b.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/switch.sp.tran.test
+./bipartite1-win32.exe TranTests/switch.sp.tran.test
+TranTests/switch.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/s_element_test_ne32100a.sp.tran.test
+./bipartite1-win32.exe TranTests/s_element_test_ne32100a.sp.tran.test
+TranTests/s_element_test_ne32100a.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/pitt_clap_osc_tran.sp.tran.test
+./bipartite1-win32.exe TranTests/pitt_clap_osc_tran.sp.tran.test
+TranTests/pitt_clap_osc_tran.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/ms_open_end_transient.sp.tran.test
+./bipartite1-win32.exe TranTests/ms_open_end_transient.sp.tran.test
+TranTests/ms_open_end_transient.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/pat2.sp.tran.test
+./bipartite1-win32.exe TranTests/pat2.sp.tran.test
+TranTests/pat2.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/internet_cristal.sp.tran.test
+./bipartite1-win32.exe TranTests/internet_cristal.sp.tran.test
+TranTests/internet_cristal.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/emitter_follower_pnp.sp.tran.test
+./bipartite1-win32.exe TranTests/emitter_follower_pnp.sp.tran.test
+TranTests/emitter_follower_pnp.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/pat3.sp.tran.test
+./bipartite1-win32.exe TranTests/pat3.sp.tran.test
+TranTests/pat3.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/ms_open_stub_electrical_transient.sp.tran.test
+./bipartite1-win32.exe TranTests/ms_open_stub_electrical_transient.sp.tran.test
+TranTests/ms_open_stub_electrical_transient.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/verifeye_abundant_precursors.sp.tran.test
+./bipartite1-win32.exe TranTests/verifeye_abundant_precursors.sp.tran.test
+TranTests/verifeye_abundant_precursors.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/s_element_test_ideal_delay75.sp.tran.test
+./bipartite1-win32.exe TranTests/s_element_test_ideal_delay75.sp.tran.test
+TranTests/s_element_test_ideal_delay75.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/w_amd_table.sp.tran.test
+./bipartite1-win32.exe TranTests/w_amd_table.sp.tran.test
+TranTests/w_amd_table.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/diodemixer_sweep.sp.tran.test
+./bipartite1-win32.exe TranTests/diodemixer_sweep.sp.tran.test
+TranTests/diodemixer_sweep.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/input.sp.tran.test
+./bipartite1-win32.exe TranTests/input.sp.tran.test
+TranTests/input.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/pat1.sp.tran.test
+./bipartite1-win32.exe TranTests/pat1.sp.tran.test
+TranTests/pat1.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/vco_umc_with_s_param.sp.tran.test
+./bipartite1-win32.exe TranTests/vco_umc_with_s_param.sp.tran.test
+TranTests/vco_umc_with_s_param.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/pat10.sp.tran.test
+./bipartite1-win32.exe TranTests/pat10.sp.tran.test
+TranTests/pat10.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/s_element_test_ideal_delay25.sp.tran.test
+./bipartite1-win32.exe TranTests/s_element_test_ideal_delay25.sp.tran.test
+TranTests/s_element_test_ideal_delay25.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/amd.sp.tran.test
+./bipartite1-win32.exe TranTests/amd.sp.tran.test
+TranTests/amd.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/idem_netlist.sp.tran.test
+./bipartite1-win32.exe TranTests/idem_netlist.sp.tran.test
+TranTests/idem_netlist.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/w_eric_bracken_rlgc.sp.tran.test
+./bipartite1-win32.exe TranTests/w_eric_bracken_rlgc.sp.tran.test
+TranTests/w_eric_bracken_rlgc.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/diode_rectifier.sp.tran.test
+./bipartite1-win32.exe TranTests/diode_rectifier.sp.tran.test
+TranTests/diode_rectifier.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/s_element_test_intcap4f76.sp.tran.test
+./bipartite1-win32.exe TranTests/s_element_test_intcap4f76.sp.tran.test
+TranTests/s_element_test_intcap4f76.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/clapp_kaertner.sp.tran.test
+./bipartite1-win32.exe TranTests/clapp_kaertner.sp.tran.test
+TranTests/clapp_kaertner.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/pat5.sp.tran.test
+./bipartite1-win32.exe TranTests/pat5.sp.tran.test
+TranTests/pat5.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/welm_20in_micro_clean.sp.tran.test
+./bipartite1-win32.exe TranTests/welm_20in_micro_clean.sp.tran.test
+TranTests/welm_20in_micro_clean.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/vco_standalone.sp.tran.test
+./bipartite1-win32.exe TranTests/vco_standalone.sp.tran.test
+TranTests/vco_standalone.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/voter25_pwl_level1.sp.tran.test
+./bipartite1-win32.exe TranTests/voter25_pwl_level1.sp.tran.test
+TranTests/voter25_pwl_level1.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/vc2_pwl_cy37xi3_5_pulldown_table.sp.tran.test
+./bipartite1-win32.exe TranTests/vc2_pwl_cy37xi3_5_pulldown_table.sp.tran.test
+TranTests/vc2_pwl_cy37xi3_5_pulldown_table.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/s_element_test_ums_ph25_8x75_48ma.sp.tran.test
+./bipartite1-win32.exe TranTests/s_element_test_ums_ph25_8x75_48ma.sp.tran.test
+TranTests/s_element_test_ums_ph25_8x75_48ma.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/nmos_r_inverter_bsim3.sp.tran.test
+./bipartite1-win32.exe TranTests/nmos_r_inverter_bsim3.sp.tran.test
+TranTests/nmos_r_inverter_bsim3.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/InvOsc.sp.tran.test
+./bipartite1-win32.exe TranTests/InvOsc.sp.tran.test
+TranTests/InvOsc.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/dio_test1.sp.tran.test
+./bipartite1-win32.exe TranTests/dio_test1.sp.tran.test
+TranTests/dio_test1.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/vco_umc.sp.tran.test
+./bipartite1-win32.exe TranTests/vco_umc.sp.tran.test
+TranTests/vco_umc.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/ac_coupled_amplifier.sp.tran.test
+./bipartite1-win32.exe TranTests/ac_coupled_amplifier.sp.tran.test
+TranTests/ac_coupled_amplifier.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/bot_c_dr20.sp.tran.test
+./bipartite1-win32.exe TranTests/bot_c_dr20.sp.tran.test
+TranTests/bot_c_dr20.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/vc2_pwl_cy37xi3_5_pullup_table.sp.tran.test
+./bipartite1-win32.exe TranTests/vc2_pwl_cy37xi3_5_pullup_table.sp.tran.test
+TranTests/vc2_pwl_cy37xi3_5_pullup_table.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/qe_crosstalk_01.sp.tran.test
+./bipartite1-win32.exe TranTests/qe_crosstalk_01.sp.tran.test
+TranTests/qe_crosstalk_01.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/pat4.sp.tran.test
+./bipartite1-win32.exe TranTests/pat4.sp.tran.test
+TranTests/pat4.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/s_element_test_txline.sp.tran.test
+./bipartite1-win32.exe TranTests/s_element_test_txline.sp.tran.test
+TranTests/s_element_test_txline.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/digfi_bsim3.sp.tran.test
+./bipartite1-win32.exe TranTests/digfi_bsim3.sp.tran.test
+TranTests/digfi_bsim3.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/s_element_test_ne68133i.sp.tran.test
+./bipartite1-win32.exe TranTests/s_element_test_ne68133i.sp.tran.test
+TranTests/s_element_test_ne68133i.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/pat6.sp.tran.test
+./bipartite1-win32.exe TranTests/pat6.sp.tran.test
+TranTests/pat6.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/qe_crosstalk_03.sp.tran.test
+./bipartite1-win32.exe TranTests/qe_crosstalk_03.sp.tran.test
+TranTests/qe_crosstalk_03.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/cmos_inverter_v.sp.tran.test
+./bipartite1-win32.exe TranTests/cmos_inverter_v.sp.tran.test
+TranTests/cmos_inverter_v.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/s_element_test_ph25_6x50.sp.tran.test
+./bipartite1-win32.exe TranTests/s_element_test_ph25_6x50.sp.tran.test
+TranTests/s_element_test_ph25_6x50.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/nmos_r_inverter.sp.tran.test
+./bipartite1-win32.exe TranTests/nmos_r_inverter.sp.tran.test
+TranTests/nmos_r_inverter.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/spectre_lna_envelope_sweep.sp.tran.test
+./bipartite1-win32.exe TranTests/spectre_lna_envelope_sweep.sp.tran.test
+TranTests/spectre_lna_envelope_sweep.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/741_stage_1.sp.tran.test
+./bipartite1-win32.exe TranTests/741_stage_1.sp.tran.test
+TranTests/741_stage_1.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/pat7.sp.tran.test
+./bipartite1-win32.exe TranTests/pat7.sp.tran.test
+TranTests/pat7.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/qe_crosstalk_02.sp.tran.test
+./bipartite1-win32.exe TranTests/qe_crosstalk_02.sp.tran.test
+TranTests/qe_crosstalk_02.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/s_element_test_twopole.sp.tran.test
+./bipartite1-win32.exe TranTests/s_element_test_twopole.sp.tran.test
+TranTests/s_element_test_twopole.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/r2_mch_test6.sp.tran.test
+./bipartite1-win32.exe TranTests/r2_mch_test6.sp.tran.test
+TranTests/r2_mch_test6.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/singapore.sp.tran.test
+./bipartite1-win32.exe TranTests/singapore.sp.tran.test
+TranTests/singapore.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/mr66334.sp.tran.test
+./bipartite1-win32.exe TranTests/mr66334.sp.tran.test
+TranTests/mr66334.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/s_element_test_transmission50nodc.sp.tran.test
+./bipartite1-win32.exe TranTests/s_element_test_transmission50nodc.sp.tran.test
+TranTests/s_element_test_transmission50nodc.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/vco_with_mixer.sp.tran.test
+./bipartite1-win32.exe TranTests/vco_with_mixer.sp.tran.test
+TranTests/vco_with_mixer.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/vc1_pwl_cy37xi3_5_gndclamp_table.sp.tran.test
+./bipartite1-win32.exe TranTests/vc1_pwl_cy37xi3_5_gndclamp_table.sp.tran.test
+TranTests/vc1_pwl_cy37xi3_5_gndclamp_table.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/s_element_test_ideal_delay50.sp.tran.test
+./bipartite1-win32.exe TranTests/s_element_test_ideal_delay50.sp.tran.test
+TranTests/s_element_test_ideal_delay50.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/mos_mixer_bsim3.sp.tran.test
+./bipartite1-win32.exe TranTests/mos_mixer_bsim3.sp.tran.test
+TranTests/mos_mixer_bsim3.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/gp_bjt_pnp1_tran.sp.tran.test
+./bipartite1-win32.exe TranTests/gp_bjt_pnp1_tran.sp.tran.test
+TranTests/gp_bjt_pnp1_tran.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/w_gore_twinax.sp.tran.test
+./bipartite1-win32.exe TranTests/w_gore_twinax.sp.tran.test
+TranTests/w_gore_twinax.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/s_element_test_ideal_delay.sp.tran.test
+./bipartite1-win32.exe TranTests/s_element_test_ideal_delay.sp.tran.test
+TranTests/s_element_test_ideal_delay.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/mr66334_smaller_tstep.sp.tran.test
+./bipartite1-win32.exe TranTests/mr66334_smaller_tstep.sp.tran.test
+TranTests/mr66334_smaller_tstep.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/emitter_follower3.sp.tran.test
+./bipartite1-win32.exe TranTests/emitter_follower3.sp.tran.test
+TranTests/emitter_follower3.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/colpitts_oscillator_netlist.sp.tran.test
+./bipartite1-win32.exe TranTests/colpitts_oscillator_netlist.sp.tran.test
+TranTests/colpitts_oscillator_netlist.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/emitter_follower2.sp.tran.test
+./bipartite1-win32.exe TranTests/emitter_follower2.sp.tran.test
+TranTests/emitter_follower2.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/s_element_test_initial_50ghz_mesh_2.sp.tran.test
+./bipartite1-win32.exe TranTests/s_element_test_initial_50ghz_mesh_2.sp.tran.test
+TranTests/s_element_test_initial_50ghz_mesh_2.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/gp_bjt_npns1_tran.sp.tran.test
+./bipartite1-win32.exe TranTests/gp_bjt_npns1_tran.sp.tran.test
+TranTests/gp_bjt_npns1_tran.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/gp_bjt_npn2_tran.sp.tran.test
+./bipartite1-win32.exe TranTests/gp_bjt_npn2_tran.sp.tran.test
+TranTests/gp_bjt_npn2_tran.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/pmos_r_inverter_bsim3.sp.tran.test
+./bipartite1-win32.exe TranTests/pmos_r_inverter_bsim3.sp.tran.test
+TranTests/pmos_r_inverter_bsim3.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/pat_current.sp.tran.test
+./bipartite1-win32.exe TranTests/pat_current.sp.tran.test
+TranTests/pat_current.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/gp_bjt_pnps1_tran.sp.tran.test
+./bipartite1-win32.exe TranTests/gp_bjt_pnps1_tran.sp.tran.test
+TranTests/gp_bjt_pnps1_tran.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/multphasevco.sp.tran.test
+./bipartite1-win32.exe TranTests/multphasevco.sp.tran.test
+TranTests/multphasevco.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/rfid_postsim_issue.sp.tran.test
+./bipartite1-win32.exe TranTests/rfid_postsim_issue.sp.tran.test
+TranTests/rfid_postsim_issue.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/e_element_laplace_test_second_order.sp.tran.test
+./bipartite1-win32.exe TranTests/e_element_laplace_test_second_order.sp.tran.test
+TranTests/e_element_laplace_test_second_order.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/ms_trl_electrical_transient.sp.tran.test
+./bipartite1-win32.exe TranTests/ms_trl_electrical_transient.sp.tran.test
+TranTests/ms_trl_electrical_transient.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/colpitts.sp.tran.test
+./bipartite1-win32.exe TranTests/colpitts.sp.tran.test
+TranTests/colpitts.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/s_element_test_transmission50short_abcd.sp.tran.test
+./bipartite1-win32.exe TranTests/s_element_test_transmission50short_abcd.sp.tran.test
+TranTests/s_element_test_transmission50short_abcd.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/pat8.sp.tran.test
+./bipartite1-win32.exe TranTests/pat8.sp.tran.test
+TranTests/pat8.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/pat_impedence.sp.tran.test
+./bipartite1-win32.exe TranTests/pat_impedence.sp.tran.test
+TranTests/pat_impedence.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/pat_vhvl.sp.tran.test
+./bipartite1-win32.exe TranTests/pat_vhvl.sp.tran.test
+TranTests/pat_vhvl.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/rx.sp.tran.test
+./bipartite1-win32.exe TranTests/rx.sp.tran.test
+TranTests/rx.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/pat9.sp.tran.test
+./bipartite1-win32.exe TranTests/pat9.sp.tran.test
+TranTests/pat9.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/s_element_test_ph25_8x75_2v36ma.sp.tran.test
+./bipartite1-win32.exe TranTests/s_element_test_ph25_8x75_2v36ma.sp.tran.test
+TranTests/s_element_test_ph25_8x75_2v36ma.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/ram2k_bsim3.sp.tran.test
+./bipartite1-win32.exe TranTests/ram2k_bsim3.sp.tran.test
+TranTests/ram2k_bsim3.sp.tran.test :: PASSED
+./bipartite1-win32.exe TranTests/test_unencrypted.sp.tran.test
+./bipartite1-win32.exe TranTests/test_unencrypted.sp.tran.test
+TranTests/test_unencrypted.sp.tran.test :: PASSED
+TOTAL: 147
+PASSED: 147

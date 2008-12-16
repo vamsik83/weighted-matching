@@ -1,0 +1,27 @@
+MY UTIL Package:
+----------------
+A package for commonly used data structures, I'll add them 
+as I use them. Currently I have the following
+
+1. RQsort (Randomized Quick sort)
+2. List
+3. Hash
+4. Heap (Added 02/28/08)
+
+TODO:
+-----
+1. Graph algorithms
+2. More data structures
+	2.1 Skip lists
+	2.2 2-3 tree
+3. Sorting (Frazer McKeller)
+
+Next Data Structure Scheduled is 2-3 Tree, Skip Lists.
+
+NOTE ON WRITING COMPARISION ROUTINES:(June 05,2008)
+------------------------------------
+A Comparision Routine is usually provided by the
+user of the data structure. For example for the
+binary-heap we have "char (*KeyCompare)(void *a,void *b)"
+if any of the arguments is null make sure your code returns
+the non-null address.

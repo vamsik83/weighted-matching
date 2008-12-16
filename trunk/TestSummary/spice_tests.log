@@ -1,0 +1,2507 @@
+./bipartite1 scripts/vec_test.sp.test
+scripts/vec_test.sp.test :: PASSED
+./bipartite1 scripts/r2_hybrid_test4.sp.test
+scripts/r2_hybrid_test4.sp.test :: PASSED
+./bipartite1 scripts/ms_via_pad_ref_tran_1.sp.test
+scripts/ms_via_pad_ref_tran_1.sp.test :: PASSED
+./bipartite1 scripts/hanging_devices_1.sp.test
+scripts/hanging_devices_1.sp.test :: PASSED
+./bipartite1 scripts/w_hp_etch_50_te.sp.test
+scripts/w_hp_etch_50_te.sp.test :: PASSED
+./bipartite1 scripts/vpwl_10.sp.test
+scripts/vpwl_10.sp.test :: PASSED
+./bipartite1 scripts/vam_7.sp.test
+scripts/vam_7.sp.test :: PASSED
+./bipartite1 scripts/sl_tee_lna_1.sp.test
+scripts/sl_tee_lna_1.sp.test :: PASSED
+./bipartite1 scripts/ms_trl_physical_lna_1.sp.test
+scripts/ms_trl_physical_lna_1.sp.test :: PASSED
+./bipartite1 scripts/ANSft00048148_pt.sp.test
+scripts/ANSft00048148_pt.sp.test :: PASSED
+./bipartite1 scripts/test_s_element_variable_port_impedance_lna.sp.test
+scripts/test_s_element_variable_port_impedance_lna.sp.test :: PASSED
+./bipartite1 scripts/osl_trl_physical_tran_3.sp.test
+scripts/osl_trl_physical_tran_3.sp.test :: PASSED
+./bipartite1 scripts/resistor_para_31.sp.test
+scripts/resistor_para_31.sp.test :: PASSED
+./bipartite1 scripts/singapore.sp.test
+scripts/singapore.sp.test :: PASSED
+./bipartite1 scripts/vam_3.sp.test
+scripts/vam_3.sp.test :: PASSED
+./bipartite1 scripts/test_output_pin1.sp.test
+scripts/test_output_pin1.sp.test :: [SINGULAR] 
+./bipartite1 scripts/sweepwidth.sp.test
+scripts/sweepwidth.sp.test :: PASSED
+./bipartite1 scripts/test_s_element_variable_reference_nodes.sp.test
+scripts/test_s_element_variable_reference_nodes.sp.test :: PASSED
+./bipartite1 scripts/resistor_s.sp.test
+scripts/resistor_s.sp.test :: PASSED
+./bipartite1 scripts/vec_vref.sp.test
+scripts/vec_vref.sp.test :: PASSED
+./bipartite1 scripts/isffm_5.sp.test
+scripts/isffm_5.sp.test :: PASSED
+./bipartite1 scripts/freq_3.sp.test
+scripts/freq_3.sp.test :: PASSED
+./bipartite1 scripts/cpw_cross_lna_example1.sp.test
+scripts/cpw_cross_lna_example1.sp.test :: PASSED
+./bipartite1 scripts/sl_tee_hb_2.sp.test
+scripts/sl_tee_hb_2.sp.test :: PASSED
+./bipartite1 scripts/sl_taper_w_ref_tran_1.sp.test
+scripts/sl_taper_w_ref_tran_1.sp.test :: PASSED
+./bipartite1 scripts/ip3_rf_amplifier.sp.test
+scripts/ip3_rf_amplifier.sp.test :: PASSED
+./bipartite1 scripts/resmin_vs_cleanup_2.sp.test
+scripts/resmin_vs_cleanup_2.sp.test :: PASSED
+./bipartite1 scripts/sl_open_stub_physical_hb_1.sp.test
+scripts/sl_open_stub_physical_hb_1.sp.test :: PASSED
+./bipartite1 scripts/sqrt_bsim3_dc.sp.test
+scripts/sqrt_bsim3_dc.sp.test :: PASSED
+./bipartite1 scripts/zero_cap_1a.sp.test
+scripts/zero_cap_1a.sp.test :: PASSED
+./bipartite1 scripts/sl_tee_tran_3.sp.test
+scripts/sl_tee_tran_3.sp.test :: PASSED
+./bipartite1 scripts/resmin_vs_cleanup_6.sp.test
+scripts/resmin_vs_cleanup_6.sp.test :: PASSED
+./bipartite1 scripts/ms_taper_w_ref_hb_3.sp.test
+scripts/ms_taper_w_ref_hb_3.sp.test :: PASSED
+./bipartite1 scripts/ms_via_pad_tran_1.sp.test
+scripts/ms_via_pad_tran_1.sp.test :: PASSED
+./bipartite1 scripts/minimum_divisor_3.sp.test
+scripts/minimum_divisor_3.sp.test :: PASSED
+./bipartite1 scripts/ms_gap_symmetric_lna_1.sp.test
+scripts/ms_gap_symmetric_lna_1.sp.test :: PASSED
+./bipartite1 scripts/sl_open_stub_physical_tran_2.sp.test
+scripts/sl_open_stub_physical_tran_2.sp.test :: PASSED
+./bipartite1 scripts/isffm_1.sp.test
+scripts/isffm_1.sp.test :: PASSED
+./bipartite1 scripts/ms_mitered_bend_tran_4.sp.test
+scripts/ms_mitered_bend_tran_4.sp.test :: PASSED
+./bipartite1 scripts/ms_mitered_bend_lna_4.sp.test
+scripts/ms_mitered_bend_lna_4.sp.test :: PASSED
+./bipartite1 scripts/alter_param_1.sp.test
+scripts/alter_param_1.sp.test :: PASSED
+./bipartite1 scripts/ms_mitered_bend_hb_1.sp.test
+scripts/ms_mitered_bend_hb_1.sp.test :: PASSED
+./bipartite1 scripts/e_opamp_pos_1.sp.test
+scripts/e_opamp_pos_1.sp.test :: PASSED
+./bipartite1 scripts/local_58.sp.test
+scripts/local_58.sp.test :: PASSED
+./bipartite1 scripts/param_temp_0res_2.sp.test
+scripts/param_temp_0res_2.sp.test :: PASSED
+./bipartite1 scripts/pat9.sp.test
+scripts/pat9.sp.test :: PASSED
+./bipartite1 scripts/sl_unmitered_bend_tran_3.sp.test
+scripts/sl_unmitered_bend_tran_3.sp.test :: PASSED
+./bipartite1 scripts/ms_gap_symmetric_tran_1.sp.test
+scripts/ms_gap_symmetric_tran_1.sp.test :: PASSED
+./bipartite1 scripts/diode_sweep.sp.test
+scripts/diode_sweep.sp.test :: PASSED
+./bipartite1 scripts/sl_taper_w_ref_hb_3.sp.test
+scripts/sl_taper_w_ref_hb_3.sp.test :: PASSED
+./bipartite1 scripts/values_neg_2.sp.test
+scripts/values_neg_2.sp.test :: PASSED
+./bipartite1 scripts/resistor_para_12.sp.test
+scripts/resistor_para_12.sp.test :: PASSED
+./bipartite1 scripts/vec_vname_array.sp.test
+scripts/vec_vname_array.sp.test :: PASSED
+./bipartite1 scripts/ms_trl_electrical_ref_hb.sp.test
+scripts/ms_trl_electrical_ref_hb.sp.test :: PASSED
+./bipartite1 scripts/node_count_as_r_increase.sp.test
+scripts/node_count_as_r_increase.sp.test :: PASSED
+./bipartite1 scripts/vpwl_8.sp.test
+scripts/vpwl_8.sp.test :: PASSED
+./bipartite1 scripts/resistor_para_16.sp.test
+scripts/resistor_para_16.sp.test :: PASSED
+./bipartite1 scripts/gp_bjt_npn2_ac.sp.test
+scripts/gp_bjt_npn2_ac.sp.test :: PASSED
+./bipartite1 scripts/cosim_alain_lna.sp.test
+scripts/cosim_alain_lna.sp.test :: PASSED
+./bipartite1 scripts/ms_rect_inductor_tran_3.sp.test
+scripts/ms_rect_inductor_tran_3.sp.test :: PASSED
+./bipartite1 scripts/cpw_trl_lna_example1.sp.test
+scripts/cpw_trl_lna_example1.sp.test :: PASSED
+./bipartite1 scripts/ms_tfc_hb_3.sp.test
+scripts/ms_tfc_hb_3.sp.test :: PASSED
+./bipartite1 scripts/vc2_pwl_cy37xi3_5_pulldown_table.sp.test
+scripts/vc2_pwl_cy37xi3_5_pulldown_table.sp.test :: PASSED
+./bipartite1 scripts/r2_mch_test12.sp.test
+scripts/r2_mch_test12.sp.test :: PASSED
+./bipartite1 scripts/gp_bjt_npns1_tran.sp.test
+scripts/gp_bjt_npns1_tran.sp.test :: PASSED
+./bipartite1 scripts/ms_radial_bend_hb_1.sp.test
+scripts/ms_radial_bend_hb_1.sp.test :: PASSED
+./bipartite1 scripts/ota1.sp.test
+scripts/ota1.sp.test :: PASSED
+./bipartite1 scripts/gp_bjt_npns1_hb.sp.test
+scripts/gp_bjt_npns1_hb.sp.test :: PASSED
+./bipartite1 scripts/stefano_oscillator.sp.test
+scripts/stefano_oscillator.sp.test :: PASSED
+./bipartite1 scripts/pat5.sp.test
+scripts/pat5.sp.test :: PASSED
+./bipartite1 scripts/diodemixer_sweep.sp.test
+scripts/diodemixer_sweep.sp.test :: PASSED
+./bipartite1 scripts/ms_gap_asymmetric_hb_1.sp.test
+scripts/ms_gap_asymmetric_hb_1.sp.test :: PASSED
+./bipartite1 scripts/local_54.sp.test
+scripts/local_54.sp.test :: PASSED
+./bipartite1 scripts/sl_step_hb_2.sp.test
+scripts/sl_step_hb_2.sp.test :: PASSED
+./bipartite1 scripts/indq_dc_1.sp.test
+scripts/indq_dc_1.sp.test :: PASSED
+./bipartite1 scripts/pat1.sp.test
+scripts/pat1.sp.test :: PASSED
+./bipartite1 scripts/digfi_bsim3_dc.sp.test
+scripts/digfi_bsim3_dc.sp.test :: PASSED
+./bipartite1 scripts/test_s_element_resistor_passivity.sp.test
+scripts/test_s_element_resistor_passivity.sp.test :: PASSED
+./bipartite1 scripts/exp_with_cap.sp.test
+scripts/exp_with_cap.sp.test :: PASSED
+./bipartite1 scripts/wolfson3.sp.test
+scripts/wolfson3.sp.test :: PASSED
+./bipartite1 scripts/r2_mch_test16.sp.test
+scripts/r2_mch_test16.sp.test :: PASSED
+./bipartite1 scripts/s_element_test_initial_50ghz_mesh_lna.sp.test
+scripts/s_element_test_initial_50ghz_mesh_lna.sp.test :: PASSED
+./bipartite1 scripts/vloop2.sp.test
+scripts/vloop2.sp.test :: PASSED
+./bipartite1 scripts/options_neg_1.sp.test
+scripts/options_neg_1.sp.test :: PASSED
+./bipartite1 scripts/ms_gap_asymmetric_tran_1.sp.test
+scripts/ms_gap_asymmetric_tran_1.sp.test :: PASSED
+./bipartite1 scripts/operator_precedence.sp.test
+scripts/operator_precedence.sp.test :: PASSED
+./bipartite1 scripts/global_16.sp.test
+scripts/global_16.sp.test :: PASSED
+./bipartite1 scripts/diodemixer_montecarlo.sp.test
+scripts/diodemixer_montecarlo.sp.test :: PASSED
+./bipartite1 scripts/gilbert_cell_ac.sp.test
+scripts/gilbert_cell_ac.sp.test :: PASSED
+./bipartite1 scripts/s_element_test_ph25_6x50.sp.test
+scripts/s_element_test_ph25_6x50.sp.test :: PASSED
+./bipartite1 scripts/sl_via_pad_ref_hb_3.sp.test
+scripts/sl_via_pad_ref_hb_3.sp.test :: PASSED
+./bipartite1 scripts/ms_taper_w_ref_lna_1.sp.test
+scripts/ms_taper_w_ref_lna_1.sp.test :: PASSED
+./bipartite1 scripts/pmos_r_inverter_bsim3.sp.test
+scripts/pmos_r_inverter_bsim3.sp.test :: PASSED
+./bipartite1 scripts/sl_via_hole_ref_hb_1.sp.test
+scripts/sl_via_hole_ref_hb_1.sp.test :: PASSED
+./bipartite1 scripts/indq_tran_1.sp.test
+scripts/indq_tran_1.sp.test :: PASSED
+./bipartite1 scripts/ms_trl_physical_hb_2.sp.test
+scripts/ms_trl_physical_hb_2.sp.test :: PASSED
+./bipartite1 scripts/sl_trl_electrical_lna.sp.test
+scripts/sl_trl_electrical_lna.sp.test :: PASSED
+./bipartite1 scripts/nexxim_trfnc.sp.test
+scripts/nexxim_trfnc.sp.test :: PASSED
+./bipartite1 scripts/ipl_1.sp.test
+scripts/ipl_1.sp.test :: PASSED
+./bipartite1 scripts/test_y_and_z_lna.sp.test
+scripts/test_y_and_z_lna.sp.test :: PASSED
+./bipartite1 scripts/ring_diode_mixer.sp.test
+scripts/ring_diode_mixer.sp.test :: PASSED
+./bipartite1 scripts/s_element_test_ideal_delay50.sp.test
+scripts/s_element_test_ideal_delay50.sp.test :: PASSED
+./bipartite1 scripts/e_beh_pos_1.sp.test
+scripts/e_beh_pos_1.sp.test :: PASSED
+./bipartite1 scripts/s_element_test_ph25_6x50_lna.sp.test
+scripts/s_element_test_ph25_6x50_lna.sp.test :: PASSED
+./bipartite1 scripts/osl_trl_physical_ref_lna_1.sp.test
+scripts/osl_trl_physical_ref_lna_1.sp.test :: PASSED
+./bipartite1 scripts/s_element_test_initial_50ghz_mesh_ac.sp.test
+scripts/s_element_test_initial_50ghz_mesh_ac.sp.test :: PASSED
+./bipartite1 scripts/local_35.sp.test
+scripts/local_35.sp.test :: PASSED
+./bipartite1 scripts/gp_bjt_npns1_ac.sp.test
+scripts/gp_bjt_npns1_ac.sp.test :: PASSED
+./bipartite1 scripts/number_format_3.sp.test
+scripts/number_format_3.sp.test :: PASSED
+./bipartite1 scripts/iam_9.sp.test
+scripts/iam_9.sp.test :: PASSED
+./bipartite1 scripts/global_12.sp.test
+scripts/global_12.sp.test :: PASSED
+./bipartite1 scripts/alter_neg_1.sp.test
+scripts/alter_neg_1.sp.test :: PASSED
+./bipartite1 scripts/vpul_tran_8.sp.test
+scripts/vpul_tran_8.sp.test :: PASSED
+./bipartite1 scripts/divider.sp.test
+scripts/divider.sp.test :: PASSED
+./bipartite1 scripts/GilbertCellMixer.sp.test
+scripts/GilbertCellMixer.sp.test :: PASSED
+./bipartite1 scripts/alter_print_1.sp.test
+scripts/alter_print_1.sp.test :: PASSED
+./bipartite1 scripts/gp_bjt_npn2_hb.sp.test
+scripts/gp_bjt_npn2_hb.sp.test :: PASSED
+./bipartite1 scripts/iam_1.sp.test
+scripts/iam_1.sp.test :: PASSED
+./bipartite1 scripts/n_element_test_ideal_delay.sp.test
+scripts/n_element_test_ideal_delay.sp.test :: PASSED
+./bipartite1 scripts/vpul_hb_2.sp.test
+scripts/vpul_hb_2.sp.test :: PASSED
+./bipartite1 scripts/vpul_tran_4.sp.test
+scripts/vpul_tran_4.sp.test :: PASSED
+./bipartite1 scripts/param_temp_9_base.sp.test
+scripts/param_temp_9_base.sp.test :: PASSED
+./bipartite1 scripts/local_39.sp.test
+scripts/local_39.sp.test :: PASSED
+./bipartite1 scripts/iam_5.sp.test
+scripts/iam_5.sp.test :: PASSED
+./bipartite1 scripts/vpul_neg_3.sp.test
+scripts/vpul_neg_3.sp.test :: PASSED
+./bipartite1 scripts/ms_gap_symmetric_hb_1.sp.test
+scripts/ms_gap_symmetric_hb_1.sp.test :: PASSED
+./bipartite1 scripts/ms_rect_inductor_hb_2.sp.test
+scripts/ms_rect_inductor_hb_2.sp.test :: PASSED
+./bipartite1 scripts/ms_open_stub_physical_lna_2.sp.test
+scripts/ms_open_stub_physical_lna_2.sp.test :: PASSED
+./bipartite1 scripts/nexxim_transformer_4x4.sp.test
+scripts/nexxim_transformer_4x4.sp.test :: PASSED 
+./bipartite1 scripts/test_s_element_convolution_ideal_delay.sp.test
+scripts/test_s_element_convolution_ideal_delay.sp.test :: PASSED
+./bipartite1 scripts/testcase7_a.sp.test
+scripts/testcase7_a.sp.test :: PASSED
+./bipartite1 scripts/ms_trl_physical_ref_lna_1.sp.test
+scripts/ms_trl_physical_ref_lna_1.sp.test :: PASSED
+./bipartite1 scripts/local_16.sp.test
+scripts/local_16.sp.test :: PASSED
+./bipartite1 scripts/r2_mch_test5.sp.test
+scripts/r2_mch_test5.sp.test :: PASSED
+./bipartite1 scripts/resmin_3.sp.test
+scripts/resmin_3.sp.test :: PASSED
+./bipartite1 scripts/ipul_neg_3.sp.test
+scripts/ipul_neg_3.sp.test :: PASSED
+./bipartite1 scripts/opsalkey1_ac.sp.test
+scripts/opsalkey1_ac.sp.test :: PASSED
+./bipartite1 scripts/s_element_test_ne68133i.sp.test
+scripts/s_element_test_ne68133i.sp.test :: PASSED
+./bipartite1 scripts/jfet_lna.sp.test
+scripts/jfet_lna.sp.test :: PASSED
+./bipartite1 scripts/osl_trl_physical_hb_3.sp.test
+scripts/osl_trl_physical_hb_3.sp.test :: PASSED
+./bipartite1 scripts/input.sp.test
+scripts/input.sp.test :: PASSED
+./bipartite1 scripts/m_inherit.sp.test
+scripts/m_inherit.sp.test :: PASSED
+./bipartite1 scripts/res_bulk_3a.sp.test
+scripts/res_bulk_3a.sp.test :: PASSED
+./bipartite1 scripts/resistor_temp_117.sp.test
+scripts/resistor_temp_117.sp.test :: PASSED
+./bipartite1 scripts/gp_bjt_npns2_tran.sp.test
+scripts/gp_bjt_npns2_tran.sp.test :: PASSED
+./bipartite1 scripts/r2_mch_test1.sp.test
+scripts/r2_mch_test1.sp.test :: PASSED
+./bipartite1 scripts/local_12.sp.test
+scripts/local_12.sp.test :: PASSED
+./bipartite1 scripts/gcpw_open_stub_physical_lna_example1.sp.test
+scripts/gcpw_open_stub_physical_lna_example1.sp.test :: PASSED
+./bipartite1 scripts/test_s_element_resistor_state_space.sp.test
+scripts/test_s_element_resistor_state_space.sp.test :: PASSED
+./bipartite1 scripts/param_temp_8_base.sp.test
+scripts/param_temp_8_base.sp.test :: PASSED
+./bipartite1 scripts/vam_10.sp.test
+scripts/vam_10.sp.test :: PASSED
+./bipartite1 scripts/vbic01.sp.test
+scripts/vbic01.sp.test :: PASSED
+./bipartite1 scripts/sl_trl_physical_ref_lna_1.sp.test
+scripts/sl_trl_physical_ref_lna_1.sp.test :: PASSED
+./bipartite1 scripts/one_of_everything_tran.sp.test
+scripts/one_of_everything_tran.sp.test :: PASSED
+./bipartite1 scripts/cpw_ideal_chain_abcd_Zc30.sp.test
+scripts/cpw_ideal_chain_abcd_Zc30.sp.test :: PASSED
+./bipartite1 scripts/ms_spiral_inductor_lna_1.sp.test
+scripts/ms_spiral_inductor_lna_1.sp.test :: PASSED
+./bipartite1 scripts/ms_unmitered_bend_lna_4.sp.test
+scripts/ms_unmitered_bend_lna_4.sp.test :: PASSED
+./bipartite1 scripts/resistor_para_2.sp.test
+scripts/resistor_para_2.sp.test :: PASSED
+./bipartite1 scripts/fsmodel_example4.sp.test
+scripts/fsmodel_example4.sp.test :: PASSED
+./bipartite1 scripts/param_caps_6.sp.test
+scripts/param_caps_6.sp.test :: PASSED
+./bipartite1 scripts/s_element_test_txline_lna.sp.test
+scripts/s_element_test_txline_lna.sp.test :: PASSED
+./bipartite1 scripts/miximpar_new.sp.test
+scripts/miximpar_new.sp.test :: PASSED
+./bipartite1 scripts/ms_tee_tran_1.sp.test
+scripts/ms_tee_tran_1.sp.test :: PASSED
+./bipartite1 scripts/testcase6_a.sp.test
+scripts/testcase6_a.sp.test :: PASSED
+./bipartite1 scripts/resistor_para_6.sp.test
+scripts/resistor_para_6.sp.test :: PASSED
+./bipartite1 scripts/class_c_rf.sp.test
+scripts/class_c_rf.sp.test :: PASSED
+./bipartite1 scripts/param_caps_2.sp.test
+scripts/param_caps_2.sp.test :: PASSED
+./bipartite1 scripts/neg_4.sp.test
+scripts/neg_4.sp.test :: PASSED
+./bipartite1 scripts/w_eric_bracken_table.sp.test
+scripts/w_eric_bracken_table.sp.test :: PASSED
+./bipartite1 scripts/colpitts.sp.test
+scripts/colpitts.sp.test :: PASSED
+./bipartite1 scripts/ms_via_pad_ref_hb_3.sp.test
+scripts/ms_via_pad_ref_hb_3.sp.test :: PASSED
+./bipartite1 scripts/s_element_test_quasi_microstrip_coupler_lna.sp.test
+scripts/s_element_test_quasi_microstrip_coupler_lna.sp.test :: PASSED
+./bipartite1 scripts/ms_open_stub_physical_hb_2.sp.test
+scripts/ms_open_stub_physical_hb_2.sp.test :: PASSED
+./bipartite1 scripts/vexp_8.sp.test
+scripts/vexp_8.sp.test :: PASSED
+./bipartite1 scripts/sl_gap_asymmetric_hb_2.sp.test
+scripts/sl_gap_asymmetric_hb_2.sp.test :: PASSED
+./bipartite1 scripts/vsffm_6.sp.test
+scripts/vsffm_6.sp.test :: PASSED
+./bipartite1 scripts/local_5.sp.test
+scripts/local_5.sp.test :: PASSED
+./bipartite1 scripts/vpwl_neg_2.sp.test
+scripts/vpwl_neg_2.sp.test :: PASSED
+./bipartite1 scripts/sl_step_lna_2.sp.test
+scripts/sl_step_lna_2.sp.test :: PASSED
+./bipartite1 scripts/local_28.sp.test
+scripts/local_28.sp.test :: PASSED
+./bipartite1 scripts/w_distortionless.sp.test
+scripts/w_distortionless.sp.test :: PASSED
+./bipartite1 scripts/resistor_with_cap_s_external.sp.test
+scripts/resistor_with_cap_s_external.sp.test :: PASSED
+./bipartite1 scripts/sram_bsim3_dc.sp.test
+scripts/sram_bsim3_dc.sp.test :: PASSED
+./bipartite1 scripts/sl_gap_asymmetric_tran_2.sp.test
+scripts/sl_gap_asymmetric_tran_2.sp.test :: PASSED
+./bipartite1 scripts/testcase1_a.sp.test
+scripts/testcase1_a.sp.test :: PASSED
+./bipartite1 scripts/param_temp_9.sp.test
+scripts/param_temp_9.sp.test :: PASSED
+./bipartite1 scripts/nmos_r_inverter_bsim3.sp.test
+scripts/nmos_r_inverter_bsim3.sp.test :: PASSED
+./bipartite1 scripts/gp_bjt_npn1_dc.sp.test
+scripts/gp_bjt_npn1_dc.sp.test :: PASSED
+./bipartite1 scripts/test_io_ramp.sp.test
+scripts/test_io_ramp.sp.test :: PASSED
+./bipartite1 scripts/sl_gap_symmetric_tran_1.sp.test
+scripts/sl_gap_symmetric_tran_1.sp.test :: PASSED
+./bipartite1 scripts/local_1.sp.test
+scripts/local_1.sp.test :: PASSED
+./bipartite1 scripts/resistor_temp_129.sp.test
+scripts/resistor_temp_129.sp.test :: PASSED
+./bipartite1 scripts/vsffm_2.sp.test
+scripts/vsffm_2.sp.test :: PASSED
+./bipartite1 scripts/sl_via_pad_tran_3.sp.test
+scripts/sl_via_pad_tran_3.sp.test :: PASSED
+./bipartite1 scripts/sl_mitered_bend_hb_2.sp.test
+scripts/sl_mitered_bend_hb_2.sp.test :: PASSED
+./bipartite1 scripts/sl_via_hole_lna_2.sp.test
+scripts/sl_via_hole_lna_2.sp.test :: PASSED
+./bipartite1 scripts/test_y_and_z_tran.sp.test
+scripts/test_y_and_z_tran.sp.test :: PASSED
+./bipartite1 scripts/simple_float_1a.sp.test
+scripts/simple_float_1a.sp.test :: PASSED
+./bipartite1 scripts/ms_open_end_lna.sp.test
+scripts/ms_open_end_lna.sp.test :: PASSED
+./bipartite1 scripts/g_beh_pos_2.sp.test
+scripts/g_beh_pos_2.sp.test :: PASSED
+./bipartite1 scripts/param_temp_1.sp.test
+scripts/param_temp_1.sp.test :: PASSED
+./bipartite1 scripts/local_24.sp.test
+scripts/local_24.sp.test :: PASSED
+./bipartite1 scripts/diodemixer.sp.test
+scripts/diodemixer.sp.test :: PASSED
+./bipartite1 scripts/pat_impedence.sp.test
+scripts/pat_impedence.sp.test :: PASSED
+./bipartite1 scripts/negative_impedance_converter_lna_example1.sp.test
+scripts/negative_impedance_converter_lna_example1.sp.test :: PASSED
+./bipartite1 scripts/vexp_4.sp.test
+scripts/vexp_4.sp.test :: PASSED
+./bipartite1 scripts/first_line_7.sp.test
+scripts/first_line_7.sp.test :: PASSED
+./bipartite1 scripts/local_9.sp.test
+scripts/local_9.sp.test :: PASSED
+./bipartite1 scripts/test_3_state_dyclamp_w2t.sp.test
+scripts/test_3_state_dyclamp_w2t.sp.test :: PASSED
+./bipartite1 scripts/ms_unmitered_bend_tran_4.sp.test
+scripts/ms_unmitered_bend_tran_4.sp.test :: PASSED
+./bipartite1 scripts/first_line_3.sp.test
+scripts/first_line_3.sp.test :: PASSED
+./bipartite1 scripts/closed_chain_of_inverters.sp.test
+scripts/closed_chain_of_inverters.sp.test :: PASSED
+./bipartite1 scripts/dcvolt.sp.test
+scripts/dcvolt.sp.test :: PASSED
+./bipartite1 scripts/exp_with_cap_base.sp.test
+scripts/exp_with_cap_base.sp.test :: PASSED
+./bipartite1 scripts/s_element_test_ideal_delay50_lna.sp.test
+scripts/s_element_test_ideal_delay50_lna.sp.test :: PASSED
+./bipartite1 scripts/spectre_lna_envelope_sweep.sp.test
+scripts/spectre_lna_envelope_sweep.sp.test :: PASSED
+./bipartite1 scripts/local_20.sp.test
+scripts/local_20.sp.test :: PASSED
+./bipartite1 scripts/InvOsc.sp.test
+scripts/InvOsc.sp.test :: PASSED
+./bipartite1 scripts/param_temp_5.sp.test
+scripts/param_temp_5.sp.test :: PASSED
+./bipartite1 scripts/ms_taper_w_ref_tran_2.sp.test
+scripts/ms_taper_w_ref_tran_2.sp.test :: PASSED
+./bipartite1 scripts/test_3_state_w2t.sp.test
+scripts/test_3_state_w2t.sp.test :: PASSED
+./bipartite1 scripts/temperatureacsweep.sp.test
+scripts/temperatureacsweep.sp.test :: PASSED
+./bipartite1 scripts/vexp_10.sp.test
+scripts/vexp_10.sp.test :: PASSED
+./bipartite1 scripts/w_amd_table_hb.sp.test
+scripts/w_amd_table_hb.sp.test :: PASSED
+./bipartite1 scripts/ms_open_stub_electrical_lna.sp.test
+scripts/ms_open_stub_electrical_lna.sp.test :: PASSED
+./bipartite1 scripts/pat10.sp.test
+scripts/pat10.sp.test :: PASSED
+./bipartite1 scripts/ram2k_bsim3.sp.test
+scripts/ram2k_bsim3.sp.test :: PASSED
+./bipartite1 scripts/resistor_temp_9.sp.test
+scripts/resistor_temp_9.sp.test :: PASSED
+./bipartite1 scripts/cple_lna_example1.sp.test
+scripts/cple_lna_example1.sp.test :: PASSED
+./bipartite1 scripts/sl_mitered_bend_lna_3.sp.test
+scripts/sl_mitered_bend_lna_3.sp.test :: PASSED
+./bipartite1 scripts/acsweeptest.sp.test
+scripts/acsweeptest.sp.test :: PASSED
+./bipartite1 scripts/sl_mitered_bend_tran_3.sp.test
+scripts/sl_mitered_bend_tran_3.sp.test :: PASSED
+./bipartite1 scripts/ms_spiral_inductor_tran_1.sp.test
+scripts/ms_spiral_inductor_tran_1.sp.test :: PASSED
+./bipartite1 scripts/sl_gap_symmetric_lna_2.sp.test
+scripts/sl_gap_symmetric_lna_2.sp.test :: PASSED
+./bipartite1 scripts/param_bulk_1.sp.test
+scripts/param_bulk_1.sp.test :: PASSED
+./bipartite1 scripts/resistor_temp_45.sp.test
+scripts/resistor_temp_45.sp.test :: PASSED
+./bipartite1 scripts/indq_hb_1.sp.test
+scripts/indq_hb_1.sp.test :: PASSED
+./bipartite1 scripts/w_amd_table.sp.test
+scripts/w_amd_table.sp.test :: PASSED
+./bipartite1 scripts/s_element_test_ne32100a_hb.sp.test
+scripts/s_element_test_ne32100a_hb.sp.test :: PASSED
+./bipartite1 scripts/vec_fullspec_data_with_t.sp.test
+scripts/vec_fullspec_data_with_t.sp.test :: PASSED
+./bipartite1 scripts/vec_tdelay.sp.test
+scripts/vec_tdelay.sp.test :: PASSED
+./bipartite1 scripts/ms_via_hole_tran_1.sp.test
+scripts/ms_via_hole_tran_1.sp.test :: PASSED
+./bipartite1 scripts/sl_trl_physical_lna_2.sp.test
+scripts/sl_trl_physical_lna_2.sp.test :: PASSED
+./bipartite1 scripts/sl_via_pad_hb_3.sp.test
+scripts/sl_via_pad_hb_3.sp.test :: PASSED
+./bipartite1 scripts/osl_trl_physical_lna_1.sp.test
+scripts/osl_trl_physical_lna_1.sp.test :: PASSED
+./bipartite1 scripts/sl_via_pad_ref_tran_2.sp.test
+scripts/sl_via_pad_ref_tran_2.sp.test :: PASSED
+./bipartite1 scripts/ibis_hspice_test.sp.test
+scripts/ibis_hspice_test.sp.test :: PASSED
+./bipartite1 scripts/binning_positive.sp.test
+scripts/binning_positive.sp.test :: PASSED
+./bipartite1 scripts/ipwl_neg_2.sp.test
+scripts/ipwl_neg_2.sp.test :: PASSED
+./bipartite1 scripts/neg_5way_1.sp.test
+scripts/neg_5way_1.sp.test :: PASSED
+./bipartite1 scripts/vc2_pwl_cy37xi3_5_pullup_table.sp.test
+scripts/vc2_pwl_cy37xi3_5_pullup_table.sp.test :: PASSED
+./bipartite1 scripts/ms_step_tran_2.sp.test
+scripts/ms_step_tran_2.sp.test :: PASSED
+./bipartite1 scripts/test_s_element_resistor_convolution.sp.test
+scripts/test_s_element_resistor_convolution.sp.test :: PASSED
+./bipartite1 scripts/r2_mch_test20.sp.test
+scripts/r2_mch_test20.sp.test :: PASSED
+./bipartite1 scripts/gcpw_cross_lna_example1.sp.test
+scripts/gcpw_cross_lna_example1.sp.test :: PASSED
+./bipartite1 scripts/cont_1.sp.test
+scripts/cont_1.sp.test :: PASSED
+./bipartite1 scripts/ipwl_7.sp.test
+scripts/ipwl_7.sp.test :: PASSED
+./bipartite1 scripts/vrbs_1.sp.test
+scripts/vrbs_1.sp.test :: PASSED
+./bipartite1 scripts/w_amd2_lossless_1ps_timestep.sp.test
+scripts/w_amd2_lossless_1ps_timestep.sp.test :: PASSED
+./bipartite1 scripts/s_element_test_viahole_with_reference.sp.test
+scripts/s_element_test_viahole_with_reference.sp.test :: PASSED
+./bipartite1 scripts/ipwl_3.sp.test
+scripts/ipwl_3.sp.test :: PASSED
+./bipartite1 scripts/ms_tfc_tran_2.sp.test
+scripts/ms_tfc_tran_2.sp.test :: PASSED
+./bipartite1 scripts/chain_cmos_2_series_51.sp.test
+scripts/chain_cmos_2_series_51.sp.test :: PASSED
+./bipartite1 scripts/global_9.sp.test
+scripts/global_9.sp.test :: PASSED
+./bipartite1 scripts/vpwl_neg_11.sp.test
+scripts/vpwl_neg_11.sp.test :: PASSED
+./bipartite1 scripts/r2_mch_test24.sp.test
+scripts/r2_mch_test24.sp.test :: PASSED
+./bipartite1 scripts/m_1.sp.test
+scripts/m_1.sp.test :: PASSED
+./bipartite1 scripts/resistor_para_28.sp.test
+scripts/resistor_para_28.sp.test :: PASSED
+./bipartite1 scripts/s_element_test_resistive_coax_lna.sp.test
+scripts/s_element_test_resistive_coax_lna.sp.test :: PASSED
+./bipartite1 scripts/global_1.sp.test
+scripts/global_1.sp.test :: PASSED
+./bipartite1 scripts/s_element_test_ne32100a_ac.sp.test
+scripts/s_element_test_ne32100a_ac.sp.test :: PASSED
+./bipartite1 scripts/sl_taper_w_ref_lna_2.sp.test
+scripts/sl_taper_w_ref_lna_2.sp.test :: PASSED
+./bipartite1 scripts/resistor_para_20.sp.test
+scripts/resistor_para_20.sp.test :: PASSED
+./bipartite1 scripts/catfish.sp.test
+scripts/catfish.sp.test :: PASSED
+./bipartite1 scripts/param_bulk_base_1.sp.test
+scripts/param_bulk_base_1.sp.test :: PASSED
+./bipartite1 scripts/ms_via_hole_ref_hb_2.sp.test
+scripts/ms_via_hole_ref_hb_2.sp.test :: PASSED
+./bipartite1 scripts/pos_1.sp.test
+scripts/pos_1.sp.test :: PASSED
+./bipartite1 scripts/bias_ac.sp.test
+scripts/bias_ac.sp.test :: PASSED
+./bipartite1 scripts/sl_trl_physical_hb_1.sp.test
+scripts/sl_trl_physical_hb_1.sp.test :: PASSED
+./bipartite1 scripts/resistor_para_24.sp.test
+scripts/resistor_para_24.sp.test :: PASSED
+./bipartite1 scripts/sl_step_tran_1.sp.test
+scripts/sl_step_tran_1.sp.test :: PASSED
+./bipartite1 scripts/global_5.sp.test
+scripts/global_5.sp.test :: PASSED
+./bipartite1 scripts/e_delay_pos_1.sp.test
+scripts/e_delay_pos_1.sp.test :: PASSED
+./bipartite1 scripts/ms_unmitered_bend_hb_3.sp.test
+scripts/ms_unmitered_bend_hb_3.sp.test :: PASSED
+./bipartite1 scripts/test_s_element_variable_port_impedance_lna_m2.sp.test
+scripts/test_s_element_variable_port_impedance_lna_m2.sp.test :: PASSED
+./bipartite1 scripts/w_eric_bracken_rlgc.sp.test
+scripts/w_eric_bracken_rlgc.sp.test :: PASSED
+./bipartite1 scripts/sl_via_hole_tran_2.sp.test
+scripts/sl_via_hole_tran_2.sp.test :: PASSED
+./bipartite1 scripts/param_caps_base_5.sp.test
+scripts/param_caps_base_5.sp.test :: PASSED
+./bipartite1 scripts/bizarre_1.sp.test
+scripts/bizarre_1.sp.test :: PASSED
+./bipartite1 scripts/sl_via_pad_ref_lna_3.sp.test
+scripts/sl_via_pad_ref_lna_3.sp.test :: PASSED
+./bipartite1 scripts/port_imped_1.sp.test
+scripts/port_imped_1.sp.test :: PASSED
+./bipartite1 scripts/indq_lna_2.sp.test
+scripts/indq_lna_2.sp.test :: PASSED
+./bipartite1 scripts/sl_gap_symmetric_hb_2.sp.test
+scripts/sl_gap_symmetric_hb_2.sp.test :: PASSED
+./bipartite1 scripts/s_element_test_txline.sp.test
+scripts/s_element_test_txline.sp.test :: PASSED
+./bipartite1 scripts/local_45.sp.test
+scripts/local_45.sp.test :: PASSED
+./bipartite1 scripts/param_caps_base_1.sp.test
+scripts/param_caps_base_1.sp.test :: PASSED
+./bipartite1 scripts/gilbertcell_tran.sp.test
+scripts/gilbertcell_tran.sp.test :: PASSED
+./bipartite1 scripts/gp_bjt_npns2_dc.sp.test
+scripts/gp_bjt_npns2_dc.sp.test :: PASSED
+./bipartite1 scripts/vanderpol_multi.sp.test
+scripts/vanderpol_multi.sp.test :: PASSED
+./bipartite1 scripts/ms_rect_inductor_lna_3.sp.test
+scripts/ms_rect_inductor_lna_3.sp.test :: PASSED
+./bipartite1 scripts/vrbs_lna_1.sp.test
+scripts/vrbs_lna_1.sp.test :: PASSED
+./bipartite1 scripts/ipul_tran_7.sp.test
+scripts/ipul_tran_7.sp.test :: PASSED
+./bipartite1 scripts/e_trans_pos_1.sp.test
+scripts/e_trans_pos_1.sp.test :: [MC64-INFO-2] 
+./bipartite1 scripts/floating_1.sp.test
+scripts/floating_1.sp.test :: PASSED
+./bipartite1 scripts/osl_trl_physical_ref_tran_3.sp.test
+scripts/osl_trl_physical_ref_tran_3.sp.test :: PASSED
+./bipartite1 scripts/vrbs_neg_1.sp.test
+scripts/vrbs_neg_1.sp.test :: PASSED
+./bipartite1 scripts/ipul_tran_3.sp.test
+scripts/ipul_tran_3.sp.test :: PASSED
+./bipartite1 scripts/numeric_node_names.sp.test
+scripts/numeric_node_names.sp.test :: PASSED
+./bipartite1 scripts/temper_2.sp.test
+scripts/temper_2.sp.test :: PASSED
+./bipartite1 scripts/cpwtee_lna_example1.sp.test
+scripts/cpwtee_lna_example1.sp.test :: PASSED
+./bipartite1 scripts/values_neg_1_hspice.sp.test
+scripts/values_neg_1_hspice.sp.test :: PASSED
+./bipartite1 scripts/small_4.sp.test
+scripts/small_4.sp.test :: PASSED
+./bipartite1 scripts/local_25.sp.test
+scripts/local_25.sp.test :: PASSED
+./bipartite1 scripts/local_8.sp.test
+scripts/local_8.sp.test :: PASSED
+./bipartite1 scripts/ms_unmitered_bend_tran_1.sp.test
+scripts/ms_unmitered_bend_tran_1.sp.test :: PASSED
+./bipartite1 scripts/uwb_rx_v3.sp.test
+scripts/uwb_rx_v3.sp.test :: PASSED
+./bipartite1 scripts/vexp_5.sp.test
+scripts/vexp_5.sp.test :: PASSED
+./bipartite1 scripts/first_line_6.sp.test
+scripts/first_line_6.sp.test :: PASSED
+./bipartite1 scripts/ipwl_12.sp.test
+scripts/ipwl_12.sp.test :: PASSED
+./bipartite1 scripts/ideal_integrator_01.sp.test
+scripts/ideal_integrator_01.sp.test :: PASSED
+./bipartite1 scripts/rfid_postsim_issue.sp.test
+scripts/rfid_postsim_issue.sp.test :: PASSED
+./bipartite1 scripts/qam_iq_testing.sp.test
+scripts/qam_iq_testing.sp.test :: PASSED
+./bipartite1 scripts/vexp_1.sp.test
+scripts/vexp_1.sp.test :: PASSED
+./bipartite1 scripts/first_line_2.sp.test
+scripts/first_line_2.sp.test :: PASSED
+./bipartite1 scripts/param_temp_4_base.sp.test
+scripts/param_temp_4_base.sp.test :: PASSED
+./bipartite1 scripts/s_element_test_intial_50ghz_mesh_2_lna.sp.test
+scripts/s_element_test_intial_50ghz_mesh_2_lna.sp.test :: PASSED
+./bipartite1 scripts/hierarchical_node_names.sp.test
+scripts/hierarchical_node_names.sp.test :: PASSED
+./bipartite1 scripts/gp_bjt_pnp1_tran.sp.test
+scripts/gp_bjt_pnp1_tran.sp.test :: PASSED
+./bipartite1 scripts/temp_1+2.sp.test
+scripts/temp_1+2.sp.test :: PASSED
+./bipartite1 scripts/param_temp_4.sp.test
+scripts/param_temp_4.sp.test :: PASSED
+./bipartite1 scripts/local_21.sp.test
+scripts/local_21.sp.test :: PASSED
+./bipartite1 scripts/pat_vhvl.sp.test
+scripts/pat_vhvl.sp.test :: PASSED
+./bipartite1 scripts/gp_bjt_pnps2_hb.sp.test
+scripts/gp_bjt_pnps2_hb.sp.test :: PASSED
+./bipartite1 scripts/s_element_test_ne32100a.sp.test
+scripts/s_element_test_ne32100a.sp.test :: PASSED
+./bipartite1 scripts/chain_cmos_2_series_11_b.sp.test
+scripts/chain_cmos_2_series_11_b.sp.test :: PASSED
+./bipartite1 scripts/ideal_shorted_stub_physical_lna_ref_example1.sp.test
+scripts/ideal_shorted_stub_physical_lna_ref_example1.sp.test :: PASSED
+./bipartite1 scripts/switched_gm_mixer.sp.test
+scripts/switched_gm_mixer.sp.test :: PASSED
+./bipartite1 scripts/local_4.sp.test
+scripts/local_4.sp.test :: PASSED
+./bipartite1 scripts/vsffm_7.sp.test
+scripts/vsffm_7.sp.test :: PASSED
+./bipartite1 scripts/amp_core3.sp.test
+scripts/amp_core3.sp.test :: PASSED
+./bipartite1 scripts/vexp_9.sp.test
+scripts/vexp_9.sp.test :: PASSED
+./bipartite1 scripts/vec_io_i.sp.test
+scripts/vec_io_i.sp.test :: PASSED
+./bipartite1 scripts/local_29.sp.test
+scripts/local_29.sp.test :: PASSED
+./bipartite1 scripts/gilbertcell_hb_memoverspeed.sp.test
+scripts/gilbertcell_hb_memoverspeed.sp.test :: PASSED
+./bipartite1 scripts/vpwl_neg_3.sp.test
+scripts/vpwl_neg_3.sp.test :: PASSED
+./bipartite1 scripts/dcap_vs_fc_warning.sp.test
+scripts/dcap_vs_fc_warning.sp.test :: PASSED
+./bipartite1 scripts/capacitor_q_example1.sp.test
+scripts/capacitor_q_example1.sp.test :: PASSED
+./bipartite1 scripts/sl_via_hole_ref_tran_1.sp.test
+scripts/sl_via_hole_ref_tran_1.sp.test :: PASSED
+./bipartite1 scripts/vpwl_neg_7.sp.test
+scripts/vpwl_neg_7.sp.test :: PASSED
+./bipartite1 scripts/param_temp_8.sp.test
+scripts/param_temp_8.sp.test :: PASSED
+./bipartite1 scripts/vec_tfall.sp.test
+scripts/vec_tfall.sp.test :: PASSED
+./bipartite1 scripts/s_element_test_ideal_delay_ac.sp.test
+scripts/s_element_test_ideal_delay_ac.sp.test :: PASSED
+./bipartite1 scripts/sl_gap_asymmetric_lna_2.sp.test
+scripts/sl_gap_asymmetric_lna_2.sp.test :: PASSED
+./bipartite1 scripts/s_element_test_transmission50_data_lna.sp.test
+scripts/s_element_test_transmission50_data_lna.sp.test :: PASSED
+./bipartite1 scripts/sl_via_pad_tran_2.sp.test
+scripts/sl_via_pad_tran_2.sp.test :: PASSED
+./bipartite1 scripts/sl_mitered_bend_hb_3.sp.test
+scripts/sl_mitered_bend_hb_3.sp.test :: PASSED
+./bipartite1 scripts/vsffm_3.sp.test
+scripts/vsffm_3.sp.test :: PASSED
+./bipartite1 scripts/resistor_temp_93.sp.test
+scripts/resistor_temp_93.sp.test :: PASSED
+./bipartite1 scripts/equalizer_testing.sp.test
+scripts/equalizer_testing.sp.test :: PASSED
+./bipartite1 scripts/bjt_amps_32_hb_r_sweep.sp.test
+scripts/bjt_amps_32_hb_r_sweep.sp.test :: PASSED
+./bipartite1 scripts/global_25.sp.test
+scripts/global_25.sp.test :: PASSED
+./bipartite1 scripts/gp_bjt_npn1_tran.sp.test
+scripts/gp_bjt_npn1_tran.sp.test :: PASSED
+./bipartite1 scripts/sl_via_pad_hb_2.sp.test
+scripts/sl_via_pad_hb_2.sp.test :: PASSED
+./bipartite1 scripts/param_caps_base.sp.test
+scripts/param_caps_base.sp.test :: PASSED
+./bipartite1 scripts/gcpw_short_stub_electrical_lna_example1.sp.test
+scripts/gcpw_short_stub_electrical_lna_example1.sp.test :: PASSED
+./bipartite1 scripts/aki.sp.test
+scripts/aki.sp.test :: PASSED
+./bipartite1 scripts/test_io_dyclamp_w1t.sp.test
+scripts/test_io_dyclamp_w1t.sp.test :: PASSED
+./bipartite1 scripts/ipwl_neg_7.sp.test
+scripts/ipwl_neg_7.sp.test :: PASSED
+./bipartite1 scripts/gp_bjt_pnp1_ac.sp.test
+scripts/gp_bjt_pnp1_ac.sp.test :: PASSED
+./bipartite1 scripts/sl_via_pad_ref_tran_3.sp.test
+scripts/sl_via_pad_ref_tran_3.sp.test :: PASSED
+./bipartite1 scripts/param_cratio_1.sp.test
+scripts/param_cratio_1.sp.test :: PASSED
+./bipartite1 scripts/double_balanced_mixer2.sp.test
+scripts/double_balanced_mixer2.sp.test :: PASSED
+./bipartite1 scripts/ipwl_neg_3.sp.test
+scripts/ipwl_neg_3.sp.test :: PASSED
+./bipartite1 scripts/subckt.sp.test
+scripts/subckt.sp.test :: PASSED
+./bipartite1 scripts/global_21.sp.test
+scripts/global_21.sp.test :: PASSED
+./bipartite1 scripts/testcase1_default.sp.test
+scripts/testcase1_default.sp.test :: PASSED
+./bipartite1 scripts/ms_taper_w_ref_tran_3.sp.test
+scripts/ms_taper_w_ref_tran_3.sp.test :: PASSED
+./bipartite1 scripts/s_element_test_intcap4f76_hb.sp.test
+scripts/s_element_test_intcap4f76_hb.sp.test :: PASSED
+./bipartite1 scripts/vexp_11.sp.test
+scripts/vexp_11.sp.test :: PASSED
+./bipartite1 scripts/gcpw_open_stub_e_lna_example1.sp.test
+scripts/gcpw_open_stub_e_lna_example1.sp.test :: PASSED
+./bipartite1 scripts/mos_mixer_bsim3.sp.test
+scripts/mos_mixer_bsim3.sp.test :: PASSED
+./bipartite1 scripts/comment_1.sp.test
+scripts/comment_1.sp.test :: PASSED
+./bipartite1 scripts/node_count_as_r_decrease.sp.test
+scripts/node_count_as_r_decrease.sp.test :: PASSED
+./bipartite1 scripts/s_parameter_testing.sp.test
+scripts/s_parameter_testing.sp.test :: PASSED
+./bipartite1 scripts/test_output_w1t.sp.test
+scripts/test_output_w1t.sp.test :: PASSED
+./bipartite1 scripts/sl_mitered_bend_tran_2.sp.test
+scripts/sl_mitered_bend_tran_2.sp.test :: PASSED
+./bipartite1 scripts/param_temp_neg.sp.test
+scripts/param_temp_neg.sp.test :: PASSED
+./bipartite1 scripts/741_opamp.sp.test
+scripts/741_opamp.sp.test :: PASSED
+./bipartite1 scripts/sl_mitered_bend_lna_2.sp.test
+scripts/sl_mitered_bend_lna_2.sp.test :: PASSED
+./bipartite1 scripts/div2_hb_not_tr.sp.test
+scripts/div2_hb_not_tr.sp.test :: PASSED
+./bipartite1 scripts/create_ic_file.sp.test
+scripts/create_ic_file.sp.test :: PASSED
+./bipartite1 scripts/s_element_test_ph25_8x75_2v36ma.sp.test
+scripts/s_element_test_ph25_8x75_2v36ma.sp.test :: PASSED
+./bipartite1 scripts/resmin_exp_1.sp.test
+scripts/resmin_exp_1.sp.test :: PASSED
+./bipartite1 scripts/ind_f.sp.test
+scripts/ind_f.sp.test :: PASSED
+./bipartite1 scripts/ac_coupled_amplifier.sp.test
+scripts/ac_coupled_amplifier.sp.test :: PASSED
+./bipartite1 scripts/rx_hb.sp.test
+scripts/rx_hb.sp.test :: PASSED
+./bipartite1 scripts/param_temp_5_base.sp.test
+scripts/param_temp_5_base.sp.test :: PASSED
+./bipartite1 scripts/test_s_element_passivity.sp.test
+scripts/test_s_element_passivity.sp.test :: PASSED
+./bipartite1 scripts/vec_trise.sp.test
+scripts/vec_trise.sp.test :: PASSED
+./bipartite1 scripts/print_wildcards_2.sp.test
+scripts/print_wildcards_2.sp.test :: PASSED
+./bipartite1 scripts/res_bulk_1.sp.test
+scripts/res_bulk_1.sp.test :: PASSED
+./bipartite1 scripts/sl_taper_w_ref_lna_3.sp.test
+scripts/sl_taper_w_ref_lna_3.sp.test :: PASSED
+./bipartite1 scripts/test_3_state_diff_pin.sp.test
+scripts/test_3_state_diff_pin.sp.test :: [SINGULAR]
+./bipartite1 scripts/vreg_ac_all_nodes.sp.test
+scripts/vreg_ac_all_nodes.sp.test :: PASSED
+./bipartite1 scripts/e_laplace_pos_1.sp.test
+scripts/e_laplace_pos_1.sp.test :: PASSED
+./bipartite1 scripts/resistor_para_21.sp.test
+scripts/resistor_para_21.sp.test :: PASSED
+./bipartite1 scripts/ms_via_pad_lna_1.sp.test
+scripts/ms_via_pad_lna_1.sp.test :: PASSED
+./bipartite1 scripts/sl_unmitered_bend_lna_1.sp.test
+scripts/sl_unmitered_bend_lna_1.sp.test :: PASSED
+./bipartite1 scripts/s_element_test_6_traces_lna.sp.test
+scripts/s_element_test_6_traces_lna.sp.test :: PASSED
+./bipartite1 scripts/resistor_para_25.sp.test
+scripts/resistor_para_25.sp.test :: PASSED
+./bipartite1 scripts/bot_c_dr20.sp.test
+scripts/bot_c_dr20.sp.test :: PASSED
+./bipartite1 scripts/sl_trl_physical_tran_1.sp.test
+scripts/sl_trl_physical_tran_1.sp.test :: PASSED
+./bipartite1 scripts/cmos_lna_hb.sp.test
+scripts/cmos_lna_hb.sp.test :: PASSED
+./bipartite1 scripts/amd.sp.test
+scripts/amd.sp.test :: PASSED
+./bipartite1 scripts/s_element_test_dirhi_2g_lna.sp.test
+scripts/s_element_test_dirhi_2g_lna.sp.test :: PASSED
+./bipartite1 scripts/ms_unmitered_bend_hb_2.sp.test
+scripts/ms_unmitered_bend_hb_2.sp.test :: PASSED
+./bipartite1 scripts/vc1_pwl_cy37xi3_5_gndclamp_table.sp.test
+scripts/vc1_pwl_cy37xi3_5_gndclamp_table.sp.test :: PASSED
+./bipartite1 scripts/ideal_open_stub_physical_lna_ref_example1.sp.test
+scripts/ideal_open_stub_physical_lna_ref_example1.sp.test :: PASSED
+./bipartite1 scripts/resistor_temp_21.sp.test
+scripts/resistor_temp_21.sp.test :: PASSED
+./bipartite1 scripts/test_io_diff_pin.sp.test
+scripts/test_io_diff_pin.sp.test :: PASSED
+./bipartite1 scripts/global_4.sp.test
+scripts/global_4.sp.test :: PASSED
+./bipartite1 scripts/s_element_test_intcap4f76_ac.sp.test
+scripts/s_element_test_intcap4f76_ac.sp.test :: PASSED
+./bipartite1 scripts/ms_open_end_transient.sp.test
+scripts/ms_open_end_transient.sp.test :: PASSED
+./bipartite1 scripts/ms_trl_electrical_ref_lna.sp.test
+scripts/ms_trl_electrical_ref_lna.sp.test :: PASSED
+./bipartite1 scripts/ms_tfc_lna_1.sp.test
+scripts/ms_tfc_lna_1.sp.test :: PASSED
+./bipartite1 scripts/alter_multiple_print_1.sp.test
+scripts/alter_multiple_print_1.sp.test :: PASSED
+./bipartite1 scripts/param_temp_7_base.sp.test
+scripts/param_temp_7_base.sp.test :: PASSED
+./bipartite1 scripts/ipwl_6.sp.test
+scripts/ipwl_6.sp.test :: PASSED
+./bipartite1 scripts/simple_diode_mixer.sp.test
+scripts/simple_diode_mixer.sp.test :: PASSED
+./bipartite1 scripts/ms_trl_physical_ref_hb_1.sp.test
+scripts/ms_trl_physical_ref_hb_1.sp.test :: PASSED
+./bipartite1 scripts/gilbert_bjt.sp.test
+scripts/gilbert_bjt.sp.test :: PASSED
+./bipartite1 scripts/gp_bjt_pnp2_tran.sp.test
+scripts/gp_bjt_pnp2_tran.sp.test :: PASSED
+./bipartite1 scripts/local_63.sp.test
+scripts/local_63.sp.test :: PASSED
+./bipartite1 scripts/ms_tfc_tran_3.sp.test
+scripts/ms_tfc_tran_3.sp.test :: PASSED
+./bipartite1 scripts/gp_bjt_pnp1_hb.sp.test
+scripts/gp_bjt_pnp1_hb.sp.test :: PASSED
+./bipartite1 scripts/ipwl_2.sp.test
+scripts/ipwl_2.sp.test :: PASSED
+./bipartite1 scripts/vrbs_4.sp.test
+scripts/vrbs_4.sp.test :: PASSED
+./bipartite1 scripts/digfi_bsim3.sp.test
+scripts/digfi_bsim3.sp.test :: PASSED
+./bipartite1 scripts/bjt_amps_32_hb_k_sweep.sp.test
+scripts/bjt_amps_32_hb_k_sweep.sp.test :: PASSED
+./bipartite1 scripts/global_8.sp.test
+scripts/global_8.sp.test :: PASSED
+./bipartite1 scripts/test_output_dyclamp_w1t.sp.test
+scripts/test_output_dyclamp_w1t.sp.test :: PASSED
+./bipartite1 scripts/ms_via_pad_hb_1.sp.test
+scripts/ms_via_pad_hb_1.sp.test :: PASSED
+./bipartite1 scripts/resistor_para_29.sp.test
+scripts/resistor_para_29.sp.test :: PASSED
+./bipartite1 scripts/sl_trl_electrical_ref_lna.sp.test
+scripts/sl_trl_electrical_ref_lna.sp.test :: PASSED
+./bipartite1 scripts/ipul_tran_6.sp.test
+scripts/ipul_tran_6.sp.test :: PASSED
+./bipartite1 scripts/small_1.sp.test
+scripts/small_1.sp.test :: PASSED
+./bipartite1 scripts/param_temp_6_base.sp.test
+scripts/param_temp_6_base.sp.test :: PASSED
+./bipartite1 scripts/s_element_test_ideal_delay_hb.sp.test
+scripts/s_element_test_ideal_delay_hb.sp.test :: PASSED
+./bipartite1 scripts/param_scale_1a.sp.test
+scripts/param_scale_1a.sp.test :: PASSED
+./bipartite1 scripts/osl_trl_physical_ref_tran_2.sp.test
+scripts/osl_trl_physical_ref_tran_2.sp.test :: PASSED
+./bipartite1 scripts/test_unencrypted.sp.test
+scripts/test_unencrypted.sp.test :: PASSED
+./bipartite1 scripts/vec_default2port.sp.test
+scripts/vec_default2port.sp.test :: PASSED
+./bipartite1 scripts/zero_cap_1.sp.test
+scripts/zero_cap_1.sp.test :: PASSED
+./bipartite1 scripts/diode_single.sp.test
+scripts/diode_single.sp.test :: PASSED
+./bipartite1 scripts/controlled_source_1.sp.test
+scripts/controlled_source_1.sp.test :: PASSED
+./bipartite1 scripts/test_3_state_ramp.sp.test
+scripts/test_3_state_ramp.sp.test :: PASSED
+./bipartite1 scripts/s_element_test_ph25_8x75_2v36ma_lna.sp.test
+scripts/s_element_test_ph25_8x75_2v36ma_lna.sp.test :: PASSED
+./bipartite1 scripts/ipul_tran_2.sp.test
+scripts/ipul_tran_2.sp.test :: PASSED
+./bipartite1 scripts/ms_via_hole_ref_lna_2.sp.test
+scripts/ms_via_hole_ref_lna_2.sp.test :: PASSED
+./bipartite1 scripts/diff_vias.sp.test
+scripts/diff_vias.sp.test :: PASSED
+./bipartite1 scripts/vccs_pwl_pos_1.sp.test
+scripts/vccs_pwl_pos_1.sp.test :: PASSED
+./bipartite1 scripts/local_48.sp.test
+scripts/local_48.sp.test :: PASSED
+./bipartite1 scripts/sl_trl_physical_ref_tran_2.sp.test
+scripts/sl_trl_physical_ref_tran_2.sp.test :: PASSED
+./bipartite1 scripts/s_element_test_transmission50slow.sp.test
+scripts/s_element_test_transmission50slow.sp.test :: PASSED
+./bipartite1 scripts/gp_bjt_pnps2_ac.sp.test
+scripts/gp_bjt_pnps2_ac.sp.test :: PASSED
+./bipartite1 scripts/param_caps_base_4.sp.test
+scripts/param_caps_base_4.sp.test :: PASSED
+./bipartite1 scripts/psk_with_random_seed.sp.test
+scripts/psk_with_random_seed.sp.test :: PASSED
+./bipartite1 scripts/s_element_test_ideal_delay25.sp.test
+scripts/s_element_test_ideal_delay25.sp.test :: PASSED
+./bipartite1 scripts/s_element_test_resistive_coax.sp.test
+scripts/s_element_test_resistive_coax.sp.test :: PASSED
+./bipartite1 scripts/pitt_clap_osc_tran.sp.test
+scripts/pitt_clap_osc_tran.sp.test :: PASSED
+./bipartite1 scripts/ms_via_hole_hb_2.sp.test
+scripts/ms_via_hole_hb_2.sp.test :: PASSED
+./bipartite1 scripts/local_40.sp.test
+scripts/local_40.sp.test :: PASSED
+./bipartite1 scripts/sl_via_pad_ref_lna_2.sp.test
+scripts/sl_via_pad_ref_lna_2.sp.test :: PASSED
+./bipartite1 scripts/two_port_freq_transfer_01.sp.test
+scripts/two_port_freq_transfer_01.sp.test :: PASSED
+./bipartite1 scripts/s_element_test_intcap4f76_lna.sp.test
+scripts/s_element_test_intcap4f76_lna.sp.test :: PASSED
+./bipartite1 scripts/ring_diode.sp.test
+scripts/ring_diode.sp.test :: PASSED
+./bipartite1 scripts/params_first_1.sp.test
+scripts/params_first_1.sp.test :: PASSED
+./bipartite1 scripts/ms_radial_bend_tran_2.sp.test
+scripts/ms_radial_bend_tran_2.sp.test :: PASSED
+./bipartite1 scripts/local_44.sp.test
+scripts/local_44.sp.test :: PASSED
+./bipartite1 scripts/indq_lna_3.sp.test
+scripts/indq_lna_3.sp.test :: PASSED
+./bipartite1 scripts/ms_step_lna_1.sp.test
+scripts/ms_step_lna_1.sp.test :: PASSED
+./bipartite1 scripts/tran_res_f.sp.test
+scripts/tran_res_f.sp.test :: PASSED
+./bipartite1 scripts/number_format_5a.sp.test
+scripts/number_format_5a.sp.test :: PASSED
+./bipartite1 scripts/mos_amps_nonlin_64.sp.test
+scripts/mos_amps_nonlin_64.sp.test :: PASSED
+./bipartite1 scripts/gp_bjt_npn2_tran.sp.test
+scripts/gp_bjt_npn2_tran.sp.test :: PASSED
+./bipartite1 scripts/db_mixer.sp.test
+scripts/db_mixer.sp.test :: PASSED
+./bipartite1 scripts/pos_5way.sp.test
+scripts/pos_5way.sp.test :: PASSED
+./bipartite1 scripts/hsp_bandgapref.sp.test
+scripts/hsp_bandgapref.sp.test :: PASSED
+./bipartite1 scripts/s_element_test_ph25_6x75_2v36_lna.sp.test
+scripts/s_element_test_ph25_6x75_2v36_lna.sp.test :: PASSED
+./bipartite1 scripts/resistor_temp_141.sp.test
+scripts/resistor_temp_141.sp.test :: PASSED
+./bipartite1 scripts/ms_rect_inductor_lna_2.sp.test
+scripts/ms_rect_inductor_lna_2.sp.test :: PASSED
+./bipartite1 scripts/gcpw_trl_e_lna_example1.sp.test
+scripts/gcpw_trl_e_lna_example1.sp.test :: PASSED
+./bipartite1 scripts/test_s_element_citi_file.sp.test
+scripts/test_s_element_citi_file.sp.test :: PASSED
+./bipartite1 scripts/test_alpha_beta_spike_w2t.sp.test
+scripts/test_alpha_beta_spike_w2t.sp.test :: PASSED
+./bipartite1 scripts/resistor_temp_177.sp.test
+scripts/resistor_temp_177.sp.test :: PASSED
+./bipartite1 scripts/isffm_4.sp.test
+scripts/isffm_4.sp.test :: PASSED
+./bipartite1 scripts/ms_mitered_bend_tran_1.sp.test
+scripts/ms_mitered_bend_tran_1.sp.test :: PASSED
+./bipartite1 scripts/ms_mitered_bend_lna_1.sp.test
+scripts/ms_mitered_bend_lna_1.sp.test :: PASSED
+./bipartite1 scripts/ms_mitered_bend_hb_4.sp.test
+scripts/ms_mitered_bend_hb_4.sp.test :: PASSED
+./bipartite1 scripts/freq_2.sp.test
+scripts/freq_2.sp.test :: PASSED
+./bipartite1 scripts/resmin_vs_cleanup_3.sp.test
+scripts/resmin_vs_cleanup_3.sp.test :: PASSED
+./bipartite1 scripts/sl_tee_hb_3.sp.test
+scripts/sl_tee_hb_3.sp.test :: PASSED
+./bipartite1 scripts/sl_tee_tran_2.sp.test
+scripts/sl_tee_tran_2.sp.test :: PASSED
+./bipartite1 scripts/gp_bjt_pnp2_dc.sp.test
+scripts/gp_bjt_pnp2_dc.sp.test :: PASSED
+./bipartite1 scripts/dcsweep_width.sp.test
+scripts/dcsweep_width.sp.test :: PASSED
+./bipartite1 scripts/sl_taper_w_ref_tran_4.sp.test
+scripts/sl_taper_w_ref_tran_4.sp.test :: PASSED
+./bipartite1 scripts/minimum_divisor_2.sp.test
+scripts/minimum_divisor_2.sp.test :: [MNA-NAN] 
+./bipartite1 scripts/s_element_test_transmission50_data_noise_lna.sp.test
+scripts/s_element_test_transmission50_data_noise_lna.sp.test :: PASSED
+./bipartite1 scripts/s_element_test_ne68133i_hb.sp.test
+scripts/s_element_test_ne68133i_hb.sp.test :: PASSED
+./bipartite1 scripts/ms_taper_w_ref_hb_2.sp.test
+scripts/ms_taper_w_ref_hb_2.sp.test :: PASSED
+./bipartite1 scripts/sl_via_pad_lna_1.sp.test
+scripts/sl_via_pad_lna_1.sp.test :: PASSED
+./bipartite1 scripts/param_temp_3_base.sp.test
+scripts/param_temp_3_base.sp.test :: PASSED
+./bipartite1 scripts/transformer_tran_1x2.sp.test
+scripts/transformer_tran_1x2.sp.test :: PASSED
+./bipartite1 scripts/r2_hybrid_test5.sp.test
+scripts/r2_hybrid_test5.sp.test :: PASSED
+./bipartite1 scripts/catfish_init_guess_only.sp.test
+scripts/catfish_init_guess_only.sp.test :: PASSED
+./bipartite1 scripts/s_element_test_ne68133i_lna.sp.test
+scripts/s_element_test_ne68133i_lna.sp.test :: PASSED
+./bipartite1 scripts/vpwl_11.sp.test
+scripts/vpwl_11.sp.test :: PASSED
+./bipartite1 scripts/alter_device_1.sp.test
+scripts/alter_device_1.sp.test :: PASSED
+./bipartite1 scripts/emitter_follower_ac.sp.test
+scripts/emitter_follower_ac.sp.test :: PASSED
+./bipartite1 scripts/ms_via_hole_lna_1.sp.test
+scripts/ms_via_hole_lna_1.sp.test :: PASSED
+./bipartite1 scripts/gp_bjt_pnps1_tran.sp.test
+scripts/gp_bjt_pnps1_tran.sp.test :: PASSED
+./bipartite1 scripts/simple_cmos_inverter_v.sp.test
+scripts/simple_cmos_inverter_v.sp.test :: PASSED
+./bipartite1 scripts/resistor_para_34.sp.test
+scripts/resistor_para_34.sp.test :: PASSED
+./bipartite1 scripts/vam_6.sp.test
+scripts/vam_6.sp.test :: PASSED
+./bipartite1 scripts/isffm_8.sp.test
+scripts/isffm_8.sp.test :: PASSED
+./bipartite1 scripts/test_s_element_maxstates_option.sp.test
+scripts/test_s_element_maxstates_option.sp.test :: PASSED
+./bipartite1 scripts/osl_trl_physical_tran_2.sp.test
+scripts/osl_trl_physical_tran_2.sp.test :: PASSED
+./bipartite1 scripts/simple_noise.sp.test
+scripts/simple_noise.sp.test :: PASSED
+./bipartite1 scripts/test_output_pin0.sp.test
+scripts/test_output_pin0.sp.test :: [SINGULAR] 
+./bipartite1 scripts/vam_2.sp.test
+scripts/vam_2.sp.test :: PASSED
+./bipartite1 scripts/ram2k_bsim3_dc.sp.test
+scripts/ram2k_bsim3_dc.sp.test :: PASSED
+./bipartite1 scripts/resistor_para_30.sp.test
+scripts/resistor_para_30.sp.test :: PASSED
+./bipartite1 scripts/sqrt_bsim3.sp.test
+scripts/sqrt_bsim3.sp.test :: PASSED
+./bipartite1 scripts/trlk_physical_trl_lna_example1.sp.test
+scripts/trlk_physical_trl_lna_example1.sp.test :: PASSED
+./bipartite1 scripts/vec_fullspec_data_sans_t.sp.test
+scripts/vec_fullspec_data_sans_t.sp.test :: PASSED
+./bipartite1 scripts/IQ_netlist.sp.test
+scripts/IQ_netlist.sp.test :: PASSED
+./bipartite1 scripts/s_element_test_cap0822_hb.sp.test
+scripts/s_element_test_cap0822_hb.sp.test :: PASSED
+./bipartite1 scripts/r2_mch_test13.sp.test
+scripts/r2_mch_test13.sp.test :: PASSED
+./bipartite1 scripts/vpwl_1.sp.test
+scripts/vpwl_1.sp.test :: PASSED
+./bipartite1 scripts/ms_via_hole_ref_tran_2.sp.test
+scripts/ms_via_hole_ref_tran_2.sp.test :: PASSED
+./bipartite1 scripts/measure_dc_features.sp.test
+scripts/measure_dc_features.sp.test :: PASSED
+./bipartite1 scripts/pat4.sp.test
+scripts/pat4.sp.test :: PASSED
+./bipartite1 scripts/local_55.sp.test
+scripts/local_55.sp.test :: PASSED
+./bipartite1 scripts/sl_open_stub_physical_lna_2.sp.test
+scripts/sl_open_stub_physical_lna_2.sp.test :: PASSED
+./bipartite1 scripts/tran_ind_f.sp.test
+scripts/tran_ind_f.sp.test :: PASSED
+./bipartite1 scripts/cpwstep_lna_example1.sp.test
+scripts/cpwstep_lna_example1.sp.test :: PASSED
+./bipartite1 scripts/local_51.sp.test
+scripts/local_51.sp.test :: PASSED
+./bipartite1 scripts/ms_radial_bend_lna_2.sp.test
+scripts/ms_radial_bend_lna_2.sp.test :: PASSED
+./bipartite1 scripts/r2_mch_test17.sp.test
+scripts/r2_mch_test17.sp.test :: PASSED
+./bipartite1 scripts/wolfson2.sp.test
+scripts/wolfson2.sp.test :: PASSED
+./bipartite1 scripts/s_element_test_transmission50_m5.sp.test
+scripts/s_element_test_transmission50_m5.sp.test :: PASSED
+./bipartite1 scripts/colpitts_oscillator_netlist.sp.test
+scripts/colpitts_oscillator_netlist.sp.test :: PASSED
+./bipartite1 scripts/resistor_with_cap_s.sp.test
+scripts/resistor_with_cap_s.sp.test :: PASSED
+./bipartite1 scripts/vpwl_5.sp.test
+scripts/vpwl_5.sp.test :: PASSED
+./bipartite1 scripts/cpw_trl_e_lna_example1.sp.test
+scripts/cpw_trl_e_lna_example1.sp.test :: PASSED
+./bipartite1 scripts/local_59.sp.test
+scripts/local_59.sp.test :: PASSED
+./bipartite1 scripts/osl_trl_physical_ref_hb_1.sp.test
+scripts/osl_trl_physical_ref_hb_1.sp.test :: PASSED
+./bipartite1 scripts/planarem_ac.sp.test
+scripts/planarem_ac.sp.test :: PASSED
+./bipartite1 scripts/sl_unmitered_bend_tran_2.sp.test
+scripts/sl_unmitered_bend_tran_2.sp.test :: PASSED
+./bipartite1 scripts/pat8.sp.test
+scripts/pat8.sp.test :: PASSED
+./bipartite1 scripts/ms_gap_asymmetric_lna_2.sp.test
+scripts/ms_gap_asymmetric_lna_2.sp.test :: PASSED
+./bipartite1 scripts/ms_tee_hb_1.sp.test
+scripts/ms_tee_hb_1.sp.test :: PASSED
+./bipartite1 scripts/resistor_para_13.sp.test
+scripts/resistor_para_13.sp.test :: PASSED
+./bipartite1 scripts/sl_taper_w_ref_hb_2.sp.test
+scripts/sl_taper_w_ref_hb_2.sp.test :: PASSED
+./bipartite1 scripts/param_temp_2_base.sp.test
+scripts/param_temp_2_base.sp.test :: PASSED
+./bipartite1 scripts/voter25_pwl_level1.sp.test
+scripts/voter25_pwl_level1.sp.test :: PASSED
+./bipartite1 scripts/vpwl_9.sp.test
+scripts/vpwl_9.sp.test :: PASSED
+./bipartite1 scripts/f_delay_pos_1.sp.test
+scripts/f_delay_pos_1.sp.test :: PASSED
+./bipartite1 scripts/temp_2.sp.test
+scripts/temp_2.sp.test :: PASSED
+./bipartite1 scripts/resistor_para_17.sp.test
+scripts/resistor_para_17.sp.test :: PASSED
+./bipartite1 scripts/ms_rect_inductor_tran_2.sp.test
+scripts/ms_rect_inductor_tran_2.sp.test :: PASSED
+./bipartite1 scripts/sl_differential_TRL_electrical_LNA.sp.test
+scripts/sl_differential_TRL_electrical_LNA.sp.test :: PASSED
+./bipartite1 scripts/ms_tfc_hb_2.sp.test
+scripts/ms_tfc_hb_2.sp.test :: PASSED
+./bipartite1 scripts/sl_via_hole_hb_2.sp.test
+scripts/sl_via_hole_hb_2.sp.test :: PASSED
+./bipartite1 scripts/trl_td_lna_example.sp.test
+scripts/trl_td_lna_example.sp.test :: PASSED
+./bipartite1 scripts/vec_4port_explicit.sp.test
+scripts/vec_4port_explicit.sp.test :: PASSED
+./bipartite1 scripts/s_element_test_transmission75.sp.test
+scripts/s_element_test_transmission75.sp.test :: PASSED
+./bipartite1 scripts/vpul_tran_1.sp.test
+scripts/vpul_tran_1.sp.test :: PASSED
+./bipartite1 scripts/test_io_w1t.sp.test
+scripts/test_io_w1t.sp.test :: PASSED
+./bipartite1 scripts/vpul_tran_5.sp.test
+scripts/vpul_tran_5.sp.test :: PASSED
+./bipartite1 scripts/gilbert_simple.sp.test
+scripts/gilbert_simple.sp.test :: PASSED
+./bipartite1 scripts/iam_4.sp.test
+scripts/iam_4.sp.test :: PASSED
+./bipartite1 scripts/ANSft00048148.sp.test
+scripts/ANSft00048148.sp.test :: PASSED
+./bipartite1 scripts/local_38.sp.test
+scripts/local_38.sp.test :: PASSED
+./bipartite1 scripts/gp_bjt_pnps2_tran.sp.test
+scripts/gp_bjt_pnps2_tran.sp.test :: PASSED
+./bipartite1 scripts/vpul_neg_2.sp.test
+scripts/vpul_neg_2.sp.test :: PASSED
+./bipartite1 scripts/ms_rect_inductor_hb_3.sp.test
+scripts/ms_rect_inductor_hb_3.sp.test :: PASSED
+./bipartite1 scripts/gp_bjt_pnps1_dc.sp.test
+scripts/gp_bjt_pnps1_dc.sp.test :: PASSED
+./bipartite1 scripts/trle_electrical_trl_lna_example1.sp.test
+scripts/trle_electrical_trl_lna_example1.sp.test :: PASSED
+./bipartite1 scripts/local_30.sp.test
+scripts/local_30.sp.test :: PASSED
+./bipartite1 scripts/expressions_positive.sp.test
+scripts/expressions_positive.sp.test :: PASSED
+./bipartite1 scripts/scoping.sp.test
+scripts/scoping.sp.test :: PASSED
+./bipartite1 scripts/cleanup_1.sp.test
+scripts/cleanup_1.sp.test :: PASSED
+./bipartite1 scripts/global_17.sp.test
+scripts/global_17.sp.test :: PASSED
+./bipartite1 scripts/sl_via_pad_ref_hb_2.sp.test
+scripts/sl_via_pad_ref_hb_2.sp.test :: PASSED
+./bipartite1 scripts/ms_open_end_hb.sp.test
+scripts/ms_open_end_hb.sp.test :: PASSED
+./bipartite1 scripts/ms_spiral_inductor_hb_1.sp.test
+scripts/ms_spiral_inductor_hb_1.sp.test :: PASSED
+./bipartite1 scripts/test_3_state_dyclamp_ramp.sp.test
+scripts/test_3_state_dyclamp_ramp.sp.test :: PASSED
+./bipartite1 scripts/s_element_test_by_entry.sp.test
+scripts/s_element_test_by_entry.sp.test :: PASSED
+./bipartite1 scripts/test_ibis_regression2.sp.test
+scripts/test_ibis_regression2.sp.test :: PASSED
+./bipartite1 scripts/sl_via_hole_ref_lna_1.sp.test
+scripts/sl_via_hole_ref_lna_1.sp.test :: PASSED
+./bipartite1 scripts/bin1000b.sp.test
+scripts/bin1000b.sp.test :: PASSED
+./bipartite1 scripts/global_13.sp.test
+scripts/global_13.sp.test :: PASSED
+./bipartite1 scripts/iam_8.sp.test
+scripts/iam_8.sp.test :: PASSED
+./bipartite1 scripts/bjtinverter_ndf2.sp.test
+scripts/bjtinverter_ndf2.sp.test :: PASSED
+./bipartite1 scripts/local_34.sp.test
+scripts/local_34.sp.test :: PASSED
+./bipartite1 scripts/vpul_tran_9.sp.test
+scripts/vpul_tran_9.sp.test :: PASSED
+./bipartite1 scripts/hertz_f_1.sp.test
+scripts/hertz_f_1.sp.test :: PASSED
+./bipartite1 scripts/ms_tee_lna_1.sp.test
+scripts/ms_tee_lna_1.sp.test :: PASSED
+./bipartite1 scripts/ms_taper_w_ref_lna_4.sp.test
+scripts/ms_taper_w_ref_lna_4.sp.test :: PASSED
+./bipartite1 scripts/s_element_test_cap0822_ac.sp.test
+scripts/s_element_test_cap0822_ac.sp.test :: PASSED
+./bipartite1 scripts/ms_step_hb_2.sp.test
+scripts/ms_step_hb_2.sp.test :: PASSED
+./bipartite1 scripts/param_temp_1_base.sp.test
+scripts/param_temp_1_base.sp.test :: PASSED
+./bipartite1 scripts/sl_trl_physical_ref_hb_2.sp.test
+scripts/sl_trl_physical_ref_hb_2.sp.test :: PASSED
+./bipartite1 scripts/fsmodel_example5.sp.test
+scripts/fsmodel_example5.sp.test :: PASSED
+./bipartite1 scripts/ms_via_pad_ref_lna_1.sp.test
+scripts/ms_via_pad_ref_lna_1.sp.test :: PASSED
+./bipartite1 scripts/resistor_para_3.sp.test
+scripts/resistor_para_3.sp.test :: PASSED
+./bipartite1 scripts/spicetest_bracken_lna.sp.test
+scripts/spicetest_bracken_lna.sp.test :: PASSED
+./bipartite1 scripts/neg_1.sp.test
+scripts/neg_1.sp.test :: PASSED
+./bipartite1 scripts/resistor_para_7.sp.test
+scripts/resistor_para_7.sp.test :: PASSED
+./bipartite1 scripts/fsmodel_example1.sp.test
+scripts/fsmodel_example1.sp.test :: PASSED
+./bipartite1 scripts/res_f.sp.test
+scripts/res_f.sp.test :: PASSED
+./bipartite1 scripts/emitter_follower_pnp.sp.test
+scripts/emitter_follower_pnp.sp.test :: PASSED
+./bipartite1 scripts/param_caps_3.sp.test
+scripts/param_caps_3.sp.test :: PASSED
+./bipartite1 scripts/lna_1.sp.test
+scripts/lna_1.sp.test :: PASSED
+./bipartite1 scripts/ms_open_stub_physical_tran_2.sp.test
+scripts/ms_open_stub_physical_tran_2.sp.test :: PASSED
+./bipartite1 scripts/h_delay_pos_1.sp.test
+scripts/h_delay_pos_1.sp.test :: PASSED
+./bipartite1 scripts/ms_via_pad_ref_hb_2.sp.test
+scripts/ms_via_pad_ref_hb_2.sp.test :: PASSED
+./bipartite1 scripts/ms_unmitered_bend_lna_1.sp.test
+scripts/ms_unmitered_bend_lna_1.sp.test :: PASSED
+./bipartite1 scripts/resmin_2.sp.test
+scripts/resmin_2.sp.test :: PASSED
+./bipartite1 scripts/local_17.sp.test
+scripts/local_17.sp.test :: PASSED
+./bipartite1 scripts/r2_mch_test4.sp.test
+scripts/r2_mch_test4.sp.test :: PASSED
+./bipartite1 scripts/test_input.sp.test
+scripts/test_input.sp.test :: PASSED
+./bipartite1 scripts/ipul_neg_2.sp.test
+scripts/ipul_neg_2.sp.test :: PASSED
+./bipartite1 scripts/pat_current.sp.test
+scripts/pat_current.sp.test :: PASSED
+./bipartite1 scripts/resistor_with_cap_s_internal.sp.test
+scripts/resistor_with_cap_s_internal.sp.test :: PASSED
+./bipartite1 scripts/jack_chu_1.sp.test
+scripts/jack_chu_1.sp.test :: PASSED
+./bipartite1 scripts/gcpw_short_stub_physical_lna_example1.sp.test
+scripts/gcpw_short_stub_physical_lna_example1.sp.test :: PASSED
+./bipartite1 scripts/s_element_test_ne68133i_ac.sp.test
+scripts/s_element_test_ne68133i_ac.sp.test :: PASSED
+./bipartite1 scripts/osl_trl_physical_hb_2.sp.test
+scripts/osl_trl_physical_hb_2.sp.test :: PASSED
+./bipartite1 scripts/coaxial_ac.sp.test
+scripts/coaxial_ac.sp.test :: PASSED
+./bipartite1 scripts/ms_trl_physical_ref_tran_1.sp.test
+scripts/ms_trl_physical_ref_tran_1.sp.test :: PASSED
+./bipartite1 scripts/sl_unmitered_bend_hb_1.sp.test
+scripts/sl_unmitered_bend_hb_1.sp.test :: PASSED
+./bipartite1 scripts/741_stage_1.sp.test
+scripts/741_stage_1.sp.test :: PASSED
+./bipartite1 scripts/svcvs_test_second_order.sp.test
+scripts/svcvs_test_second_order.sp.test :: PASSED
+./bipartite1 scripts/gilbert_cell_from_tran.sp.test
+scripts/gilbert_cell_from_tran.sp.test :: PASSED
+./bipartite1 scripts/ms_trl_physical_tran_2.sp.test
+scripts/ms_trl_physical_tran_2.sp.test :: PASSED
+./bipartite1 scripts/local_13.sp.test
+scripts/local_13.sp.test :: PASSED
+./bipartite1 scripts/filter4opamp_ac.sp.test
+scripts/filter4opamp_ac.sp.test :: PASSED
+./bipartite1 scripts/cple_lna_example2_lossy.sp.test
+scripts/cple_lna_example2_lossy.sp.test :: PASSED
+./bipartite1 scripts/sl_trl_physical_lna_1.sp.test
+scripts/sl_trl_physical_lna_1.sp.test :: PASSED
+./bipartite1 scripts/pos_3way.sp.test
+scripts/pos_3way.sp.test :: PASSED
+./bipartite1 scripts/ms_via_hole_tran_2.sp.test
+scripts/ms_via_hole_tran_2.sp.test :: PASSED
+./bipartite1 scripts/chain_abcd_example1.sp.test
+scripts/chain_abcd_example1.sp.test :: PASSED
+./bipartite1 scripts/sl_via_pad_ref_tran_1.sp.test
+scripts/sl_via_pad_ref_tran_1.sp.test :: PASSED
+./bipartite1 scripts/osl_trl_physical_lna_2.sp.test
+scripts/osl_trl_physical_lna_2.sp.test :: PASSED
+./bipartite1 scripts/resistor_temp_105.sp.test
+scripts/resistor_temp_105.sp.test :: PASSED
+./bipartite1 scripts/s_element_test_ums_ph25_8x75_48ma_lna.sp.test
+scripts/s_element_test_ums_ph25_8x75_48ma_lna.sp.test :: PASSED
+./bipartite1 scripts/vpul_tran_1a.sp.test
+scripts/vpul_tran_1a.sp.test :: PASSED
+./bipartite1 scripts/ms_differential_TRL_physical_LNA.sp.test
+scripts/ms_differential_TRL_physical_LNA.sp.test :: PASSED
+./bipartite1 scripts/ms_step_tran_1.sp.test
+scripts/ms_step_tran_1.sp.test :: PASSED
+./bipartite1 scripts/names_and_delimiters_1.sp.test
+scripts/names_and_delimiters_1.sp.test :: PASSED
+./bipartite1 scripts/gp_bjt_npn2_dc.sp.test
+scripts/gp_bjt_npn2_dc.sp.test :: PASSED
+./bipartite1 scripts/cpw_short_stub_electrical_lna_example1.sp.test
+scripts/cpw_short_stub_electrical_lna_example1.sp.test :: PASSED
+./bipartite1 scripts/ms_taper_w_ref_tran_1.sp.test
+scripts/ms_taper_w_ref_tran_1.sp.test :: PASSED
+./bipartite1 scripts/acsweeptest_hsp.sp.test
+scripts/acsweeptest_hsp.sp.test :: PASSED
+./bipartite1 scripts/test_io_w2t.sp.test
+scripts/test_io_w2t.sp.test :: PASSED
+./bipartite1 scripts/dirhi_convolution.sp.test
+scripts/dirhi_convolution.sp.test :: PASSED
+./bipartite1 scripts/MR52769.sp.test
+scripts/MR52769.sp.test :: PASSED
+./bipartite1 scripts/cpw_short_stub_physical_lna_example1.sp.test
+scripts/cpw_short_stub_physical_lna_example1.sp.test :: PASSED
+./bipartite1 scripts/colpitts1.sp.test
+scripts/colpitts1.sp.test :: PASSED
+./bipartite1 scripts/indq_hb_2.sp.test
+scripts/indq_hb_2.sp.test :: PASSED
+./bipartite1 scripts/param_bulk_2.sp.test
+scripts/param_bulk_2.sp.test :: PASSED
+./bipartite1 scripts/param_physical_1.sp.test
+scripts/param_physical_1.sp.test :: PASSED
+./bipartite1 scripts/sl_gap_symmetric_lna_1.sp.test
+scripts/sl_gap_symmetric_lna_1.sp.test :: PASSED
+./bipartite1 scripts/param_temp_4_hspice.sp.test
+scripts/param_temp_4_hspice.sp.test :: PASSED
+./bipartite1 scripts/ms_spiral_inductor_tran_2.sp.test
+scripts/ms_spiral_inductor_tran_2.sp.test :: PASSED
+./bipartite1 scripts/mr66334_smaller_tstep.sp.test
+scripts/mr66334_smaller_tstep.sp.test :: PASSED
+./bipartite1 scripts/alter_model_1.sp.test
+scripts/alter_model_1.sp.test :: PASSED
+./bipartite1 scripts/g_beh_pos_1.sp.test
+scripts/g_beh_pos_1.sp.test :: PASSED
+./bipartite1 scripts/param_temp_2.sp.test
+scripts/param_temp_2.sp.test :: PASSED
+./bipartite1 scripts/local_27.sp.test
+scripts/local_27.sp.test :: PASSED
+./bipartite1 scripts/simple_float_1b.sp.test
+scripts/simple_float_1b.sp.test :: PASSED
+./bipartite1 scripts/sl_via_hole_lna_1.sp.test
+scripts/sl_via_hole_lna_1.sp.test :: PASSED
+./bipartite1 scripts/resistor_temp_69.sp.test
+scripts/resistor_temp_69.sp.test :: PASSED
+./bipartite1 scripts/miximpar_new_withtrimtol.sp.test
+scripts/miximpar_new_withtrimtol.sp.test :: PASSED
+./bipartite1 scripts/ipwl_10.sp.test
+scripts/ipwl_10.sp.test :: PASSED
+./bipartite1 scripts/iam_10.sp.test
+scripts/iam_10.sp.test :: PASSED
+./bipartite1 scripts/first_line_4.sp.test
+scripts/first_line_4.sp.test :: PASSED
+./bipartite1 scripts/negative_impedance_converter_lna_example2.sp.test
+scripts/negative_impedance_converter_lna_example2.sp.test :: PASSED
+./bipartite1 scripts/mos_amps_64.sp.test
+scripts/mos_amps_64.sp.test :: PASSED
+./bipartite1 scripts/ms_unmitered_bend_tran_3.sp.test
+scripts/ms_unmitered_bend_tran_3.sp.test :: PASSED
+./bipartite1 scripts/voter_bsim3_dc.sp.test
+scripts/voter_bsim3_dc.sp.test :: PASSED
+./bipartite1 scripts/vexp_3.sp.test
+scripts/vexp_3.sp.test :: PASSED
+./bipartite1 scripts/testcase6_default.sp.test
+scripts/testcase6_default.sp.test :: PASSED
+./bipartite1 scripts/sqrt_bsim3_ac.sp.test
+scripts/sqrt_bsim3_ac.sp.test :: PASSED
+./bipartite1 scripts/local_23.sp.test
+scripts/local_23.sp.test :: PASSED
+./bipartite1 scripts/param_temp_6.sp.test
+scripts/param_temp_6.sp.test :: PASSED
+./bipartite1 scripts/dirhi.sp.test
+scripts/dirhi.sp.test :: PASSED
+./bipartite1 scripts/vsffm_5.sp.test
+scripts/vsffm_5.sp.test :: PASSED
+./bipartite1 scripts/sl_gap_asymmetric_hb_1.sp.test
+scripts/sl_gap_asymmetric_hb_1.sp.test :: PASSED
+./bipartite1 scripts/tstone_star_comment.sp.test
+scripts/tstone_star_comment.sp.test :: PASSED
+./bipartite1 scripts/first_line_8.sp.test
+scripts/first_line_8.sp.test :: PASSED
+./bipartite1 scripts/local_6.sp.test
+scripts/local_6.sp.test :: PASSED
+./bipartite1 scripts/ms_open_stub_physical_hb_1.sp.test
+scripts/ms_open_stub_physical_hb_1.sp.test :: PASSED
+./bipartite1 scripts/param_m_1.sp.test
+scripts/param_m_1.sp.test :: PASSED
+./bipartite1 scripts/gilbert_cell.sp.test
+scripts/gilbert_cell.sp.test :: PASSED
+./bipartite1 scripts/values_neg_2_hspice.sp.test
+scripts/values_neg_2_hspice.sp.test :: PASSED
+./bipartite1 scripts/gcpw_tee_lna_example1.sp.test
+scripts/gcpw_tee_lna_example1.sp.test :: PASSED
+./bipartite1 scripts/nexxim_transformer_2x3.sp.test
+scripts/nexxim_transformer_2x3.sp.test :: PASSED
+./bipartite1 scripts/sl_step_lna_1.sp.test
+scripts/sl_step_lna_1.sp.test :: PASSED
+./bipartite1 scripts/sl_gap_symmetric_tran_2.sp.test
+scripts/sl_gap_symmetric_tran_2.sp.test :: PASSED
+./bipartite1 scripts/s_element_test_transmission50_noise_lna.sp.test
+scripts/s_element_test_transmission50_noise_lna.sp.test :: PASSED
+./bipartite1 scripts/ideal_open_stub_electrical_ref_lna_example1.sp.test
+scripts/ideal_open_stub_electrical_ref_lna_example1.sp.test :: PASSED
+./bipartite1 scripts/testcase1_b.sp.test
+scripts/testcase1_b.sp.test :: PASSED
+./bipartite1 scripts/sl_gap_asymmetric_tran_1.sp.test
+scripts/sl_gap_asymmetric_tran_1.sp.test :: PASSED
+./bipartite1 scripts/pmos_r_inverter.sp.test
+scripts/pmos_r_inverter.sp.test :: PASSED
+./bipartite1 scripts/local_2.sp.test
+scripts/local_2.sp.test :: PASSED
+./bipartite1 scripts/create_ic_file_with_relative_offset.sp.test
+scripts/create_ic_file_with_relative_offset.sp.test :: PASSED
+./bipartite1 scripts/sl_mitered_bend_hb_1.sp.test
+scripts/sl_mitered_bend_hb_1.sp.test :: PASSED
+./bipartite1 scripts/vsffm_1.sp.test
+scripts/vsffm_1.sp.test :: PASSED
+./bipartite1 scripts/s_element_test_twopole.sp.test
+scripts/s_element_test_twopole.sp.test :: PASSED
+./bipartite1 scripts/vrbs_dc_1.sp.test
+scripts/vrbs_dc_1.sp.test :: PASSED
+./bipartite1 scripts/small_3.sp.test
+scripts/small_3.sp.test :: PASSED
+./bipartite1 scripts/param_temp_3_hspice.sp.test
+scripts/param_temp_3_hspice.sp.test :: PASSED
+./bipartite1 scripts/smult20_bsim3.sp.test
+scripts/smult20_bsim3.sp.test :: PASSED
+./bipartite1 scripts/gilbert_cmos.sp.test
+scripts/gilbert_cmos.sp.test :: PASSED
+./bipartite1 scripts/ipul_tran_4.sp.test
+scripts/ipul_tran_4.sp.test :: PASSED
+./bipartite1 scripts/temperatureacsweep_hsp.sp.test
+scripts/temperatureacsweep_hsp.sp.test :: PASSED
+./bipartite1 scripts/directives_positive.sp.test
+scripts/directives_positive.sp.test :: PASSED
+./bipartite1 scripts/rf_vco_pmos_test.sp.test
+scripts/rf_vco_pmos_test.sp.test :: PASSED
+./bipartite1 scripts/param_scale_1.sp.test
+scripts/param_scale_1.sp.test :: PASSED
+./bipartite1 scripts/vrbs_neg_2.sp.test
+scripts/vrbs_neg_2.sp.test :: PASSED
+./bipartite1 scripts/floating_2.sp.test
+scripts/floating_2.sp.test :: PASSED
+./bipartite1 scripts/temper_1.sp.test
+scripts/temper_1.sp.test :: PASSED
+./bipartite1 scripts/ms_trl_electrical_lna.sp.test
+scripts/ms_trl_electrical_lna.sp.test :: PASSED
+./bipartite1 scripts/param_caps_base_6.sp.test
+scripts/param_caps_base_6.sp.test :: PASSED
+./bipartite1 scripts/sl_via_hole_tran_1.sp.test
+scripts/sl_via_hole_tran_1.sp.test :: PASSED
+./bipartite1 scripts/ipul_tran_8.sp.test
+scripts/ipul_tran_8.sp.test :: PASSED
+./bipartite1 scripts/local_42.sp.test
+scripts/local_42.sp.test :: PASSED
+./bipartite1 scripts/ANSft00048148_from_tran.sp.test
+scripts/ANSft00048148_from_tran.sp.test :: PASSED
+./bipartite1 scripts/comparator_bsim3.sp.test
+scripts/comparator_bsim3.sp.test :: PASSED
+./bipartite1 scripts/one_of_everything.sp.test
+scripts/one_of_everything.sp.test :: [MC64-INFO-2] 
+./bipartite1 scripts/indq_lna_1.sp.test
+scripts/indq_lna_1.sp.test :: PASSED
+./bipartite1 scripts/local_46.sp.test
+scripts/local_46.sp.test :: PASSED
+./bipartite1 scripts/sl_gap_symmetric_hb_1.sp.test
+scripts/sl_gap_symmetric_hb_1.sp.test :: PASSED
+./bipartite1 scripts/spectre_lna_envelope.sp.test
+scripts/spectre_lna_envelope.sp.test :: PASSED
+./bipartite1 scripts/s_element_test_transmission50short.sp.test
+scripts/s_element_test_transmission50short.sp.test :: PASSED
+./bipartite1 scripts/param_caps_base_2.sp.test
+scripts/param_caps_base_2.sp.test :: PASSED
+./bipartite1 scripts/create_ic_file_with_absolute_pathname.sp.test
+scripts/create_ic_file_with_absolute_pathname.sp.test :: PASSED
+./bipartite1 scripts/vgsl.sp.test
+scripts/vgsl.sp.test :: PASSED
+./bipartite1 scripts/ipwl_8.sp.test
+scripts/ipwl_8.sp.test :: PASSED
+./bipartite1 scripts/sl_taper_w_ref_lna_1.sp.test
+scripts/sl_taper_w_ref_lna_1.sp.test :: PASSED
+./bipartite1 scripts/res_bulk_3.sp.test
+scripts/res_bulk_3.sp.test :: PASSED
+./bipartite1 scripts/ms_unmitered_bend_hb_4.sp.test
+scripts/ms_unmitered_bend_hb_4.sp.test :: PASSED
+./bipartite1 scripts/freq_1_lna.sp.test
+scripts/freq_1_lna.sp.test :: PASSED
+./bipartite1 scripts/global_2.sp.test
+scripts/global_2.sp.test :: PASSED
+./bipartite1 scripts/create_ic_file_with_default_name.sp.test
+scripts/create_ic_file_with_default_name.sp.test :: PASSED
+./bipartite1 scripts/ms_spiral_inductor_neg.sp.test
+scripts/ms_spiral_inductor_neg.sp.test :: PASSED
+./bipartite1 scripts/741_opamp_ac.sp.test
+scripts/741_opamp_ac.sp.test :: PASSED
+./bipartite1 scripts/jeff-ring-diode-crash.sp.test
+scripts/jeff-ring-diode-crash.sp.test :: PASSED
+./bipartite1 scripts/ms_via_pad_lna_3.sp.test
+scripts/ms_via_pad_lna_3.sp.test :: PASSED
+./bipartite1 scripts/sl_unmitered_bend_lna_3.sp.test
+scripts/sl_unmitered_bend_lna_3.sp.test :: PASSED
+./bipartite1 scripts/gcpwstep_lna_example1.sp.test
+scripts/gcpwstep_lna_example1.sp.test :: PASSED
+./bipartite1 scripts/resistor_para_23.sp.test
+scripts/resistor_para_23.sp.test :: PASSED
+./bipartite1 scripts/s_element_test_twopole_lna.sp.test
+scripts/s_element_test_twopole_lna.sp.test :: PASSED
+./bipartite1 scripts/ms_via_hole_ref_hb_1.sp.test
+scripts/ms_via_hole_ref_hb_1.sp.test :: PASSED
+./bipartite1 scripts/pos_2.sp.test
+scripts/pos_2.sp.test :: PASSED
+./bipartite1 scripts/param_bulk_base_2.sp.test
+scripts/param_bulk_base_2.sp.test :: PASSED
+./bipartite1 scripts/sl_step_tran_2.sp.test
+scripts/sl_step_tran_2.sp.test :: PASSED
+./bipartite1 scripts/s_element_test_mr45707_lna.sp.test
+scripts/s_element_test_mr45707_lna.sp.test :: PASSED
+./bipartite1 scripts/sl_trl_physical_hb_2.sp.test
+scripts/sl_trl_physical_hb_2.sp.test :: PASSED
+./bipartite1 scripts/resistor_para_27.sp.test
+scripts/resistor_para_27.sp.test :: PASSED
+./bipartite1 scripts/ipul_tran_1a.sp.test
+scripts/ipul_tran_1a.sp.test :: PASSED
+./bipartite1 scripts/ms_tfc_lna_3.sp.test
+scripts/ms_tfc_lna_3.sp.test :: PASSED
+./bipartite1 scripts/global_6.sp.test
+scripts/global_6.sp.test :: PASSED
+./bipartite1 scripts/diode_rectifier_simple.sp.test
+scripts/diode_rectifier_simple.sp.test :: PASSED
+./bipartite1 scripts/distributions_positive.sp.test
+scripts/distributions_positive.sp.test :: PASSED
+./bipartite1 scripts/bug.sp.test
+scripts/bug.sp.test :: PASSED
+./bipartite1 scripts/w_amd2_lossless_ac.sp.test
+scripts/w_amd2_lossless_ac.sp.test :: PASSED
+./bipartite1 scripts/gp_bjt_npns1_dc.sp.test
+scripts/gp_bjt_npns1_dc.sp.test :: PASSED
+./bipartite1 scripts/neg_syntax_4.sp.test
+scripts/neg_syntax_4.sp.test :: PASSED
+./bipartite1 scripts/vrbs_2.sp.test
+scripts/vrbs_2.sp.test :: PASSED
+./bipartite1 scripts/ipwl_4.sp.test
+scripts/ipwl_4.sp.test :: PASSED
+./bipartite1 scripts/idem_netlist.sp.test
+scripts/idem_netlist.sp.test :: PASSED
+./bipartite1 scripts/vrbs_6.sp.test
+scripts/vrbs_6.sp.test :: PASSED
+./bipartite1 scripts/netlist_without_par.sp.test
+scripts/netlist_without_par.sp.test :: PASSED
+./bipartite1 scripts/ms_tfc_tran_1.sp.test
+scripts/ms_tfc_tran_1.sp.test :: PASSED
+./bipartite1 scripts/s_element_test_intial_50ghz_mesh_lna.sp.test
+scripts/s_element_test_intial_50ghz_mesh_lna.sp.test :: PASSED
+./bipartite1 scripts/ms_via_pad_hb_3.sp.test
+scripts/ms_via_pad_hb_3.sp.test :: PASSED
+./bipartite1 scripts/param_temp_0res_2_hspice.sp.test
+scripts/param_temp_0res_2_hspice.sp.test :: PASSED
+./bipartite1 scripts/ms_radial_bend_hb_2.sp.test
+scripts/ms_radial_bend_hb_2.sp.test :: PASSED
+./bipartite1 scripts/vgaussianrandombitsource_pos_1.sp.test
+scripts/vgaussianrandombitsource_pos_1.sp.test :: PASSED
+./bipartite1 scripts/vpwl_3.sp.test
+scripts/vpwl_3.sp.test :: PASSED
+./bipartite1 scripts/r2_mch_test11.sp.test
+scripts/r2_mch_test11.sp.test :: PASSED
+./bipartite1 scripts/wolfson4.sp.test
+scripts/wolfson4.sp.test :: PASSED
+./bipartite1 scripts/ms_gap_asymmetric_hb_2.sp.test
+scripts/ms_gap_asymmetric_hb_2.sp.test :: PASSED
+./bipartite1 scripts/pat6.sp.test
+scripts/pat6.sp.test :: PASSED
+./bipartite1 scripts/s_element_test_initial_50ghz_mesh_2.sp.test
+scripts/s_element_test_initial_50ghz_mesh_2.sp.test :: PASSED
+./bipartite1 scripts/vec_idelay.sp.test
+scripts/vec_idelay.sp.test :: PASSED
+./bipartite1 scripts/resloadamp_hsp.sp.test
+scripts/resloadamp_hsp.sp.test :: PASSED
+./bipartite1 scripts/vec_vname_explicit.sp.test
+scripts/vec_vname_explicit.sp.test :: PASSED
+./bipartite1 scripts/local_53.sp.test
+scripts/local_53.sp.test :: PASSED
+./bipartite1 scripts/s_element_test_quasi_microstrip_coupler.sp.test
+scripts/s_element_test_quasi_microstrip_coupler.sp.test :: PASSED
+./bipartite1 scripts/sl_step_hb_1.sp.test
+scripts/sl_step_hb_1.sp.test :: PASSED
+./bipartite1 scripts/pat2.sp.test
+scripts/pat2.sp.test :: PASSED
+./bipartite1 scripts/vpwl_7.sp.test
+scripts/vpwl_7.sp.test :: PASSED
+./bipartite1 scripts/s_element_test_intcap4f76.sp.test
+scripts/s_element_test_intcap4f76.sp.test :: PASSED
+./bipartite1 scripts/test_output_dyclamp_w2t.sp.test
+scripts/test_output_dyclamp_w2t.sp.test :: PASSED
+./bipartite1 scripts/ms_gap_asymmetric_tran_2.sp.test
+scripts/ms_gap_asymmetric_tran_2.sp.test :: PASSED
+./bipartite1 scripts/resistor_para_19.sp.test
+scripts/resistor_para_19.sp.test :: PASSED
+./bipartite1 scripts/scope_lib_in_subcircuit.sp.test
+scripts/scope_lib_in_subcircuit.sp.test :: PASSED
+./bipartite1 scripts/test_output_ramp.sp.test
+scripts/test_output_ramp.sp.test :: PASSED
+./bipartite1 scripts/r2_mch_test15.sp.test
+scripts/r2_mch_test15.sp.test :: PASSED
+./bipartite1 scripts/pat_trtf.sp.test
+scripts/pat_trtf.sp.test :: PASSED
+./bipartite1 scripts/ms_gap_symmetric_tran_2.sp.test
+scripts/ms_gap_symmetric_tran_2.sp.test :: PASSED
+./bipartite1 scripts/port_imped_noise.sp.test
+scripts/port_imped_noise.sp.test :: PASSED
+./bipartite1 scripts/osl_trl_physical_ref_hb_3.sp.test
+scripts/osl_trl_physical_ref_hb_3.sp.test :: PASSED
+./bipartite1 scripts/param_temp_0res_1.sp.test
+scripts/param_temp_0res_1.sp.test :: PASSED
+./bipartite1 scripts/n_element_test_coaxial_hb.sp.test
+scripts/n_element_test_coaxial_hb.sp.test :: PASSED
+./bipartite1 scripts/sl_differential_TRL_physical_LNA.sp.test
+scripts/sl_differential_TRL_physical_LNA.sp.test :: PASSED
+./bipartite1 scripts/cpl_lna_example1.sp.test
+scripts/cpl_lna_example1.sp.test :: PASSED
+./bipartite1 scripts/bjtinv_ac.sp.test
+scripts/bjtinv_ac.sp.test :: PASSED
+./bipartite1 scripts/resistor_para_11.sp.test
+scripts/resistor_para_11.sp.test :: PASSED
+./bipartite1 scripts/ms_tee_hb_3.sp.test
+scripts/ms_tee_hb_3.sp.test :: PASSED
+./bipartite1 scripts/w_matt_hudale.sp.test
+scripts/w_matt_hudale.sp.test :: PASSED
+./bipartite1 scripts/s_element_test_quasi_microstrip_coupler_hb.sp.test
+scripts/s_element_test_quasi_microstrip_coupler_hb.sp.test :: PASSED
+./bipartite1 scripts/resistor_para_15.sp.test
+scripts/resistor_para_15.sp.test :: PASSED
+./bipartite1 scripts/sl_taper_w_ref_hb_4.sp.test
+scripts/sl_taper_w_ref_hb_4.sp.test :: PASSED
+./bipartite1 scripts/r2_mch_test19.sp.test
+scripts/r2_mch_test19.sp.test :: PASSED
+./bipartite1 scripts/simple_float_1.sp.test
+scripts/simple_float_1.sp.test :: PASSED
+./bipartite1 scripts/s_element_test_ums_ph25_8x75_48ma.sp.test
+scripts/s_element_test_ums_ph25_8x75_48ma.sp.test :: PASSED
+./bipartite1 scripts/ms_trl_electrical_transient.sp.test
+scripts/ms_trl_electrical_transient.sp.test :: PASSED
+./bipartite1 scripts/nested_sweep.sp.test
+scripts/nested_sweep.sp.test :: PASSED
+./bipartite1 scripts/testcase7_default.sp.test
+scripts/testcase7_default.sp.test :: PASSED
+./bipartite1 scripts/resloadamp.sp.test
+scripts/resloadamp.sp.test :: PASSED
+./bipartite1 scripts/ms_mitered_bend_tran_3.sp.test
+scripts/ms_mitered_bend_tran_3.sp.test :: PASSED
+./bipartite1 scripts/gcpw_unmitered_bend_lna_example1.sp.test
+scripts/gcpw_unmitered_bend_lna_example1.sp.test :: PASSED
+./bipartite1 scripts/ms_mitered_bend_lna_3.sp.test
+scripts/ms_mitered_bend_lna_3.sp.test :: PASSED
+./bipartite1 scripts/ms_teee_lna_example1.sp.test
+scripts/ms_teee_lna_example1.sp.test :: PASSED
+./bipartite1 scripts/isffm_6.sp.test
+scripts/isffm_6.sp.test :: PASSED
+./bipartite1 scripts/vam_8.sp.test
+scripts/vam_8.sp.test :: PASSED
+./bipartite1 scripts/sl_open_stub_physical_hb_2.sp.test
+scripts/sl_open_stub_physical_hb_2.sp.test :: PASSED
+./bipartite1 scripts/ms_taper_w_ref_hb_4.sp.test
+scripts/ms_taper_w_ref_hb_4.sp.test :: PASSED
+./bipartite1 scripts/if_else.sp.test
+scripts/if_else.sp.test :: PASSED
+./bipartite1 scripts/sl_tee_hb_1.sp.test
+scripts/sl_tee_hb_1.sp.test :: PASSED
+./bipartite1 scripts/create_ic_file_sans_dc_cmd.sp.test
+scripts/create_ic_file_sans_dc_cmd.sp.test :: PASSED
+./bipartite1 scripts/resmin_vs_cleanup_1.sp.test
+scripts/resmin_vs_cleanup_1.sp.test :: PASSED
+./bipartite1 scripts/sl_taper_w_ref_tran_2.sp.test
+scripts/sl_taper_w_ref_tran_2.sp.test :: PASSED
+./bipartite1 scripts/dcsweep_res.sp.test
+scripts/dcsweep_res.sp.test :: PASSED
+./bipartite1 scripts/ms_via_pad_tran_2.sp.test
+scripts/ms_via_pad_tran_2.sp.test :: PASSED
+./bipartite1 scripts/gp_bjt_npns2_hb.sp.test
+scripts/gp_bjt_npns2_hb.sp.test :: PASSED
+./bipartite1 scripts/minimum_divisor_0.sp.test
+scripts/minimum_divisor_0.sp.test :: PASSED
+./bipartite1 scripts/resmin_vs_cleanup_5.sp.test
+scripts/resmin_vs_cleanup_5.sp.test :: [MNA-INF] 
+./bipartite1 scripts/MR52769_mor.sp.test
+scripts/MR52769_mor.sp.test :: PASSED
+./bipartite1 scripts/svcvs_test_second_order_lna.sp.test
+scripts/svcvs_test_second_order_lna.sp.test :: PASSED
+./bipartite1 scripts/e_opamp_pos_2.sp.test
+scripts/e_opamp_pos_2.sp.test :: PASSED
+./bipartite1 scripts/alter_param_2.sp.test
+scripts/alter_param_2.sp.test :: PASSED
+./bipartite1 scripts/ms_mitered_bend_hb_2.sp.test
+scripts/ms_mitered_bend_hb_2.sp.test :: PASSED
+./bipartite1 scripts/ms_gap_symmetric_lna_2.sp.test
+scripts/ms_gap_symmetric_lna_2.sp.test :: PASSED
+./bipartite1 scripts/sl_via_pad_lna_3.sp.test
+scripts/sl_via_pad_lna_3.sp.test :: PASSED
+./bipartite1 scripts/isffm_2.sp.test
+scripts/isffm_2.sp.test :: PASSED
+./bipartite1 scripts/welm_20in_micro_clean.sp.test
+scripts/welm_20in_micro_clean.sp.test :: PASSED
+./bipartite1 scripts/sl_open_stub_physical_tran_1.sp.test
+scripts/sl_open_stub_physical_tran_1.sp.test :: PASSED
+./bipartite1 scripts/resistor_with_cap_s_nonoise.sp.test
+scripts/resistor_with_cap_s_nonoise.sp.test :: PASSED
+./bipartite1 scripts/gp_bjt_npn1_ac.sp.test
+scripts/gp_bjt_npn1_ac.sp.test :: PASSED
+./bipartite1 scripts/vec_slope.sp.test
+scripts/vec_slope.sp.test :: PASSED
+./bipartite1 scripts/resistor_temp_189.sp.test
+scripts/resistor_temp_189.sp.test :: PASSED
+./bipartite1 scripts/ms_via_pad_ref_tran_2.sp.test
+scripts/ms_via_pad_ref_tran_2.sp.test :: PASSED
+./bipartite1 scripts/vc1_pwl_cy37xi3_5_pwrclamp_table.sp.test
+scripts/vc1_pwl_cy37xi3_5_pwrclamp_table.sp.test :: PASSED
+./bipartite1 scripts/vec_data_with_t.sp.test
+scripts/vec_data_with_t.sp.test :: PASSED
+./bipartite1 scripts/bjt_amps_32_hb_v_sweep.sp.test
+scripts/bjt_amps_32_hb_v_sweep.sp.test :: PASSED
+./bipartite1 scripts/test_limiting_off_for_linear.sp.test
+scripts/test_limiting_off_for_linear.sp.test :: PASSED
+./bipartite1 scripts/vam_4.sp.test
+scripts/vam_4.sp.test :: PASSED
+./bipartite1 scripts/ms_trl_physical_lna_2.sp.test
+scripts/ms_trl_physical_lna_2.sp.test :: PASSED
+./bipartite1 scripts/sl_tee_lna_2.sp.test
+scripts/sl_tee_lna_2.sp.test :: PASSED
+./bipartite1 scripts/resistor_para_32.sp.test
+scripts/resistor_para_32.sp.test :: PASSED
+./bipartite1 scripts/vec_default1port.sp.test
+scripts/vec_default1port.sp.test :: PASSED
+./bipartite1 scripts/test_output_pin2.sp.test
+scripts/test_output_pin2.sp.test :: PASSED
+./bipartite1 scripts/param_temp_negativeres_base.sp.test
+scripts/param_temp_negativeres_base.sp.test :: PASSED
+./bipartite1 scripts/s_element_test_ph25_6x50_hb.sp.test
+scripts/s_element_test_ph25_6x50_hb.sp.test :: PASSED
+./bipartite1 scripts/doc_eg.sp.test
+scripts/doc_eg.sp.test :: PASSED
+./bipartite1 scripts/s_element_test_transmission50.sp.test
+scripts/s_element_test_transmission50.sp.test :: PASSED
+./bipartite1 scripts/s_element_test_transmission50nodc.sp.test
+scripts/s_element_test_transmission50nodc.sp.test :: PASSED
+./bipartite1 scripts/ms_spiral_inductor_lna_2.sp.test
+scripts/ms_spiral_inductor_lna_2.sp.test :: PASSED
+./bipartite1 scripts/mos_mixer_bsim3_dc.sp.test
+scripts/mos_mixer_bsim3_dc.sp.test :: PASSED
+./bipartite1 scripts/vco_with_mixer.sp.test
+scripts/vco_with_mixer.sp.test :: PASSED
+./bipartite1 scripts/sl_trl_physical_ref_lna_2.sp.test
+scripts/sl_trl_physical_ref_lna_2.sp.test :: PASSED
+./bipartite1 scripts/s_element_test_ph25_6x50_ac.sp.test
+scripts/s_element_test_ph25_6x50_ac.sp.test :: PASSED
+./bipartite1 scripts/neg_3.sp.test
+scripts/neg_3.sp.test :: PASSED
+./bipartite1 scripts/local_19.sp.test
+scripts/local_19.sp.test :: PASSED
+./bipartite1 scripts/param_caps_5.sp.test
+scripts/param_caps_5.sp.test :: PASSED
+./bipartite1 scripts/ms_via_pad_ref_lna_3.sp.test
+scripts/ms_via_pad_ref_lna_3.sp.test :: PASSED
+./bipartite1 scripts/resistor_temp_57.sp.test
+scripts/resistor_temp_57.sp.test :: PASSED
+./bipartite1 scripts/diode_rectifier.sp.test
+scripts/diode_rectifier.sp.test :: PASSED
+./bipartite1 scripts/resistor_para_1.sp.test
+scripts/resistor_para_1.sp.test :: PASSED
+./bipartite1 scripts/test_w2t.sp.test
+scripts/test_w2t.sp.test :: PASSED
+./bipartite1 scripts/fsmodel_example7.sp.test
+scripts/fsmodel_example7.sp.test :: PASSED
+./bipartite1 scripts/param_caps_1.sp.test
+scripts/param_caps_1.sp.test :: PASSED
+./bipartite1 scripts/ms_tee_tran_2.sp.test
+scripts/ms_tee_tran_2.sp.test :: PASSED
+./bipartite1 scripts/s_element_test_ne32100a_lna.sp.test
+scripts/s_element_test_ne32100a_lna.sp.test :: PASSED
+./bipartite1 scripts/fsmodel_example3.sp.test
+scripts/fsmodel_example3.sp.test :: PASSED
+./bipartite1 scripts/testcase6_b.sp.test
+scripts/testcase6_b.sp.test :: PASSED
+./bipartite1 scripts/resistor_para_5.sp.test
+scripts/resistor_para_5.sp.test :: PASSED
+./bipartite1 scripts/ms_unmitered_bend_lna_3.sp.test
+scripts/ms_unmitered_bend_lna_3.sp.test :: PASSED
+./bipartite1 scripts/gp_bjt_npn1_hb.sp.test
+scripts/gp_bjt_npn1_hb.sp.test :: PASSED
+./bipartite1 scripts/ms_trl_physical_ref_lna_2.sp.test
+scripts/ms_trl_physical_ref_lna_2.sp.test :: PASSED
+./bipartite1 scripts/s_element_test_transmission50_lna.sp.test
+scripts/s_element_test_transmission50_lna.sp.test :: PASSED
+./bipartite1 scripts/local_15.sp.test
+scripts/local_15.sp.test :: PASSED
+./bipartite1 scripts/r2_mch_test6.sp.test
+scripts/r2_mch_test6.sp.test :: PASSED
+./bipartite1 scripts/gilbertcell_hb.sp.test
+scripts/gilbertcell_hb.sp.test :: PASSED
+./bipartite1 scripts/gp_bjt_npns2_ac.sp.test
+scripts/gp_bjt_npns2_ac.sp.test :: PASSED
+./bipartite1 scripts/ipwl_neg_11.sp.test
+scripts/ipwl_neg_11.sp.test :: PASSED
+./bipartite1 scripts/top_lvl.sp.test
+scripts/top_lvl.sp.test :: PASSED
+./bipartite1 scripts/first_line_10.sp.test
+scripts/first_line_10.sp.test :: PASSED
+./bipartite1 scripts/sl_unmitered_bend_hb_3.sp.test
+scripts/sl_unmitered_bend_hb_3.sp.test :: PASSED
+./bipartite1 scripts/vec_hexdata_with_t.sp.test
+scripts/vec_hexdata_with_t.sp.test :: PASSED
+./bipartite1 scripts/netlist.sp.test
+scripts/netlist.sp.test :: PASSED
+./bipartite1 scripts/gcpw_mitered_bend_lna_example1.sp.test
+scripts/gcpw_mitered_bend_lna_example1.sp.test :: PASSED
+./bipartite1 scripts/multphasevco.sp.test
+scripts/multphasevco.sp.test :: PASSED
+./bipartite1 scripts/nmos_r_inverter.sp.test
+scripts/nmos_r_inverter.sp.test :: PASSED
+./bipartite1 scripts/ipul_neg_4.sp.test
+scripts/ipul_neg_4.sp.test :: PASSED
+./bipartite1 scripts/vbic02.sp.test
+scripts/vbic02.sp.test :: PASSED
+./bipartite1 scripts/ms_trl_electrical_ref_transient.sp.test
+scripts/ms_trl_electrical_ref_transient.sp.test :: PASSED
+./bipartite1 scripts/bjt_amp_511.sp.test
+scripts/bjt_amp_511.sp.test :: PASSED
+./bipartite1 scripts/resistor_para_9.sp.test
+scripts/resistor_para_9.sp.test :: PASSED
+./bipartite1 scripts/resmin_4.sp.test
+scripts/resmin_4.sp.test :: PASSED
+./bipartite1 scripts/r2_mch_test2.sp.test
+scripts/r2_mch_test2.sp.test :: PASSED
+./bipartite1 scripts/local_11.sp.test
+scripts/local_11.sp.test :: PASSED
+./bipartite1 scripts/vpul_neg_4.sp.test
+scripts/vpul_neg_4.sp.test :: PASSED
+./bipartite1 scripts/vco_umc_with_s_param.sp.test
+scripts/vco_umc_with_s_param.sp.test :: PASSED
+./bipartite1 scripts/iam_2.sp.test
+scripts/iam_2.sp.test :: PASSED
+./bipartite1 scripts/target4_t1_ssse.sp.test
+scripts/target4_t1_ssse.sp.test :: PASSED
+./bipartite1 scripts/vpul_hb_1.sp.test
+scripts/vpul_hb_1.sp.test :: PASSED
+./bipartite1 scripts/test_output_w2t.sp.test
+scripts/test_output_w2t.sp.test :: PASSED
+./bipartite1 scripts/vpul_tran_3.sp.test
+scripts/vpul_tran_3.sp.test :: PASSED
+./bipartite1 scripts/s_element_test_quasi_microstrip_coupler_ac.sp.test
+scripts/s_element_test_quasi_microstrip_coupler_ac.sp.test :: PASSED
+./bipartite1 scripts/vco_umc.sp.test
+scripts/vco_umc.sp.test :: PASSED
+./bipartite1 scripts/iam_6.sp.test
+scripts/iam_6.sp.test :: PASSED
+./bipartite1 scripts/emitter_follower3.sp.test
+scripts/emitter_follower3.sp.test :: PASSED
+./bipartite1 scripts/test_io_dyclamp_ramp.sp.test
+scripts/test_io_dyclamp_ramp.sp.test :: PASSED
+./bipartite1 scripts/vpul_tran_7.sp.test
+scripts/vpul_tran_7.sp.test :: PASSED
+./bipartite1 scripts/ms_open_stub_physical_lna_1.sp.test
+scripts/ms_open_stub_physical_lna_1.sp.test :: PASSED
+./bipartite1 scripts/testcase7_b.sp.test
+scripts/testcase7_b.sp.test :: PASSED
+./bipartite1 scripts/dio_test1.sp.test
+scripts/dio_test1.sp.test :: PASSED
+./bipartite1 scripts/ms_gap_symmetric_hb_2.sp.test
+scripts/ms_gap_symmetric_hb_2.sp.test :: PASSED
+./bipartite1 scripts/ms_rect_inductor_hb_1.sp.test
+scripts/ms_rect_inductor_hb_1.sp.test :: PASSED
+./bipartite1 scripts/measure_tran_features.sp.test
+scripts/measure_tran_features.sp.test :: PASSED
+./bipartite1 scripts/param_temp_negativeres_hspice.sp.test
+scripts/param_temp_negativeres_hspice.sp.test :: PASSED
+./bipartite1 scripts/ms_taper_w_ref_lna_2.sp.test
+scripts/ms_taper_w_ref_lna_2.sp.test :: PASSED
+./bipartite1 scripts/number_format_4.sp.test
+scripts/number_format_4.sp.test :: PASSED
+./bipartite1 scripts/local_32.sp.test
+scripts/local_32.sp.test :: PASSED
+./bipartite1 scripts/gnd_problem_2.sp.test
+scripts/gnd_problem_2.sp.test :: PASSED
+./bipartite1 scripts/test_io_dyclamp_w2t.sp.test
+scripts/test_io_dyclamp_w2t.sp.test :: PASSED
+./bipartite1 scripts/indq_tran_2.sp.test
+scripts/indq_tran_2.sp.test :: PASSED
+./bipartite1 scripts/sl_via_hole_ref_hb_2.sp.test
+scripts/sl_via_hole_ref_hb_2.sp.test :: PASSED
+./bipartite1 scripts/ms_spiral_inductor_hb_3.sp.test
+scripts/ms_spiral_inductor_hb_3.sp.test :: PASSED
+./bipartite1 scripts/osl_trl_physical_ref_lna_2.sp.test
+scripts/osl_trl_physical_ref_lna_2.sp.test :: PASSED
+./bipartite1 scripts/mos_varactor.sp.test
+scripts/mos_varactor.sp.test :: PASSED
+./bipartite1 scripts/ms_trl_physical_hb_1.sp.test
+scripts/ms_trl_physical_hb_1.sp.test :: PASSED
+./bipartite1 scripts/ms_tee_lna_3.sp.test
+scripts/ms_tee_lna_3.sp.test :: PASSED
+./bipartite1 scripts/alter_neg_2.sp.test
+scripts/alter_neg_2.sp.test :: PASSED
+./bipartite1 scripts/local_36.sp.test
+scripts/local_36.sp.test :: PASSED
+./bipartite1 scripts/global_11.sp.test
+scripts/global_11.sp.test :: PASSED
+./bipartite1 scripts/cmos_inverter_v.sp.test
+scripts/cmos_inverter_v.sp.test :: PASSED
+./bipartite1 scripts/test_s_element_vector_input.sp.test
+scripts/test_s_element_vector_input.sp.test :: PASSED
+./bipartite1 scripts/sl_unmitered_bend_tran_1.sp.test
+scripts/sl_unmitered_bend_tran_1.sp.test :: PASSED
+./bipartite1 scripts/osl_trl_physical_ref_hb_2.sp.test
+scripts/osl_trl_physical_ref_hb_2.sp.test :: PASSED
+./bipartite1 scripts/resistor_para_10.sp.test
+scripts/resistor_para_10.sp.test :: PASSED
+./bipartite1 scripts/ms_tee_hb_2.sp.test
+scripts/ms_tee_hb_2.sp.test :: PASSED
+./bipartite1 scripts/sl_taper_w_ref_hb_1.sp.test
+scripts/sl_taper_w_ref_hb_1.sp.test :: PASSED
+./bipartite1 scripts/ms_gap_asymmetric_lna_1.sp.test
+scripts/ms_gap_asymmetric_lna_1.sp.test :: PASSED
+./bipartite1 scripts/r2_mch_test18.sp.test
+scripts/r2_mch_test18.sp.test :: PASSED
+./bipartite1 scripts/resistor_para_14.sp.test
+scripts/resistor_para_14.sp.test :: PASSED
+./bipartite1 scripts/temp_1.sp.test
+scripts/temp_1.sp.test :: PASSED
+./bipartite1 scripts/ms_tfc_hb_1.sp.test
+scripts/ms_tfc_hb_1.sp.test :: PASSED
+./bipartite1 scripts/sl_via_hole_hb_1.sp.test
+scripts/sl_via_hole_hb_1.sp.test :: PASSED
+./bipartite1 scripts/e_element_laplace_test_second_order.sp.test
+scripts/e_element_laplace_test_second_order.sp.test :: PASSED
+./bipartite1 scripts/s_element_test_inductor_ac.sp.test
+scripts/s_element_test_inductor_ac.sp.test :: PASSED
+./bipartite1 scripts/ms_rect_inductor_tran_1.sp.test
+scripts/ms_rect_inductor_tran_1.sp.test :: PASSED
+./bipartite1 scripts/vco_standalone.sp.test
+scripts/vco_standalone.sp.test :: PASSED
+./bipartite1 scripts/ms_via_hole_ref_tran_1.sp.test
+scripts/ms_via_hole_ref_tran_1.sp.test :: PASSED
+./bipartite1 scripts/cpw_open_stub_e_lna_example1.sp.test
+scripts/cpw_open_stub_e_lna_example1.sp.test :: PASSED
+./bipartite1 scripts/resistor_temp_153.sp.test
+scripts/resistor_temp_153.sp.test :: PASSED
+./bipartite1 scripts/sl_open_stub_physical_lna_1.sp.test
+scripts/sl_open_stub_physical_lna_1.sp.test :: PASSED
+./bipartite1 scripts/param_temp_10.sp.test
+scripts/param_temp_10.sp.test :: PASSED
+./bipartite1 scripts/test.sp.test
+scripts/test.sp.test :: PASSED
+./bipartite1 scripts/s_element_test_transmission50short_abcd.sp.test
+scripts/s_element_test_transmission50short_abcd.sp.test :: PASSED
+./bipartite1 scripts/pat7.sp.test
+scripts/pat7.sp.test :: PASSED
+./bipartite1 scripts/local_52.sp.test
+scripts/local_52.sp.test :: PASSED
+./bipartite1 scripts/pat3.sp.test
+scripts/pat3.sp.test :: PASSED
+./bipartite1 scripts/param_temp_0res_2_base.sp.test
+scripts/param_temp_0res_2_base.sp.test :: PASSED
+./bipartite1 scripts/gp_bjt_pnp1_dc.sp.test
+scripts/gp_bjt_pnp1_dc.sp.test :: PASSED
+./bipartite1 scripts/vpwl_6.sp.test
+scripts/vpwl_6.sp.test :: PASSED
+./bipartite1 scripts/r2_mch_test14.sp.test
+scripts/r2_mch_test14.sp.test :: PASSED
+./bipartite1 scripts/s_element_test_nvidiaibm_lna.sp.test
+scripts/s_element_test_nvidiaibm_lna.sp.test :: PASSED
+./bipartite1 scripts/ms_radial_bend_lna_1.sp.test
+scripts/ms_radial_bend_lna_1.sp.test :: PASSED
+./bipartite1 scripts/rx.sp.test
+scripts/rx.sp.test :: PASSED
+./bipartite1 scripts/wolfson1.sp.test
+scripts/wolfson1.sp.test :: PASSED
+./bipartite1 scripts/resistor_para_18.sp.test
+scripts/resistor_para_18.sp.test :: PASSED
+./bipartite1 scripts/s_element_test_variable_reference_nodes.sp.test
+scripts/s_element_test_variable_reference_nodes.sp.test :: PASSED
+./bipartite1 scripts/ms_via_pad_ref_tran_3.sp.test
+scripts/ms_via_pad_ref_tran_3.sp.test :: PASSED
+./bipartite1 scripts/r2_hybrid_test6.sp.test
+scripts/r2_hybrid_test6.sp.test :: PASSED
+./bipartite1 scripts/resistor_temp_33.sp.test
+scripts/resistor_temp_33.sp.test :: PASSED
+./bipartite1 scripts/transformer_tran_1x1.sp.test
+scripts/transformer_tran_1x1.sp.test :: PASSED
+./bipartite1 scripts/sl_tee_lna_3.sp.test
+scripts/sl_tee_lna_3.sp.test :: PASSED
+./bipartite1 scripts/vam_5.sp.test
+scripts/vam_5.sp.test :: PASSED
+./bipartite1 scripts/ms_via_hole_lna_2.sp.test
+scripts/ms_via_hole_lna_2.sp.test :: PASSED
+./bipartite1 scripts/notch10k_ac.sp.test
+scripts/notch10k_ac.sp.test :: PASSED
+./bipartite1 scripts/vpwl_12.sp.test
+scripts/vpwl_12.sp.test :: PASSED
+./bipartite1 scripts/simple_1.sp.test
+scripts/simple_1.sp.test :: PASSED
+./bipartite1 scripts/vam_1.sp.test
+scripts/vam_1.sp.test :: PASSED
+./bipartite1 scripts/param_caps.sp.test
+scripts/param_caps.sp.test :: PASSED
+./bipartite1 scripts/resistor_para_33.sp.test
+scripts/resistor_para_33.sp.test :: PASSED
+./bipartite1 scripts/osl_trl_physical_tran_1.sp.test
+scripts/osl_trl_physical_tran_1.sp.test :: PASSED
+./bipartite1 scripts/r2_hybrid_test2.sp.test
+scripts/r2_hybrid_test2.sp.test :: PASSED
+./bipartite1 scripts/ms_mitered_bend_lna_2.sp.test
+scripts/ms_mitered_bend_lna_2.sp.test :: PASSED
+./bipartite1 scripts/ms_mitered_bend_tran_2.sp.test
+scripts/ms_mitered_bend_tran_2.sp.test :: PASSED
+./bipartite1 scripts/amp_core3_pss_and_hb.sp.test
+scripts/amp_core3_pss_and_hb.sp.test :: PASSED
+./bipartite1 scripts/freq_1.sp.test
+scripts/freq_1.sp.test :: PASSED
+./bipartite1 scripts/vam_9.sp.test
+scripts/vam_9.sp.test :: PASSED
+./bipartite1 scripts/isffm_7.sp.test
+scripts/isffm_7.sp.test :: PASSED
+./bipartite1 scripts/vpl_1.sp.test
+scripts/vpl_1.sp.test :: PASSED
+./bipartite1 scripts/alter_option_1.sp.test
+scripts/alter_option_1.sp.test :: PASSED
+./bipartite1 scripts/w_gore_twinax.sp.test
+scripts/w_gore_twinax.sp.test :: PASSED
+./bipartite1 scripts/sl_tee_tran_1.sp.test
+scripts/sl_tee_tran_1.sp.test :: PASSED
+./bipartite1 scripts/test_s_element_z_param.sp.test
+scripts/test_s_element_z_param.sp.test :: PASSED
+./bipartite1 scripts/chain_cmos_7.sp.test
+scripts/chain_cmos_7.sp.test :: PASSED
+./bipartite1 scripts/sl_taper_w_ref_tran_3.sp.test
+scripts/sl_taper_w_ref_tran_3.sp.test :: PASSED
+./bipartite1 scripts/minimum_divisor_1.sp.test
+scripts/minimum_divisor_1.sp.test :: PASSED
+./bipartite1 scripts/ms_taper_w_ref_hb_1.sp.test
+scripts/ms_taper_w_ref_hb_1.sp.test :: PASSED
+./bipartite1 scripts/ms_via_pad_tran_3.sp.test
+scripts/ms_via_pad_tran_3.sp.test :: PASSED
+./bipartite1 scripts/resmin_vs_cleanup_4.sp.test
+scripts/resmin_vs_cleanup_4.sp.test :: PASSED
+./bipartite1 scripts/ms_mitered_bend_hb_3.sp.test
+scripts/ms_mitered_bend_hb_3.sp.test :: PASSED
+./bipartite1 scripts/s_element_test_ums_ph25_8x75_48ma_ac.sp.test
+scripts/s_element_test_ums_ph25_8x75_48ma_ac.sp.test :: PASSED
+./bipartite1 scripts/memchip.sp.test
+scripts/memchip.sp.test :: PASSED
+./bipartite1 scripts/isffm_3.sp.test
+scripts/isffm_3.sp.test :: PASSED
+./bipartite1 scripts/bjt_mixer.sp.test
+scripts/bjt_mixer.sp.test :: PASSED
+./bipartite1 scripts/sl_via_pad_lna_2.sp.test
+scripts/sl_via_pad_lna_2.sp.test :: PASSED
+./bipartite1 scripts/g_element_laplace_pole.sp.test
+scripts/g_element_laplace_pole.sp.test :: PASSED
+./bipartite1 scripts/ms_open_stub_electrical_hb.sp.test
+scripts/ms_open_stub_electrical_hb.sp.test :: PASSED
+./bipartite1 scripts/cpl_lna_example2_lossy.sp.test
+scripts/cpl_lna_example2_lossy.sp.test :: PASSED
+./bipartite1 scripts/local_14.sp.test
+scripts/local_14.sp.test :: PASSED
+./bipartite1 scripts/r2_mch_test7.sp.test
+scripts/r2_mch_test7.sp.test :: PASSED
+./bipartite1 scripts/resmin_1.sp.test
+scripts/resmin_1.sp.test :: PASSED
+./bipartite1 scripts/alter_model_neg_1.sp.test
+scripts/alter_model_neg_1.sp.test :: PASSED
+./bipartite1 scripts/s_element_test_ums_ph25_8x75_48ma_hb.sp.test
+scripts/s_element_test_ums_ph25_8x75_48ma_hb.sp.test :: PASSED
+./bipartite1 scripts/param_temp_0res_1_base.sp.test
+scripts/param_temp_0res_1_base.sp.test :: PASSED
+./bipartite1 scripts/osl_trl_physical_hb_1.sp.test
+scripts/osl_trl_physical_hb_1.sp.test :: PASSED
+./bipartite1 scripts/test_3_state_dyclamp_w1t.sp.test
+scripts/test_3_state_dyclamp_w1t.sp.test :: PASSED
+./bipartite1 scripts/tran_cap_f.sp.test
+scripts/tran_cap_f.sp.test :: PASSED
+./bipartite1 scripts/s_element_test_ideal_delay75.sp.test
+scripts/s_element_test_ideal_delay75.sp.test :: PASSED
+./bipartite1 scripts/alter_multiple_analysis_1.sp.test
+scripts/alter_multiple_analysis_1.sp.test :: PASSED
+./bipartite1 scripts/ms_trl_physical_ref_tran_2.sp.test
+scripts/ms_trl_physical_ref_tran_2.sp.test :: PASSED
+./bipartite1 scripts/sl_trl_physical_neg.sp.test
+scripts/sl_trl_physical_neg.sp.test :: PASSED
+./bipartite1 scripts/ipul_lna_1.sp.test
+scripts/ipul_lna_1.sp.test :: PASSED
+./bipartite1 scripts/sl_unmitered_bend_hb_2.sp.test
+scripts/sl_unmitered_bend_hb_2.sp.test :: PASSED
+./bipartite1 scripts/resistor_para_8.sp.test
+scripts/resistor_para_8.sp.test :: PASSED
+./bipartite1 scripts/vcod4xa.sp.test
+scripts/vcod4xa.sp.test :: PASSED
+./bipartite1 scripts/ms_trl_physical_tran_1.sp.test
+scripts/ms_trl_physical_tran_1.sp.test :: PASSED
+./bipartite1 scripts/r2_mch_test3.sp.test
+scripts/r2_mch_test3.sp.test :: PASSED
+./bipartite1 scripts/local_10.sp.test
+scripts/local_10.sp.test :: PASSED
+./bipartite1 scripts/minimum_divisor_2a.sp.test
+scripts/minimum_divisor_2a.sp.test :: [MNA-NAN] 
+./bipartite1 scripts/sl_trl_physical_ref_hb_1.sp.test
+scripts/sl_trl_physical_ref_hb_1.sp.test :: PASSED
+./bipartite1 scripts/ms_spiral_inductor_lna_3.sp.test
+scripts/ms_spiral_inductor_lna_3.sp.test :: PASSED
+./bipartite1 scripts/comp_ckt_K.sp.test
+scripts/comp_ckt_K.sp.test :: PASSED
+./bipartite1 scripts/ms_step_hb_1.sp.test
+scripts/ms_step_hb_1.sp.test :: PASSED
+./bipartite1 scripts/param_temp_6_hspice.sp.test
+scripts/param_temp_6_hspice.sp.test :: PASSED
+./bipartite1 scripts/param_caps_4.sp.test
+scripts/param_caps_4.sp.test :: PASSED
+./bipartite1 scripts/local_18.sp.test
+scripts/local_18.sp.test :: PASSED
+./bipartite1 scripts/gp_bjt_pnps2_dc.sp.test
+scripts/gp_bjt_pnps2_dc.sp.test :: PASSED
+./bipartite1 scripts/neg_2.sp.test
+scripts/neg_2.sp.test :: PASSED
+./bipartite1 scripts/notch60_ac.sp.test
+scripts/notch60_ac.sp.test :: PASSED
+./bipartite1 scripts/fsmodel_example6.sp.test
+scripts/fsmodel_example6.sp.test :: PASSED
+./bipartite1 scripts/resistor_para_0.sp.test
+scripts/resistor_para_0.sp.test :: PASSED
+./bipartite1 scripts/ms_via_pad_ref_lna_2.sp.test
+scripts/ms_via_pad_ref_lna_2.sp.test :: PASSED
+./bipartite1 scripts/noisetest.sp.test
+scripts/noisetest.sp.test :: PASSED
+./bipartite1 scripts/resistor_para_4.sp.test
+scripts/resistor_para_4.sp.test :: PASSED
+./bipartite1 scripts/fsmodel_example2.sp.test
+scripts/fsmodel_example2.sp.test :: PASSED
+./bipartite1 scripts/ms_tee_tran_3.sp.test
+scripts/ms_tee_tran_3.sp.test :: PASSED
+./bipartite1 scripts/ms_unmitered_bend_lna_2.sp.test
+scripts/ms_unmitered_bend_lna_2.sp.test :: PASSED
+./bipartite1 scripts/ms_via_pad_ref_hb_1.sp.test
+scripts/ms_via_pad_ref_hb_1.sp.test :: PASSED
+./bipartite1 scripts/ms_open_stub_physical_tran_1.sp.test
+scripts/ms_open_stub_physical_tran_1.sp.test :: PASSED
+./bipartite1 scripts/g_delay_pos_1.sp.test
+scripts/g_delay_pos_1.sp.test :: PASSED
+./bipartite1 scripts/which_sim.sp.test
+scripts/which_sim.sp.test :: PASSED
+./bipartite1 scripts/ms_taper_w_ref_lna_3.sp.test
+scripts/ms_taper_w_ref_lna_3.sp.test :: PASSED
+./bipartite1 scripts/sl_via_pad_ref_hb_1.sp.test
+scripts/sl_via_pad_ref_hb_1.sp.test :: PASSED
+./bipartite1 scripts/local_33.sp.test
+scripts/local_33.sp.test :: PASSED
+./bipartite1 scripts/global_14.sp.test
+scripts/global_14.sp.test :: PASSED
+./bipartite1 scripts/trl_td_tran_example.sp.test
+scripts/trl_td_tran_example.sp.test :: PASSED
+./bipartite1 scripts/number_format_5.sp.test
+scripts/number_format_5.sp.test :: PASSED
+./bipartite1 scripts/gnd_problem_3.sp.test
+scripts/gnd_problem_3.sp.test :: PASSED
+./bipartite1 scripts/test_ibis_regression1.sp.test
+scripts/test_ibis_regression1.sp.test :: PASSED
+./bipartite1 scripts/IQ_generation.sp.test
+scripts/IQ_generation.sp.test :: PASSED
+./bipartite1 scripts/ms_spiral_inductor_hb_2.sp.test
+scripts/ms_spiral_inductor_hb_2.sp.test :: PASSED
+./bipartite1 scripts/impedance_lna_example1.sp.test
+scripts/impedance_lna_example1.sp.test :: PASSED
+./bipartite1 scripts/indq_tran_3.sp.test
+scripts/indq_tran_3.sp.test :: PASSED
+./bipartite1 scripts/cpm_with_bitlist.sp.test
+scripts/cpm_with_bitlist.sp.test :: PASSED
+./bipartite1 scripts/mesh_rlc.sp.test
+scripts/mesh_rlc.sp.test :: [SINGULAR] 
+./bipartite1 scripts/osl_trl_physical_ref_lna_3.sp.test
+scripts/osl_trl_physical_ref_lna_3.sp.test :: PASSED
+./bipartite1 scripts/sl_via_hole_ref_lna_2.sp.test
+scripts/sl_via_hole_ref_lna_2.sp.test :: PASSED
+./bipartite1 scripts/bin1000a.sp.test
+scripts/bin1000a.sp.test :: PASSED
+./bipartite1 scripts/insert_1.sp.test
+scripts/insert_1.sp.test :: PASSED
+./bipartite1 scripts/ms_tee_lna_2.sp.test
+scripts/ms_tee_lna_2.sp.test :: PASSED
+./bipartite1 scripts/ac_noise.sp.test
+scripts/ac_noise.sp.test :: PASSED
+./bipartite1 scripts/number_format_1.sp.test
+scripts/number_format_1.sp.test :: PASSED
+./bipartite1 scripts/global_10.sp.test
+scripts/global_10.sp.test :: PASSED
+./bipartite1 scripts/local_37.sp.test
+scripts/local_37.sp.test :: PASSED
+./bipartite1 scripts/g_laplace_pos_1.sp.test
+scripts/g_laplace_pos_1.sp.test :: PASSED
+./bipartite1 scripts/s_element_test_inductor_hb.sp.test
+scripts/s_element_test_inductor_hb.sp.test :: PASSED
+./bipartite1 scripts/resistor_temp_81.sp.test
+scripts/resistor_temp_81.sp.test :: PASSED
+./bipartite1 scripts/vpul_lna_1.sp.test
+scripts/vpul_lna_1.sp.test :: PASSED
+./bipartite1 scripts/ideal_shorted_stub_electrical_lna_ref_example1.sp.test
+scripts/ideal_shorted_stub_electrical_lna_ref_example1.sp.test :: PASSED
+./bipartite1 scripts/iam_3.sp.test
+scripts/iam_3.sp.test :: PASSED
+./bipartite1 scripts/global_18.sp.test
+scripts/global_18.sp.test :: PASSED
+./bipartite1 scripts/ms_trl_physical_neg.sp.test
+scripts/ms_trl_physical_neg.sp.test :: PASSED
+./bipartite1 scripts/vpul_tran_2.sp.test
+scripts/vpul_tran_2.sp.test :: PASSED
+./bipartite1 scripts/vec_vname_series.sp.test
+scripts/vec_vname_series.sp.test :: PASSED
+./bipartite1 scripts/emitter_follower2.sp.test
+scripts/emitter_follower2.sp.test :: PASSED
+./bipartite1 scripts/iam_7.sp.test
+scripts/iam_7.sp.test :: PASSED
+./bipartite1 scripts/vpul_tran_6.sp.test
+scripts/vpul_tran_6.sp.test :: PASSED
+./bipartite1 scripts/s_element_test_rfic_tran.sp.test
+scripts/s_element_test_rfic_tran.sp.test :: PASSED
+./bipartite1 scripts/clapp_kaertner.sp.test
+scripts/clapp_kaertner.sp.test :: PASSED
+./bipartite1 scripts/test_ecl.sp.test
+ scripts/test_ecl.sp.test :: [SINGULAR] 
+./bipartite1 scripts/vec_data_sans_t.sp.test
+scripts/vec_data_sans_t.sp.test :: PASSED
+./bipartite1 scripts/ipwl_neg_8.sp.test
+scripts/ipwl_neg_8.sp.test :: PASSED
+./bipartite1 scripts/s_element_test_spiral3000_lna.sp.test
+scripts/s_element_test_spiral3000_lna.sp.test :: PASSED
+./bipartite1 scripts/s_element_test_cap0822.sp.test
+scripts/s_element_test_cap0822.sp.test :: PASSED
+./bipartite1 scripts/sl_mitered_bend_lna_1.sp.test
+scripts/sl_mitered_bend_lna_1.sp.test :: PASSED
+./bipartite1 scripts/sl_mitered_bend_tran_1.sp.test
+scripts/sl_mitered_bend_tran_1.sp.test :: PASSED
+./bipartite1 scripts/indq_hb_3.sp.test
+scripts/indq_hb_3.sp.test :: PASSED
+./bipartite1 scripts/ms_trl_electrical_hb.sp.test
+scripts/ms_trl_electrical_hb.sp.test :: PASSED
+./bipartite1 scripts/nexxim_load_pull_netlist.sp.test
+scripts/nexxim_load_pull_netlist.sp.test :: PASSED
+./bipartite1 scripts/amplifier.sp.test
+scripts/amplifier.sp.test :: PASSED
+./bipartite1 scripts/ms_spiral_inductor_tran_3.sp.test
+scripts/ms_spiral_inductor_tran_3.sp.test :: PASSED
+./bipartite1 scripts/gp_bjt_pnps1_hb.sp.test
+scripts/gp_bjt_pnps1_hb.sp.test :: PASSED
+./bipartite1 scripts/bjt_amps_32.sp.test
+scripts/bjt_amps_32.sp.test :: PASSED
+./bipartite1 scripts/ms_open_stub_electrical_transient.sp.test
+scripts/ms_open_stub_electrical_transient.sp.test :: PASSED
+./bipartite1 scripts/s_element_test_ideal_delay.sp.test
+scripts/s_element_test_ideal_delay.sp.test :: PASSED
+./bipartite1 scripts/ms_taper_w_ref_tran_4.sp.test
+scripts/ms_taper_w_ref_tran_4.sp.test :: PASSED
+./bipartite1 scripts/sl_via_pad_hb_1.sp.test
+scripts/sl_via_pad_hb_1.sp.test :: PASSED
+./bipartite1 scripts/vreg_ac.sp.test
+scripts/vreg_ac.sp.test :: PASSED
+./bipartite1 scripts/u_1.sp.test
+scripts/u_1.sp.test :: PASSED
+./bipartite1 scripts/MR49087.sp.test
+scripts/MR49087.sp.test :: PASSED
+./bipartite1 scripts/osl_trl_physical_lna_3.sp.test
+scripts/osl_trl_physical_lna_3.sp.test :: PASSED
+./bipartite1 scripts/control.sp.test
+scripts/control.sp.test :: PASSED
+./bipartite1 scripts/global_22.sp.test
+scripts/global_22.sp.test :: PASSED
+./bipartite1 scripts/test_inoise_source.sp.test
+scripts/test_inoise_source.sp.test :: PASSED
+./bipartite1 scripts/local_7.sp.test
+scripts/local_7.sp.test :: PASSED
+./bipartite1 scripts/vsffm_4.sp.test
+scripts/vsffm_4.sp.test :: PASSED
+./bipartite1 scripts/fsine_dc.sp.test
+scripts/fsine_dc.sp.test :: PASSED
+./bipartite1 scripts/sl_via_hole_ref_tran_2.sp.test
+scripts/sl_via_hole_ref_tran_2.sp.test :: PASSED
+./bipartite1 scripts/sweepwidth_hsp.sp.test
+scripts/sweepwidth_hsp.sp.test :: PASSED
+./bipartite1 scripts/mem_plus_bsim3.sp.test
+scripts/mem_plus_bsim3.sp.test :: PASSED
+./bipartite1 scripts/sl_via_pad_tran_1.sp.test
+scripts/sl_via_pad_tran_1.sp.test :: PASSED
+./bipartite1 scripts/local_3.sp.test
+scripts/local_3.sp.test :: PASSED
+./bipartite1 scripts/sl_gap_asymmetric_lna_1.sp.test
+scripts/sl_gap_asymmetric_lna_1.sp.test :: PASSED
+./bipartite1 scripts/ground.sp.test
+scripts/ground.sp.test :: PASSED
+./bipartite1 scripts/rx_tran.sp.test
+scripts/rx_tran.sp.test :: PASSED
+./bipartite1 scripts/s_element_test_dirhi_2g_ac.sp.test
+scripts/s_element_test_dirhi_2g_ac.sp.test :: PASSED
+./bipartite1 scripts/local_26.sp.test
+scripts/local_26.sp.test :: PASSED
+./bipartite1 scripts/param_temp_3.sp.test
+scripts/param_temp_3.sp.test :: PASSED
+./bipartite1 scripts/s_element_test_cap0822_lna.sp.test
+scripts/s_element_test_cap0822_lna.sp.test :: PASSED
+./bipartite1 scripts/ipwl_11.sp.test
+scripts/ipwl_11.sp.test :: PASSED
+./bipartite1 scripts/ms_unmitered_bend_tran_2.sp.test
+scripts/ms_unmitered_bend_tran_2.sp.test :: PASSED
+./bipartite1 scripts/vsffm_8.sp.test
+scripts/vsffm_8.sp.test :: PASSED
+./bipartite1 scripts/first_line_5.sp.test
+scripts/first_line_5.sp.test :: PASSED
+./bipartite1 scripts/vexp_6.sp.test
+scripts/vexp_6.sp.test :: PASSED
+./bipartite1 scripts/s_element_test_ph25_8x75_2v36ma_hb.sp.test
+scripts/s_element_test_ph25_8x75_2v36ma_hb.sp.test :: PASSED
+./bipartite1 scripts/pwl_file_test.sp.test
+scripts/pwl_file_test.sp.test :: PASSED
+./bipartite1 scripts/first_line_1.sp.test
+scripts/first_line_1.sp.test :: PASSED
+./bipartite1 scripts/vexp_2.sp.test
+scripts/vexp_2.sp.test :: PASSED
+./bipartite1 scripts/vpwl_neg_8.sp.test
+scripts/vpwl_neg_8.sp.test :: PASSED
+./bipartite1 scripts/param_temp_7.sp.test
+scripts/param_temp_7.sp.test :: PASSED
+./bipartite1 scripts/local_22.sp.test
+scripts/local_22.sp.test :: PASSED
+./bipartite1 scripts/cpw_unmitered_bend_lna_example1.sp.test
+scripts/cpw_unmitered_bend_lna_example1.sp.test :: PASSED
+./bipartite1 scripts/gp_bjt_pnp2_ac.sp.test
+scripts/gp_bjt_pnp2_ac.sp.test :: PASSED
+./bipartite1 scripts/emitter_follower.sp.test
+scripts/emitter_follower.sp.test :: PASSED
+./bipartite1 scripts/cpw_open_stub_physical_lna_example1.sp.test
+scripts/cpw_open_stub_physical_lna_example1.sp.test :: PASSED
+./bipartite1 scripts/s_element_test_ylink2withDC.sp.test
+scripts/s_element_test_ylink2withDC.sp.test :: PASSED
+./bipartite1 scripts/qatiming1.sp.test
+scripts/qatiming1.sp.test :: PASSED
+./bipartite1 scripts/dcsweep_temp.sp.test
+scripts/dcsweep_temp.sp.test :: PASSED
+./bipartite1 scripts/gp_bjt_pnp2_hb.sp.test
+scripts/gp_bjt_pnp2_hb.sp.test :: PASSED
+./bipartite1 scripts/all_q4.sp.test
+scripts/all_q4.sp.test :: PASSED
+./bipartite1 scripts/ipul_tran_9.sp.test
+scripts/ipul_tran_9.sp.test :: PASSED
+./bipartite1 scripts/s_element_test_ph25_8x75_2v36ma_ac.sp.test
+scripts/s_element_test_ph25_8x75_2v36ma_ac.sp.test :: PASSED
+./bipartite1 scripts/ms_via_hole_hb_1.sp.test
+scripts/ms_via_hole_hb_1.sp.test :: PASSED
+./bipartite1 scripts/sl_via_pad_ref_lna_1.sp.test
+scripts/sl_via_pad_ref_lna_1.sp.test :: PASSED
+./bipartite1 scripts/local_43.sp.test
+scripts/local_43.sp.test :: PASSED
+./bipartite1 scripts/ms_step_lna_2.sp.test
+scripts/ms_step_lna_2.sp.test :: PASSED
+./bipartite1 scripts/local_47.sp.test
+scripts/local_47.sp.test :: PASSED
+./bipartite1 scripts/ms_radial_bend_tran_1.sp.test
+scripts/ms_radial_bend_tran_1.sp.test :: PASSED
+./bipartite1 scripts/test_output_dyclamp_ramp.sp.test
+scripts/test_output_dyclamp_ramp.sp.test :: PASSED
+./bipartite1 scripts/two-d-lattice.sp.test
+scripts/two-d-lattice.sp.test :: PASSED
+./bipartite1 scripts/ms_rect_inductor_lna_1.sp.test
+scripts/ms_rect_inductor_lna_1.sp.test :: PASSED
+./bipartite1 scripts/params_1.sp.test
+scripts/params_1.sp.test :: PASSED
+./bipartite1 scripts/param_caps_base_3.sp.test
+scripts/param_caps_base_3.sp.test :: PASSED
+./bipartite1 scripts/s_element_test_dirhi_2g_hb.sp.test
+scripts/s_element_test_dirhi_2g_hb.sp.test :: PASSED
+./bipartite1 scripts/small_2.sp.test
+scripts/small_2.sp.test :: PASSED
+./bipartite1 scripts/ipul_tran_5.sp.test
+scripts/ipul_tran_5.sp.test :: PASSED
+./bipartite1 scripts/param_temp_negativeres.sp.test
+scripts/param_temp_negativeres.sp.test :: PASSED
+./bipartite1 scripts/cap_f.sp.test
+scripts/cap_f.sp.test :: PASSED
+./bipartite1 scripts/osl_trl_physical_ref_tran_1.sp.test
+scripts/osl_trl_physical_ref_tran_1.sp.test :: PASSED
+./bipartite1 scripts/test_w_element_mr47891.sp.test
+scripts/test_w_element_mr47891.sp.test :: PASSED
+./bipartite1 scripts/vec_tunit.sp.test
+scripts/vec_tunit.sp.test :: PASSED
+./bipartite1 scripts/sl_trl_physical_ref_tran_1.sp.test
+scripts/sl_trl_physical_ref_tran_1.sp.test :: PASSED
+./bipartite1 scripts/bjt_mixer_dc.sp.test
+scripts/bjt_mixer_dc.sp.test :: PASSED
+./bipartite1 scripts/test_io_large.sp.test
+scripts/test_io_large.sp.test :: PASSED
+./bipartite1 scripts/test_input_diff_pin.sp.test
+scripts/test_input_diff_pin.sp.test :: [SINGULAR] 
+./bipartite1 scripts/Molex_lna.sp.test
+scripts/Molex_lna.sp.test :: PASSED
+./bipartite1 scripts/internet_cristal.sp.test
+scripts/internet_cristal.sp.test :: PASSED
+./bipartite1 scripts/parhier.sp.test
+scripts/parhier.sp.test :: PASSED
+./bipartite1 scripts/ipul_tran_1.sp.test
+scripts/ipul_tran_1.sp.test :: PASSED
+./bipartite1 scripts/ms_via_hole_ref_lna_1.sp.test
+scripts/ms_via_hole_ref_lna_1.sp.test :: PASSED
+./bipartite1 scripts/param_cratio_1_base.sp.test
+scripts/param_cratio_1_base.sp.test :: PASSED
+./bipartite1 scripts/s_element_test_spiral4000_lna.sp.test
+scripts/s_element_test_spiral4000_lna.sp.test :: PASSED
+./bipartite1 scripts/gcpw_trl_lna_example1.sp.test
+scripts/gcpw_trl_lna_example1.sp.test :: PASSED
+./bipartite1 scripts/cpw_mitered_bend_lna_example1.sp.test
+scripts/cpw_mitered_bend_lna_example1.sp.test :: PASSED
+./bipartite1 scripts/pitt_clap_osc_sweep.sp.test
+scripts/pitt_clap_osc_sweep.sp.test :: PASSED
+./bipartite1 scripts/subckt_positive.sp.test
+scripts/subckt_positive.sp.test :: PASSED
+./bipartite1 scripts/test_output_diff_pin.sp.test
+scripts/test_output_diff_pin.sp.test :: [SINGULAR] 
+./bipartite1 scripts/vrbs_3.sp.test
+scripts/vrbs_3.sp.test :: PASSED
+./bipartite1 scripts/ipwl_5.sp.test
+scripts/ipwl_5.sp.test :: PASSED
+./bipartite1 scripts/ms_trl_physical_ref_hb_2.sp.test
+scripts/ms_trl_physical_ref_hb_2.sp.test :: PASSED
+./bipartite1 scripts/local_60.sp.test
+scripts/local_60.sp.test :: PASSED
+./bipartite1 scripts/vrbs_7.sp.test
+scripts/vrbs_7.sp.test :: PASSED
+./bipartite1 scripts/switch.sp.test
+scripts/switch.sp.test :: PASSED
+./bipartite1 scripts/ipwl_1.sp.test
+scripts/ipwl_1.sp.test :: PASSED
+./bipartite1 scripts/vec_hexdata_sans_t.sp.test
+scripts/vec_hexdata_sans_t.sp.test :: PASSED
+./bipartite1 scripts/ms_via_pad_hb_2.sp.test
+scripts/ms_via_pad_hb_2.sp.test :: PASSED
+./bipartite1 scripts/resistor_temp_165.sp.test
+scripts/resistor_temp_165.sp.test :: PASSED
+./bipartite1 scripts/res_bulk_2.sp.test
+scripts/res_bulk_2.sp.test :: PASSED
+./bipartite1 scripts/print_wildcards_1.sp.test
+scripts/print_wildcards_1.sp.test :: PASSED
+./bipartite1 scripts/ipwl_9.sp.test
+scripts/ipwl_9.sp.test :: PASSED
+./bipartite1 scripts/dependent_vsource.sp.test
+scripts/dependent_vsource.sp.test :: PASSED
+./bipartite1 scripts/global_3.sp.test
+scripts/global_3.sp.test :: PASSED
+./bipartite1 scripts/sl_unmitered_bend_lna_2.sp.test
+scripts/sl_unmitered_bend_lna_2.sp.test :: PASSED
+./bipartite1 scripts/vec_vih_vil.sp.test
+scripts/vec_vih_vil.sp.test :: PASSED
+./bipartite1 scripts/ms_via_pad_lna_2.sp.test
+scripts/ms_via_pad_lna_2.sp.test :: PASSED
+./bipartite1 scripts/gp_bjt_pnps1_ac.sp.test
+scripts/gp_bjt_pnps1_ac.sp.test :: PASSED
+./bipartite1 scripts/63543.sp.test
+scripts/63543.sp.test :: PASSED
+./bipartite1 scripts/resistor_para_22.sp.test
+scripts/resistor_para_22.sp.test :: PASSED
+./bipartite1 scripts/s_element_test_transmission25.sp.test
+scripts/s_element_test_transmission25.sp.test :: PASSED
+./bipartite1 scripts/mr66334.sp.test
+scripts/mr66334.sp.test :: PASSED
+./bipartite1 scripts/sl_trl_physical_tran_2.sp.test
+scripts/sl_trl_physical_tran_2.sp.test :: PASSED
+./bipartite1 scripts/resistor_para_26.sp.test
+scripts/resistor_para_26.sp.test :: PASSED
+./bipartite1 scripts/ms_tfc_lna_2.sp.test
+scripts/ms_tfc_lna_2.sp.test :: PASSED
+./bipartite1 scripts/sl_taper_w_ref_lna_4.sp.test
+scripts/sl_taper_w_ref_lna_4.sp.test :: PASSED
+./bipartite1 scripts/ms_unmitered_bend_hb_1.sp.test
+scripts/ms_unmitered_bend_hb_1.sp.test :: PASSED
+./bipartite1 scripts/global_7.sp.test
+scripts/global_7.sp.test :: PASSED
+=================================
+TOTAL: 1250
+PASSED: 1238
+SINGULAR: 7
+MNA ISSUES:3
+MC64 INFO:2
+=================================

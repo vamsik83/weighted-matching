@@ -1,0 +1,120 @@
+#
+# Makefile template:
+# vamsi.krishnak@gmail.com ,  June 24,2006.
+#
+
+
+CC = g++
+LD = g++
+AR = ar
+
+
+SRCS = Bipartite.cpp \
+	   ReadSparse.c \
+	   MC64Driver.c \
+	   Heap.c
+
+LOCAL_LIBS += -lm -lordering
+			
+MC64_LIBPATH=/home/kundeti/work/ReorderMatrix/lib/
+			
+DEPEND_INCLUDE += -I/usr/include/linux -I/usr/local/include
+		
+AR_FLAGS += rc
+OBJS = $(SRCS:.c=.o)
+
+LOCAL_CFLAGS += -Wall #-mfpmath=sse
+
+ifeq ($(DEBUG),1)
+	LOCAL_CFLAGS += -g
+    LOCAL_CFLAGS += -DVERBOSE_DEBUG
+else
+	LOCAL_CFLAGS +=  -O3
+endif
+
+
+ifeq ($(RELEASE),1) 
+LOCAL_CFLAGS += -DNO_UNIT_TEST
+endif
+
+ifeq ($(NO_WARNINGS), 1)
+	LOCAL_CFLAGS += -Wall
+endif
+
+PROJECT_NAME = bipartite1
+
+unit_test_bipartite: $(OBJS)
+	@echo "........Linking..$(PROJECT_NAME) ......."	
+	$(CC) $(OBJS) -o $(PROJECT_NAME) -L$(MC64_LIBPATH) $(LOCAL_LIBS)
+
+create_mc64_perm : CreateMC64PermFile.c 
+	@echo ".........building MC64 Perm generator......."
+	$(CC) -o create_perm CreateMC64PermFile.c -L$(MC64_LIBPATH) $(LOCAL_LIBS)
+
+y.tab.c: sp.y sp.h
+	yacc -d sp.y
+
+lex.yy.c: in.l
+	lex in.l
+
+#Rules to build c files
+.c.o:
+	$(CC) $(CFLAGS) $(LOCAL_CFLAGS) $(LAPACK_INCLUDE) $(LOCAL_DEFINES) -c $<
+
+clean:
+	find . -name "*.o" -exec rm -rf \{\} \; -print
+	find . -name "y.tab.*" -exec rm -rf \{\} \; -print
+	find . -name "lex.yy.c" -exec rm -rf \{\} \; -print
+	find . -name "sape" -exec rm -rf \{\} \; -print
+	find . -name "*.so" -exec rm -rf \{\} \; -print
+
+
+depend: $(SRCS)
+	makedepend $(DEPEND_INCLUDE) $(LAPACK_INCLUDE) $(INCLUDES) $^
+# DO NOT DELETE
+
+Bipartite.o: /usr/include/stdlib.h /usr/include/features.h
+Bipartite.o: /usr/include/sys/cdefs.h /usr/include/gnu/stubs.h
+Bipartite.o: /usr/include/linux/stddef.h /usr/include/linux/string.h
+Bipartite.o: /usr/include/math.h /usr/include/bits/huge_val.h
+Bipartite.o: /usr/include/bits/mathdef.h /usr/include/bits/mathcalls.h
+Bipartite.o: /usr/include/assert.h Heap.h Bipartite.h /usr/include/stdio.h
+Bipartite.o: /usr/include/bits/types.h /usr/include/bits/wordsize.h
+Bipartite.o: /usr/include/bits/typesizes.h /usr/include/libio.h
+Bipartite.o: /usr/include/_G_config.h /usr/include/wchar.h
+Bipartite.o: /usr/include/bits/wchar.h /usr/include/gconv.h
+Bipartite.o: /usr/lib/gcc-lib/i386-redhat-linux/3.2.3/include/stdarg.h
+Bipartite.o: /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h
+ReadSparse.o: /usr/include/stdlib.h /usr/include/features.h
+ReadSparse.o: /usr/include/sys/cdefs.h /usr/include/gnu/stubs.h
+ReadSparse.o: /usr/include/linux/stddef.h /usr/include/stdio.h
+ReadSparse.o: /usr/include/bits/types.h /usr/include/bits/wordsize.h
+ReadSparse.o: /usr/include/bits/typesizes.h /usr/include/libio.h
+ReadSparse.o: /usr/include/_G_config.h /usr/include/wchar.h
+ReadSparse.o: /usr/include/bits/wchar.h /usr/include/gconv.h
+ReadSparse.o: /usr/lib/gcc-lib/i386-redhat-linux/3.2.3/include/stdarg.h
+ReadSparse.o: /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h
+ReadSparse.o: /usr/include/linux/string.h /usr/include/assert.h Bipartite.h
+MC64Driver.o: /usr/include/stdio.h /usr/include/features.h
+MC64Driver.o: /usr/include/sys/cdefs.h /usr/include/gnu/stubs.h
+MC64Driver.o: /usr/include/linux/stddef.h /usr/include/bits/types.h
+MC64Driver.o: /usr/include/bits/wordsize.h /usr/include/bits/typesizes.h
+MC64Driver.o: /usr/include/libio.h /usr/include/_G_config.h
+MC64Driver.o: /usr/include/wchar.h /usr/include/bits/wchar.h
+MC64Driver.o: /usr/include/gconv.h
+MC64Driver.o: /usr/lib/gcc-lib/i386-redhat-linux/3.2.3/include/stdarg.h
+MC64Driver.o: /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h
+MC64Driver.o: /usr/include/stdlib.h /usr/include/linux/string.h
+MC64Driver.o: /usr/include/assert.h mc64.h
+Heap.o: /usr/include/stdio.h /usr/include/features.h /usr/include/sys/cdefs.h
+Heap.o: /usr/include/gnu/stubs.h /usr/include/linux/stddef.h
+Heap.o: /usr/include/bits/types.h /usr/include/bits/wordsize.h
+Heap.o: /usr/include/bits/typesizes.h /usr/include/libio.h
+Heap.o: /usr/include/_G_config.h /usr/include/wchar.h
+Heap.o: /usr/include/bits/wchar.h /usr/include/gconv.h
+Heap.o: /usr/lib/gcc-lib/i386-redhat-linux/3.2.3/include/stdarg.h
+Heap.o: /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h
+Heap.o: /usr/include/stdlib.h /usr/include/math.h
+Heap.o: /usr/include/bits/huge_val.h /usr/include/bits/mathdef.h
+Heap.o: /usr/include/bits/mathcalls.h /usr/include/assert.h
+Heap.o: /usr/include/linux/string.h Heap.h

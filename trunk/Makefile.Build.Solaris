@@ -1,0 +1,80 @@
+#!/opt/csw/bin/perl
+#
+# A simple build script on solaris because  
+# the gnu make is not available.
+# June 23, 2008. [vkrishna@ansoft.com]
+
+if($#ARGV < 1){
+	die("Usage: ./Build.Solaris {64 | 32} {opt | debug}");
+}
+
+$CPP_COMPILER = "CC";
+$C_COMPILER = "cc";
+$LINKER = "CC";
+$LD_FLAGS = "-lm";
+
+$arch = $ARGV[0];
+$mode = $ARGV[1];
+@source_files = ("Heap.cpp","ReadSparse.cpp","MeasureTime.cpp");
+$CFLAGS;
+
+if($ENV{'USE_ZERO_INDEX'} == 1){
+	push(@source_files,"Bipartite2.cpp");
+}else{
+	push(@source_files,"Bipartite.cpp");
+}
+
+
+
+$PROJECT = "bipartite1"."-solaris".$arch;
+
+$CFLAGS = " -library=stlport4 ";   
+
+if($mode eq "debug"){
+	$CFLAGS = $CFLAGS."-g";
+}else{
+	$CFLAGS = $CFLAGS."-O";
+}
+
+if($arch eq "64"){
+	$CFLAGS = $CFLAGS." -xarch=v9 ";
+} 
+
+$CFLAGS = $CFLAGS." -DSOLARIS";
+
+print "Building with $CFLAGS \n";
+
+foreach $file (@source_files){
+	if($file =~ /\.cpp/){
+		print "$CPP_COMPILER $CFLAGS  $file -c\n";
+		$execute = system("$CPP_COMPILER $CFLAGS  $file -c");
+		print "$execute\n"; 
+	}else{
+		print "Ignoring $file\n";
+	}
+}
+
+#Now Link
+$link_str = "$LINKER -library=stlport4 -o $PROJECT ";
+if($arch eq "64"){
+	$link_str = $link_str."  -xarch=v9 ";
+}
+
+foreach $file (@source_files){
+	if($file =~ /(.*?)\.cpp/){
+		$obj = $1.".o";
+		$link_str = $link_str." $obj ";
+	}elsif($file =~ /(.*?\.)c/){
+		$obj = $1.".cpp.o";
+		$link_str = $link_str." $obj ";
+	}else{
+		print "Ignoring $file \n";
+	}
+}
+
+$link_str = $link_str." $LD_FLAGS";
+
+print "......LINKING......\n";
+print "$link_str\n";
+$execute = `$link_str`;
+print $execute;
