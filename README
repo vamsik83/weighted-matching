@@ -1,0 +1,17 @@
+This directory contains the implementation of a weighted matching algorithm.
+
+
+BUILDING:
+
+To build on a 64-bit machine run: "make -f Makefile PF=x84_64", to build on other platforms see the corresponding Makefiles. This should generate an 
+executable named "bipartite1-linux64". To build on MAC just use "make -f Makefile PF=x84_64" (make sure you have g++ and XCode installed).
+
+RUNNING:
+
+The program reads a sparse matrix representation of the weighted bipartite graph, the sparse matrix should be in a "Row Compressed Format". Now you 
+can run the program "./bipartite1-linux64 {sparse_matrix.txt}"
+
+Questions:
+
+Email: Vamsi Kundeti (vamsi.krishnak@gmail.com)
+
